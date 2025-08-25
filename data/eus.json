@@ -1,0 +1,4002 @@
+[
+  {
+    "eus": "bezala",
+    "eng": "as"
+  },
+  {
+    "eus": "I",
+    "eng": "I"
+  },
+  {
+    "eus": "bere",
+    "eng": "his"
+  },
+  {
+    "eus": "duten",
+    "eng": "that"
+  },
+  {
+    "eus": "zuen",
+    "eng": "he"
+  },
+  {
+    "eus": "izan zen",
+    "eng": "was"
+  },
+  {
+    "eus": "for",
+    "eng": "for"
+  },
+  {
+    "eus": "an",
+    "eng": "on"
+  },
+  {
+    "eus": "daude",
+    "eng": "are"
+  },
+  {
+    "eus": "Honekin",
+    "eng": "with"
+  },
+  {
+    "eus": "dute",
+    "eng": "they"
+  },
+  {
+    "eus": "izan",
+    "eng": "be"
+  },
+  {
+    "eus": "at",
+    "eng": "at"
+  },
+  {
+    "eus": "bat",
+    "eng": "one"
+  },
+  {
+    "eus": "dute",
+    "eng": "have"
+  },
+  {
+    "eus": "honetan",
+    "eng": "this"
+  },
+  {
+    "eus": "tik",
+    "eng": "from"
+  },
+  {
+    "eus": "arabera",
+    "eng": "by"
+  },
+  {
+    "eus": "hot",
+    "eng": "hot"
+  },
+  {
+    "eus": "hitza",
+    "eng": "word"
+  },
+  {
+    "eus": "baina",
+    "eng": "but"
+  },
+  {
+    "eus": "zer",
+    "eng": "what"
+  },
+  {
+    "eus": "batzuk",
+    "eng": "some"
+  },
+  {
+    "eus": "da",
+    "eng": "is"
+  },
+  {
+    "eus": "berau",
+    "eng": "it"
+  },
+  {
+    "eus": "you",
+    "eng": "you"
+  },
+  {
+    "eus": "edo",
+    "eng": "or"
+  },
+  {
+    "eus": "izan",
+    "eng": "had"
+  },
+  {
+    "eus": "du",
+    "eng": "the"
+  },
+  {
+    "eus": "of",
+    "eng": "of"
+  },
+  {
+    "eus": "arte",
+    "eng": "to"
+  },
+  {
+    "eus": "eta",
+    "eng": "and"
+  },
+  {
+    "eus": "a",
+    "eng": "a"
+  },
+  {
+    "eus": "in",
+    "eng": "in"
+  },
+  {
+    "eus": "dugu",
+    "eng": "we"
+  },
+  {
+    "eus": "ahal",
+    "eng": "can"
+  },
+  {
+    "eus": "out",
+    "eng": "out"
+  },
+  {
+    "eus": "beste",
+    "eng": "other"
+  },
+  {
+    "eus": "ziren",
+    "eng": "were"
+  },
+  {
+    "eus": "bertan",
+    "eng": "which"
+  },
+  {
+    "eus": "egin",
+    "eng": "do"
+  },
+  {
+    "eus": "beren",
+    "eng": "their"
+  },
+  {
+    "eus": "denbora",
+    "eng": "time"
+  },
+  {
+    "eus": "bada",
+    "eng": "if"
+  },
+  {
+    "eus": "izango",
+    "eng": "will"
+  },
+  {
+    "eus": "nola",
+    "eng": "how"
+  },
+  {
+    "eus": "esan",
+    "eng": "said"
+  },
+  {
+    "eus": "baten",
+    "eng": "an"
+  },
+  {
+    "eus": "bakoitzak",
+    "eng": "each"
+  },
+  {
+    "eus": "esango",
+    "eng": "tell"
+  },
+  {
+    "eus": "ez du",
+    "eng": "does"
+  },
+  {
+    "eus": "set",
+    "eng": "set"
+  },
+  {
+    "eus": "hiru",
+    "eng": "three"
+  },
+  {
+    "eus": "nahi",
+    "eng": "want"
+  },
+  {
+    "eus": "aire",
+    "eng": "air"
+  },
+  {
+    "eus": "ondo",
+    "eng": "well"
+  },
+  {
+    "eus": "halaber",
+    "eng": "also"
+  },
+  {
+    "eus": "jolastu",
+    "eng": "play"
+  },
+  {
+    "eus": "txiki",
+    "eng": "small"
+  },
+  {
+    "eus": "end",
+    "eng": "end"
+  },
+  {
+    "eus": "jarri",
+    "eng": "put"
+  },
+  {
+    "eus": "hasiera",
+    "eng": "home"
+  },
+  {
+    "eus": "irakurri",
+    "eng": "read"
+  },
+  {
+    "eus": "eskuko",
+    "eng": "hand"
+  },
+  {
+    "eus": "portuko",
+    "eng": "port"
+  },
+  {
+    "eus": "handi",
+    "eng": "large"
+  },
+  {
+    "eus": "ortografia",
+    "eng": "spell"
+  },
+  {
+    "eus": "gehitu",
+    "eng": "add"
+  },
+  {
+    "eus": "are",
+    "eng": "even"
+  },
+  {
+    "eus": "lurrak",
+    "eng": "land"
+  },
+  {
+    "eus": "hemen",
+    "eng": "here"
+  },
+  {
+    "eus": "muztioa",
+    "eng": "must"
+  },
+  {
+    "eus": "big",
+    "eng": "big"
+  },
+  {
+    "eus": "handiko",
+    "eng": "high"
+  },
+  {
+    "eus": "hala nola,",
+    "eng": "such"
+  },
+  {
+    "eus": "jarraitu",
+    "eng": "follow"
+  },
+  {
+    "eus": "ekintza",
+    "eng": "act"
+  },
+  {
+    "eus": "zergatik",
+    "eng": "why"
+  },
+  {
+    "eus": "eskatu",
+    "eng": "ask"
+  },
+  {
+    "eus": "gizonak",
+    "eng": "men"
+  },
+  {
+    "eus": "aldaketa",
+    "eng": "change"
+  },
+  {
+    "eus": "joan",
+    "eng": "went"
+  },
+  {
+    "eus": "argia",
+    "eng": "light"
+  },
+  {
+    "eus": "nolako",
+    "eng": "kind"
+  },
+  {
+    "eus": "off",
+    "eng": "off"
+  },
+  {
+    "eus": "behar",
+    "eng": "need"
+  },
+  {
+    "eus": "etxea",
+    "eng": "house"
+  },
+  {
+    "eus": "argazki",
+    "eng": "picture"
+  },
+  {
+    "eus": "saiatu",
+    "eng": "try"
+  },
+  {
+    "eus": "gurekin",
+    "eng": "us"
+  },
+  {
+    "eus": "berriro",
+    "eng": "again"
+  },
+  {
+    "eus": "animalia",
+    "eng": "animal"
+  },
+  {
+    "eus": "puntua",
+    "eng": "point"
+  },
+  {
+    "eus": "amak",
+    "eng": "mother"
+  },
+  {
+    "eus": "munduan",
+    "eng": "world"
+  },
+  {
+    "eus": "gertu",
+    "eng": "near"
+  },
+  {
+    "eus": "eraikitzeko",
+    "eng": "build"
+  },
+  {
+    "eus": "auto",
+    "eng": "self"
+  },
+  {
+    "eus": "lurra",
+    "eng": "earth"
+  },
+  {
+    "eus": "aita",
+    "eng": "father"
+  },
+  {
+    "eus": "edozein",
+    "eng": "any"
+  },
+  {
+    "eus": "berria",
+    "eng": "new"
+  },
+  {
+    "eus": "lana",
+    "eng": "work"
+  },
+  {
+    "eus": "part",
+    "eng": "part"
+  },
+  {
+    "eus": "hartu",
+    "eng": "take"
+  },
+  {
+    "eus": "lortu",
+    "eng": "get"
+  },
+  {
+    "eus": "leku",
+    "eng": "place"
+  },
+  {
+    "eus": "egin",
+    "eng": "made"
+  },
+  {
+    "eus": "bizi",
+    "eng": "live"
+  },
+  {
+    "eus": "non",
+    "eng": "where"
+  },
+  {
+    "eus": "ondoren",
+    "eng": "after"
+  },
+  {
+    "eus": "atzera",
+    "eng": "back"
+  },
+  {
+    "eus": "apur",
+    "eng": "little"
+  },
+  {
+    "eus": "bakarrik",
+    "eng": "only"
+  },
+  {
+    "eus": "txandan",
+    "eng": "round"
+  },
+  {
+    "eus": "man",
+    "eng": "man"
+  },
+  {
+    "eus": "urteko",
+    "eng": "year"
+  },
+  {
+    "eus": "dugunik",
+    "eng": "came"
+  },
+  {
+    "eus": "show",
+    "eng": "show"
+  },
+  {
+    "eus": "behin",
+    "eng": "every"
+  },
+  {
+    "eus": "ona",
+    "eng": "good"
+  },
+  {
+    "eus": "me",
+    "eng": "me"
+  },
+  {
+    "eus": "eman",
+    "eng": "give"
+  },
+  {
+    "eus": "gure",
+    "eng": "our"
+  },
+  {
+    "eus": "pean",
+    "eng": "under"
+  },
+  {
+    "eus": "izena",
+    "eng": "name"
+  },
+  {
+    "eus": "oso",
+    "eng": "very"
+  },
+  {
+    "eus": "bidez",
+    "eng": "through"
+  },
+  {
+    "eus": "besterik",
+    "eng": "just"
+  },
+  {
+    "eus": "formulario",
+    "eng": "form"
+  },
+  {
+    "eus": "Gogoratu",
+    "eng": "sentence"
+  },
+  {
+    "eus": "handia",
+    "eng": "great"
+  },
+  {
+    "eus": "uste",
+    "eng": "think"
+  },
+  {
+    "eus": "esan",
+    "eng": "say"
+  },
+  {
+    "eus": "lagun",
+    "eng": "help"
+  },
+  {
+    "eus": "txikia",
+    "eng": "low"
+  },
+  {
+    "eus": "line",
+    "eng": "line"
+  },
+  {
+    "eus": "datoz",
+    "eng": "differ"
+  },
+  {
+    "eus": "txanda",
+    "eng": "turn"
+  },
+  {
+    "eus": "kausa",
+    "eng": "cause"
+  },
+  {
+    "eus": "askoz",
+    "eng": "much"
+  },
+  {
+    "eus": "esan nahi",
+    "eng": "mean"
+  },
+  {
+    "eus": "aurretik",
+    "eng": "before"
+  },
+  {
+    "eus": "mugimendu",
+    "eng": "move"
+  },
+  {
+    "eus": "eskuineko",
+    "eng": "right"
+  },
+  {
+    "eus": "mutiko",
+    "eng": "boy"
+  },
+  {
+    "eus": "zaharra",
+    "eng": "old"
+  },
+  {
+    "eus": "too",
+    "eng": "too"
+  },
+  {
+    "eus": "bera",
+    "eng": "same"
+  },
+  {
+    "eus": "zuen",
+    "eng": "she"
+  },
+  {
+    "eus": "guztiak",
+    "eng": "all"
+  },
+  {
+    "eus": "ez",
+    "eng": "there"
+  },
+  {
+    "eus": "denean",
+    "eng": "when"
+  },
+  {
+    "eus": "sortu",
+    "eng": "up"
+  },
+  {
+    "eus": "erabilera",
+    "eng": "use"
+  },
+  {
+    "eus": "zure",
+    "eng": "your"
+  },
+  {
+    "eus": "era",
+    "eng": "way"
+  },
+  {
+    "eus": "buruz",
+    "eng": "about"
+  },
+  {
+    "eus": "asko",
+    "eng": "many"
+  },
+  {
+    "eus": "Orduz",
+    "eng": "then"
+  },
+  {
+    "eus": "horiek",
+    "eng": "them"
+  },
+  {
+    "eus": "idatzi",
+    "eng": "write"
+  },
+  {
+    "eus": "iba",
+    "eng": "would"
+  },
+  {
+    "eus": "bezala",
+    "eng": "like"
+  },
+  {
+    "eus": "beraz,",
+    "eng": "so"
+  },
+  {
+    "eus": "horiek",
+    "eng": "these"
+  },
+  {
+    "eus": "bere",
+    "eng": "her"
+  },
+  {
+    "eus": "luzea",
+    "eng": "long"
+  },
+  {
+    "eus": "egiteko",
+    "eng": "make"
+  },
+  {
+    "eus": "gauza",
+    "eng": "thing"
+  },
+  {
+    "eus": "ikusi",
+    "eng": "see"
+  },
+  {
+    "eus": "zion",
+    "eng": "him"
+  },
+  {
+    "eus": "bi",
+    "eng": "two"
+  },
+  {
+    "eus": "ditu",
+    "eng": "has"
+  },
+  {
+    "eus": "begiratu",
+    "eng": "look"
+  },
+  {
+    "eus": "gehiago",
+    "eng": "more"
+  },
+  {
+    "eus": "egun",
+    "eng": "day"
+  },
+  {
+    "eus": "Could",
+    "eng": "could"
+  },
+  {
+    "eus": "joan",
+    "eng": "go"
+  },
+  {
+    "eus": "zatoz",
+    "eng": "come"
+  },
+  {
+    "eus": "egin",
+    "eng": "did"
+  },
+  {
+    "eus": "zenbakia",
+    "eng": "number"
+  },
+  {
+    "eus": "soinua",
+    "eng": "sound"
+  },
+  {
+    "eus": "no",
+    "eng": "no"
+  },
+  {
+    "eus": "gehien",
+    "eng": "most"
+  },
+  {
+    "eus": "jende",
+    "eng": "people"
+  },
+  {
+    "eus": "nire",
+    "eng": "my"
+  },
+  {
+    "eus": "baino gehiago",
+    "eng": "over"
+  },
+  {
+    "eus": "jakingo",
+    "eng": "know"
+  },
+  {
+    "eus": "ura",
+    "eng": "water"
+  },
+  {
+    "eus": "baino",
+    "eng": "than"
+  },
+  {
+    "eus": "deia",
+    "eng": "call"
+  },
+  {
+    "eus": "lehenengoa",
+    "eng": "first"
+  },
+  {
+    "eus": "nor",
+    "eng": "who"
+  },
+  {
+    "eus": "may",
+    "eng": "may"
+  },
+  {
+    "eus": "behera",
+    "eng": "down"
+  },
+  {
+    "eus": "albo",
+    "eng": "side"
+  },
+  {
+    "eus": "izan",
+    "eng": "been"
+  },
+  {
+    "eus": "orain",
+    "eng": "now"
+  },
+  {
+    "eus": "aurkitu",
+    "eng": "find"
+  },
+  {
+    "eus": "burua",
+    "eng": "head"
+  },
+  {
+    "eus": "stand",
+    "eng": "stand"
+  },
+  {
+    "eus": "egin",
+    "eng": "own"
+  },
+  {
+    "eus": "orria",
+    "eng": "page"
+  },
+  {
+    "eus": "beharko lukete",
+    "eng": "should"
+  },
+  {
+    "eus": "country",
+    "eng": "country"
+  },
+  {
+    "eus": "aurkitu",
+    "eng": "found"
+  },
+  {
+    "eus": "erantzuna",
+    "eng": "answer"
+  },
+  {
+    "eus": "eskola",
+    "eng": "school"
+  },
+  {
+    "eus": "hazten",
+    "eng": "grow"
+  },
+  {
+    "eus": "azterketa",
+    "eng": "study"
+  },
+  {
+    "eus": "oraindik",
+    "eng": "still"
+  },
+  {
+    "eus": "ikasi",
+    "eng": "learn"
+  },
+  {
+    "eus": "landare",
+    "eng": "plant"
+  },
+  {
+    "eus": "cover",
+    "eng": "cover"
+  },
+  {
+    "eus": "janaria",
+    "eng": "food"
+  },
+  {
+    "eus": "eguzkia",
+    "eng": "sun"
+  },
+  {
+    "eus": "lau",
+    "eng": "four"
+  },
+  {
+    "eus": "arteko",
+    "eng": "between"
+  },
+  {
+    "eus": "egoera",
+    "eng": "state"
+  },
+  {
+    "eus": "mantentzeko",
+    "eng": "keep"
+  },
+  {
+    "eus": "begi",
+    "eng": "eye"
+  },
+  {
+    "eus": "inoiz ez",
+    "eng": "never"
+  },
+  {
+    "eus": "azken",
+    "eng": "last"
+  },
+  {
+    "eus": "utzi",
+    "eng": "let"
+  },
+  {
+    "eus": "pentsatu",
+    "eng": "thought"
+  },
+  {
+    "eus": "hiria",
+    "eng": "city"
+  },
+  {
+    "eus": "zuhaitz",
+    "eng": "tree"
+  },
+  {
+    "eus": "zeharkatuko",
+    "eng": "cross"
+  },
+  {
+    "eus": "baserriko",
+    "eng": "farm"
+  },
+  {
+    "eus": "gogor",
+    "eng": "hard"
+  },
+  {
+    "eus": "hasiera",
+    "eng": "start"
+  },
+  {
+    "eus": "agian",
+    "eng": "might"
+  },
+  {
+    "eus": "istorioa",
+    "eng": "story"
+  },
+  {
+    "eus": "saw",
+    "eng": "saw"
+  },
+  {
+    "eus": "urrun",
+    "eng": "far"
+  },
+  {
+    "eus": "sea",
+    "eng": "sea"
+  },
+  {
+    "eus": "marraztu",
+    "eng": "draw"
+  },
+  {
+    "eus": "utzi",
+    "eng": "left"
+  },
+  {
+    "eus": "berandu",
+    "eng": "late"
+  },
+  {
+    "eus": "run",
+    "eng": "run"
+  },
+  {
+    "eus": "ez",
+    "eng": "don’t"
+  },
+  {
+    "eus": "bitartean",
+    "eng": "while"
+  },
+  {
+    "eus": "prentsa",
+    "eng": "press"
+  },
+  {
+    "eus": "itxi",
+    "eng": "close"
+  },
+  {
+    "eus": "gauean",
+    "eng": "night"
+  },
+  {
+    "eus": "benetako",
+    "eng": "real"
+  },
+  {
+    "eus": "bizitza",
+    "eng": "life"
+  },
+  {
+    "eus": "gutxi",
+    "eng": "few"
+  },
+  {
+    "eus": "iparraldean",
+    "eng": "north"
+  },
+  {
+    "eus": "liburua",
+    "eng": "book"
+  },
+  {
+    "eus": "egiteko",
+    "eng": "carry"
+  },
+  {
+    "eus": "hartu",
+    "eng": "took"
+  },
+  {
+    "eus": "zientzia",
+    "eng": "science"
+  },
+  {
+    "eus": "jan",
+    "eng": "eat"
+  },
+  {
+    "eus": "gela",
+    "eng": "room"
+  },
+  {
+    "eus": "lagun",
+    "eng": "friend"
+  },
+  {
+    "eus": "hasi",
+    "eng": "began"
+  },
+  {
+    "eus": "ideia",
+    "eng": "idea"
+  },
+  {
+    "eus": "arrain",
+    "eng": "fish"
+  },
+  {
+    "eus": "mendia",
+    "eng": "mountain"
+  },
+  {
+    "eus": "gelditzeko",
+    "eng": "stop"
+  },
+  {
+    "eus": "behin",
+    "eng": "once"
+  },
+  {
+    "eus": "base",
+    "eng": "base"
+  },
+  {
+    "eus": "entzun",
+    "eng": "hear"
+  },
+  {
+    "eus": "zaldi",
+    "eng": "horse"
+  },
+  {
+    "eus": "ebaki",
+    "eng": "cut"
+  },
+  {
+    "eus": "Ziur",
+    "eng": "sure"
+  },
+  {
+    "eus": "ikusi",
+    "eng": "watch"
+  },
+  {
+    "eus": "kolorea",
+    "eng": "color"
+  },
+  {
+    "eus": "aurpegi",
+    "eng": "face"
+  },
+  {
+    "eus": "egurra",
+    "eng": "wood"
+  },
+  {
+    "eus": "nagusia",
+    "eng": "main"
+  },
+  {
+    "eus": "open",
+    "eng": "open"
+  },
+  {
+    "eus": "badirudi",
+    "eng": "seem"
+  },
+  {
+    "eus": "elkarrekin",
+    "eng": "together"
+  },
+  {
+    "eus": "hurrengo",
+    "eng": "next"
+  },
+  {
+    "eus": "zuri",
+    "eng": "white"
+  },
+  {
+    "eus": "haurrak",
+    "eng": "children"
+  },
+  {
+    "eus": "hasiko",
+    "eng": "begin"
+  },
+  {
+    "eus": "lortu",
+    "eng": "got"
+  },
+  {
+    "eus": "oinez",
+    "eng": "walk"
+  },
+  {
+    "eus": "Adibidez",
+    "eng": "example"
+  },
+  {
+    "eus": "erraztasuna",
+    "eng": "ease"
+  },
+  {
+    "eus": "paper",
+    "eng": "paper"
+  },
+  {
+    "eus": "taldea",
+    "eng": "group"
+  },
+  {
+    "eus": "beti",
+    "eng": "always"
+  },
+  {
+    "eus": "music",
+    "eng": "music"
+  },
+  {
+    "eus": "horiek",
+    "eng": "those"
+  },
+  {
+    "eus": "bai",
+    "eng": "both"
+  },
+  {
+    "eus": "marka",
+    "eng": "mark"
+  },
+  {
+    "eus": "askotan",
+    "eng": "often"
+  },
+  {
+    "eus": "gutuna",
+    "eng": "letter"
+  },
+  {
+    "eus": "arte",
+    "eng": "until"
+  },
+  {
+    "eus": "milia",
+    "eng": "mile"
+  },
+  {
+    "eus": "ibaiaren",
+    "eng": "river"
+  },
+  {
+    "eus": "autoa",
+    "eng": "car"
+  },
+  {
+    "eus": "oinak",
+    "eng": "feet"
+  },
+  {
+    "eus": "zainketa",
+    "eng": "care"
+  },
+  {
+    "eus": "bigarren",
+    "eng": "second"
+  },
+  {
+    "eus": "nahikoa",
+    "eng": "enough"
+  },
+  {
+    "eus": "arrunta",
+    "eng": "plain"
+  },
+  {
+    "eus": "neska",
+    "eng": "girl"
+  },
+  {
+    "eus": "ohikoa den",
+    "eng": "usual"
+  },
+  {
+    "eus": "gazte",
+    "eng": "young"
+  },
+  {
+    "eus": "prest",
+    "eng": "ready"
+  },
+  {
+    "eus": "Goiko",
+    "eng": "above"
+  },
+  {
+    "eus": "inoiz",
+    "eng": "ever"
+  },
+  {
+    "eus": "gorria",
+    "eng": "red"
+  },
+  {
+    "eus": "zerrenda",
+    "eng": "list"
+  },
+  {
+    "eus": "nahiz",
+    "eng": "though"
+  },
+  {
+    "eus": "sentitzen",
+    "eng": "feel"
+  },
+  {
+    "eus": "eztabaida",
+    "eng": "talk"
+  },
+  {
+    "eus": "txori",
+    "eng": "bird"
+  },
+  {
+    "eus": "laster",
+    "eng": "soon"
+  },
+  {
+    "eus": "gorputza",
+    "eng": "body"
+  },
+  {
+    "eus": "txakur",
+    "eng": "dog"
+  },
+  {
+    "eus": "familiari",
+    "eng": "family"
+  },
+  {
+    "eus": "zuzeneko",
+    "eng": "direct"
+  },
+  {
+    "eus": "pose",
+    "eng": "pose"
+  },
+  {
+    "eus": "utzi",
+    "eng": "leave"
+  },
+  {
+    "eus": "song",
+    "eng": "song"
+  },
+  {
+    "eus": "neurtzeko",
+    "eng": "measure"
+  },
+  {
+    "eus": "atea",
+    "eng": "door"
+  },
+  {
+    "eus": "produktua",
+    "eng": "product"
+  },
+  {
+    "eus": "beltza",
+    "eng": "black"
+  },
+  {
+    "eus": "laburra",
+    "eng": "short"
+  },
+  {
+    "eus": "numeral",
+    "eng": "numeral"
+  },
+  {
+    "eus": "class",
+    "eng": "class"
+  },
+  {
+    "eus": "haizea",
+    "eng": "wind"
+  },
+  {
+    "eus": "question",
+    "eng": "question"
+  },
+  {
+    "eus": "gertatuko",
+    "eng": "happen"
+  },
+  {
+    "eus": "osoa",
+    "eng": "complete"
+  },
+  {
+    "eus": "ontzia",
+    "eng": "ship"
+  },
+  {
+    "eus": "Zonalde",
+    "eng": "area"
+  },
+  {
+    "eus": "erdia",
+    "eng": "half"
+  },
+  {
+    "eus": "rock",
+    "eng": "rock"
+  },
+  {
+    "eus": "ordena",
+    "eng": "order"
+  },
+  {
+    "eus": "sua",
+    "eng": "fire"
+  },
+  {
+    "eus": "hegoaldean",
+    "eng": "south"
+  },
+  {
+    "eus": "arazoa",
+    "eng": "problem"
+  },
+  {
+    "eus": "pieza",
+    "eng": "piece"
+  },
+  {
+    "eus": "esan",
+    "eng": "told"
+  },
+  {
+    "eus": "bazekien",
+    "eng": "knew"
+  },
+  {
+    "eus": "gainditu",
+    "eng": "pass"
+  },
+  {
+    "eus": "geroztik",
+    "eng": "since"
+  },
+  {
+    "eus": "top",
+    "eng": "top"
+  },
+  {
+    "eus": "osoa",
+    "eng": "whole"
+  },
+  {
+    "eus": "king",
+    "eng": "king"
+  },
+  {
+    "eus": "kalean",
+    "eng": "street"
+  },
+  {
+    "eus": "hazbeteko",
+    "eng": "inch"
+  },
+  {
+    "eus": "biderkatu",
+    "eng": "multiply"
+  },
+  {
+    "eus": "nothing",
+    "eng": "nothing"
+  },
+  {
+    "eus": "ikastaroa",
+    "eng": "course"
+  },
+  {
+    "eus": "egonaldia",
+    "eng": "stay"
+  },
+  {
+    "eus": "gurpila",
+    "eng": "wheel"
+  },
+  {
+    "eus": "osoa",
+    "eng": "full"
+  },
+  {
+    "eus": "indarrean",
+    "eng": "force"
+  },
+  {
+    "eus": "blue",
+    "eng": "blue"
+  },
+  {
+    "eus": "objektu",
+    "eng": "object"
+  },
+  {
+    "eus": "erabakitzeko",
+    "eng": "decide"
+  },
+  {
+    "eus": "azalera",
+    "eng": "surface"
+  },
+  {
+    "eus": "sakona",
+    "eng": "deep"
+  },
+  {
+    "eus": "ilargia",
+    "eng": "moon"
+  },
+  {
+    "eus": "uharteko",
+    "eng": "island"
+  },
+  {
+    "eus": "oinez",
+    "eng": "foot"
+  },
+  {
+    "eus": "sistema",
+    "eng": "system"
+  },
+  {
+    "eus": "lanpetuta",
+    "eng": "busy"
+  },
+  {
+    "eus": "proba",
+    "eng": "test"
+  },
+  {
+    "eus": "record",
+    "eng": "record"
+  },
+  {
+    "eus": "txalupa",
+    "eng": "boat"
+  },
+  {
+    "eus": "ohikoa",
+    "eng": "common"
+  },
+  {
+    "eus": "urre",
+    "eng": "gold"
+  },
+  {
+    "eus": "posible",
+    "eng": "possible"
+  },
+  {
+    "eus": "hegazkina",
+    "eng": "plane"
+  },
+  {
+    "eus": "orde",
+    "eng": "stead"
+  },
+  {
+    "eus": "lehorra",
+    "eng": "dry"
+  },
+  {
+    "eus": "galdetzen",
+    "eng": "wonder"
+  },
+  {
+    "eus": "barre",
+    "eng": "laugh"
+  },
+  {
+    "eus": "mila",
+    "eng": "thousand"
+  },
+  {
+    "eus": "ago",
+    "eng": "ago"
+  },
+  {
+    "eus": "ran",
+    "eng": "ran"
+  },
+  {
+    "eus": "egiaztatu",
+    "eng": "check"
+  },
+  {
+    "eus": "Partida",
+    "eng": "game"
+  },
+  {
+    "eus": "forma",
+    "eng": "shape"
+  },
+  {
+    "eus": "equate",
+    "eng": "equate"
+  },
+  {
+    "eus": "hot",
+    "eng": "hot"
+  },
+  {
+    "eus": "miss",
+    "eng": "miss"
+  },
+  {
+    "eus": "ekarri",
+    "eng": "brought"
+  },
+  {
+    "eus": "bero",
+    "eng": "heat"
+  },
+  {
+    "eus": "elurra",
+    "eng": "snow"
+  },
+  {
+    "eus": "pneumatikoen",
+    "eng": "tire"
+  },
+  {
+    "eus": "ekarri",
+    "eng": "bring"
+  },
+  {
+    "eus": "bai",
+    "eng": "yes"
+  },
+  {
+    "eus": "urrutiko",
+    "eng": "distant"
+  },
+  {
+    "eus": "bete",
+    "eng": "fill"
+  },
+  {
+    "eus": "ekialdean",
+    "eng": "east"
+  },
+  {
+    "eus": "margotzeko",
+    "eng": "paint"
+  },
+  {
+    "eus": "hizkuntza",
+    "eng": "language"
+  },
+  {
+    "eus": "artean",
+    "eng": "among"
+  },
+  {
+    "eus": "unitatea",
+    "eng": "unit"
+  },
+  {
+    "eus": "power",
+    "eng": "power"
+  },
+  {
+    "eus": "herri",
+    "eng": "town"
+  },
+  {
+    "eus": "fina",
+    "eng": "fine"
+  },
+  {
+    "eus": "zenbait",
+    "eng": "certain"
+  },
+  {
+    "eus": "hegan",
+    "eng": "fly"
+  },
+  {
+    "eus": "erori",
+    "eng": "fall"
+  },
+  {
+    "eus": "ekar",
+    "eng": "lead"
+  },
+  {
+    "eus": "oihu",
+    "eng": "cry"
+  },
+  {
+    "eus": "dark",
+    "eng": "dark"
+  },
+  {
+    "eus": "makina",
+    "eng": "machine"
+  },
+  {
+    "eus": "ohar",
+    "eng": "note"
+  },
+  {
+    "eus": "itxaron",
+    "eng": "wait"
+  },
+  {
+    "eus": "plan",
+    "eng": "plan"
+  },
+  {
+    "eus": "zifra",
+    "eng": "figure"
+  },
+  {
+    "eus": "izarra",
+    "eng": "star"
+  },
+  {
+    "eus": "kutxa",
+    "eng": "box"
+  },
+  {
+    "eus": "noun",
+    "eng": "noun"
+  },
+  {
+    "eus": "eremu",
+    "eng": "field"
+  },
+  {
+    "eus": "gainerakoak",
+    "eng": "rest"
+  },
+  {
+    "eus": "zuzena",
+    "eng": "correct"
+  },
+  {
+    "eus": "gai",
+    "eng": "able"
+  },
+  {
+    "eus": "libra",
+    "eng": "pound"
+  },
+  {
+    "eus": "done",
+    "eng": "done"
+  },
+  {
+    "eus": "edertasuna",
+    "eng": "beauty"
+  },
+  {
+    "eus": "Pase",
+    "eng": "drive"
+  },
+  {
+    "eus": "koa",
+    "eng": "stood"
+  },
+  {
+    "eus": "eduki",
+    "eng": "contain"
+  },
+  {
+    "eus": "aurrean",
+    "eng": "front"
+  },
+  {
+    "eus": "irakasteko",
+    "eng": "teach"
+  },
+  {
+    "eus": "astea",
+    "eng": "week"
+  },
+  {
+    "eus": "final",
+    "eng": "final"
+  },
+  {
+    "eus": "eman",
+    "eng": "gave"
+  },
+  {
+    "eus": "berdea",
+    "eng": "green"
+  },
+  {
+    "eus": "oh",
+    "eng": "oh"
+  },
+  {
+    "eus": "azkarra",
+    "eng": "quick"
+  },
+  {
+    "eus": "garatzea",
+    "eng": "develop"
+  },
+  {
+    "eus": "ozeano",
+    "eng": "ocean"
+  },
+  {
+    "eus": "epela",
+    "eng": "warm"
+  },
+  {
+    "eus": "free",
+    "eng": "free"
+  },
+  {
+    "eus": "minutu",
+    "eng": "minute"
+  },
+  {
+    "eus": "indartsu",
+    "eng": "strong"
+  },
+  {
+    "eus": "bereziak",
+    "eng": "special"
+  },
+  {
+    "eus": "mind",
+    "eng": "mind"
+  },
+  {
+    "eus": "atzean",
+    "eng": "behind"
+  },
+  {
+    "eus": "argi",
+    "eng": "clear"
+  },
+  {
+    "eus": "buztana",
+    "eng": "tail"
+  },
+  {
+    "eus": "ekoizteko",
+    "eng": "produce"
+  },
+  {
+    "eus": "Izan",
+    "eng": "fact"
+  },
+  {
+    "eus": "espazioa",
+    "eng": "space"
+  },
+  {
+    "eus": "entzun",
+    "eng": "heard"
+  },
+  {
+    "eus": "onena",
+    "eng": "best"
+  },
+  {
+    "eus": "ordu",
+    "eng": "hour"
+  },
+  {
+    "eus": "hobeto",
+    "eng": "better"
+  },
+  {
+    "eus": "egia",
+    "eng": "true"
+  },
+  {
+    "eus": "zehar",
+    "eng": "during"
+  },
+  {
+    "eus": "ehun",
+    "eng": "hundred"
+  },
+  {
+    "eus": "bost",
+    "eng": "five"
+  },
+  {
+    "eus": "gogoratu",
+    "eng": "remember"
+  },
+  {
+    "eus": "urrats",
+    "eng": "step"
+  },
+  {
+    "eus": "hasieran",
+    "eng": "early"
+  },
+  {
+    "eus": "eutsi",
+    "eng": "hold"
+  },
+  {
+    "eus": "west",
+    "eng": "west"
+  },
+  {
+    "eus": "lurrean",
+    "eng": "ground"
+  },
+  {
+    "eus": "interes",
+    "eng": "interest"
+  },
+  {
+    "eus": "iristeko",
+    "eng": "reach"
+  },
+  {
+    "eus": "azkarra",
+    "eng": "fast"
+  },
+  {
+    "eus": "aditza",
+    "eng": "verb"
+  },
+  {
+    "eus": "abestu",
+    "eng": "sing"
+  },
+  {
+    "eus": "entzuteko",
+    "eng": "listen"
+  },
+  {
+    "eus": "sei",
+    "eng": "six"
+  },
+  {
+    "eus": "taula",
+    "eng": "table"
+  },
+  {
+    "eus": "bidaia",
+    "eng": "travel"
+  },
+  {
+    "eus": "gutxiago",
+    "eng": "less"
+  },
+  {
+    "eus": "goizean",
+    "eng": "morning"
+  },
+  {
+    "eus": "hamar",
+    "eng": "ten"
+  },
+  {
+    "eus": "sinple",
+    "eng": "simple"
+  },
+  {
+    "eus": "hainbat",
+    "eng": "several"
+  },
+  {
+    "eus": "bokal",
+    "eng": "vowel"
+  },
+  {
+    "eus": "aldera",
+    "eng": "toward"
+  },
+  {
+    "eus": "gerra",
+    "eng": "war"
+  },
+  {
+    "eus": "arautuko",
+    "eng": "lay"
+  },
+  {
+    "eus": "aurka",
+    "eng": "against"
+  },
+  {
+    "eus": "eredua",
+    "eng": "pattern"
+  },
+  {
+    "eus": "motela",
+    "eng": "slow"
+  },
+  {
+    "eus": "zentroa",
+    "eng": "center"
+  },
+  {
+    "eus": "maitasun",
+    "eng": "love"
+  },
+  {
+    "eus": "pertsona",
+    "eng": "person"
+  },
+  {
+    "eus": "dirua",
+    "eng": "money"
+  },
+  {
+    "eus": "balioko",
+    "eng": "serve"
+  },
+  {
+    "eus": "agertzen",
+    "eng": "appear"
+  },
+  {
+    "eus": "errepide",
+    "eng": "road"
+  },
+  {
+    "eus": "mapa",
+    "eng": "map"
+  },
+  {
+    "eus": "euri",
+    "eng": "rain"
+  },
+  {
+    "eus": "arau",
+    "eng": "rule"
+  },
+  {
+    "eus": "gobernatzeko",
+    "eng": "govern"
+  },
+  {
+    "eus": "tira",
+    "eng": "pull"
+  },
+  {
+    "eus": "hotza",
+    "eng": "cold"
+  },
+  {
+    "eus": "oharra",
+    "eng": "notice"
+  },
+  {
+    "eus": "ahotsa",
+    "eng": "voice"
+  },
+  {
+    "eus": "energia",
+    "eng": "energy"
+  },
+  {
+    "eus": "ehiza",
+    "eng": "hunt"
+  },
+  {
+    "eus": "probable",
+    "eng": "probable"
+  },
+  {
+    "eus": "ohean",
+    "eng": "bed"
+  },
+  {
+    "eus": "anaia",
+    "eng": "brother"
+  },
+  {
+    "eus": "arrautza",
+    "eng": "egg"
+  },
+  {
+    "eus": "ride",
+    "eng": "ride"
+  },
+  {
+    "eus": "zelula",
+    "eng": "cell"
+  },
+  {
+    "eus": "sinesten",
+    "eng": "believe"
+  },
+  {
+    "eus": "agian",
+    "eng": "perhaps"
+  },
+  {
+    "eus": "jaso",
+    "eng": "pick"
+  },
+  {
+    "eus": "Bat-batean",
+    "eng": "sudden"
+  },
+  {
+    "eus": "zenbatu",
+    "eng": "count"
+  },
+  {
+    "eus": "karratu",
+    "eng": "square"
+  },
+  {
+    "eus": "arrazoia",
+    "eng": "reason"
+  },
+  {
+    "eus": "luzera",
+    "eng": "length"
+  },
+  {
+    "eus": "adierazten",
+    "eng": "represent"
+  },
+  {
+    "eus": "art",
+    "eng": "art"
+  },
+  {
+    "eus": "gaia",
+    "eng": "subject"
+  },
+  {
+    "eus": "eskualdea",
+    "eng": "region"
+  },
+  {
+    "eus": "tamaina",
+    "eng": "size"
+  },
+  {
+    "eus": "aldatu egiten dira",
+    "eng": "vary"
+  },
+  {
+    "eus": "konformatu",
+    "eng": "settle"
+  },
+  {
+    "eus": "hitz egin",
+    "eng": "speak"
+  },
+  {
+    "eus": "pisu",
+    "eng": "weight"
+  },
+  {
+    "eus": "Oro",
+    "eng": "general"
+  },
+  {
+    "eus": "izotz",
+    "eng": "ice"
+  },
+  {
+    "eus": "Gaia",
+    "eng": "matter"
+  },
+  {
+    "eus": "zirkulua",
+    "eng": "circle"
+  },
+  {
+    "eus": "bikotea",
+    "eng": "pair"
+  },
+  {
+    "eus": "besteak beste,",
+    "eng": "include"
+  },
+  {
+    "eus": "arraila",
+    "eng": "divide"
+  },
+  {
+    "eus": "silaba",
+    "eng": "syllable"
+  },
+  {
+    "eus": "sentitu",
+    "eng": "felt"
+  },
+  {
+    "eus": "grand",
+    "eng": "grand"
+  },
+  {
+    "eus": "pilota",
+    "eng": "ball"
+  },
+  {
+    "eus": "oraindik",
+    "eng": "yet"
+  },
+  {
+    "eus": "uhin",
+    "eng": "wave"
+  },
+  {
+    "eus": "jaregin",
+    "eng": "drop"
+  },
+  {
+    "eus": "bihotza",
+    "eng": "heart"
+  },
+  {
+    "eus": "Ni",
+    "eng": "am"
+  },
+  {
+    "eus": "gaur",
+    "eng": "present"
+  },
+  {
+    "eus": "heavy",
+    "eng": "heavy"
+  },
+  {
+    "eus": "dantza",
+    "eng": "dance"
+  },
+  {
+    "eus": "motorra",
+    "eng": "engine"
+  },
+  {
+    "eus": "posizio",
+    "eng": "position"
+  },
+  {
+    "eus": "arm",
+    "eng": "arm"
+  },
+  {
+    "eus": "zabal",
+    "eng": "wide"
+  },
+  {
+    "eus": "sail",
+    "eng": "sail"
+  },
+  {
+    "eus": "materiala",
+    "eng": "material"
+  },
+  {
+    "eus": "Frakzio",
+    "eng": "fraction"
+  },
+  {
+    "eus": "basoa",
+    "eng": "forest"
+  },
+  {
+    "eus": "eseri",
+    "eng": "sit"
+  },
+  {
+    "eus": "lasterketa",
+    "eng": "race"
+  },
+  {
+    "eus": "leihoa",
+    "eng": "window"
+  },
+  {
+    "eus": "denda",
+    "eng": "store"
+  },
+  {
+    "eus": "udan",
+    "eng": "summer"
+  },
+  {
+    "eus": "trena",
+    "eng": "train"
+  },
+  {
+    "eus": "loa",
+    "eng": "sleep"
+  },
+  {
+    "eus": "frogatzeko",
+    "eng": "prove"
+  },
+  {
+    "eus": "bakarti",
+    "eng": "lone"
+  },
+  {
+    "eus": "hanka",
+    "eng": "leg"
+  },
+  {
+    "eus": "ariketa",
+    "eng": "exercise"
+  },
+  {
+    "eus": "horma",
+    "eng": "wall"
+  },
+  {
+    "eus": "catch",
+    "eng": "catch"
+  },
+  {
+    "eus": "mount",
+    "eng": "mount"
+  },
+  {
+    "eus": "Nahi",
+    "eng": "wish"
+  },
+  {
+    "eus": "zerua",
+    "eng": "sky"
+  },
+  {
+    "eus": "taula",
+    "eng": "board"
+  },
+  {
+    "eus": "poza",
+    "eng": "joy"
+  },
+  {
+    "eus": "negua",
+    "eng": "winter"
+  },
+  {
+    "eus": "sat",
+    "eng": "sat"
+  },
+  {
+    "eus": "idatzizko",
+    "eng": "written"
+  },
+  {
+    "eus": "basa",
+    "eng": "wild"
+  },
+  {
+    "eus": "instrumentua",
+    "eng": "instrument"
+  },
+  {
+    "eus": "mantendu",
+    "eng": "kept"
+  },
+  {
+    "eus": "beira",
+    "eng": "glass"
+  },
+  {
+    "eus": "belarra",
+    "eng": "grass"
+  },
+  {
+    "eus": "behi",
+    "eng": "cow"
+  },
+  {
+    "eus": "lana",
+    "eng": "job"
+  },
+  {
+    "eus": "ertza",
+    "eng": "edge"
+  },
+  {
+    "eus": "zeinu",
+    "eng": "sign"
+  },
+  {
+    "eus": "bisita",
+    "eng": "visit"
+  },
+  {
+    "eus": "iraganean",
+    "eng": "past"
+  },
+  {
+    "eus": "bigun",
+    "eng": "soft"
+  },
+  {
+    "eus": "fun",
+    "eng": "fun"
+  },
+  {
+    "eus": "distiratsua",
+    "eng": "bright"
+  },
+  {
+    "eus": "gas",
+    "eng": "gas"
+  },
+  {
+    "eus": "eguraldi",
+    "eng": "weather"
+  },
+  {
+    "eus": "Hileko",
+    "eng": "month"
+  },
+  {
+    "eus": "milioi",
+    "eng": "million"
+  },
+  {
+    "eus": "bear",
+    "eng": "bear"
+  },
+  {
+    "eus": "akabera",
+    "eng": "finish"
+  },
+  {
+    "eus": "zoriontsu",
+    "eng": "happy"
+  },
+  {
+    "eus": "espero",
+    "eng": "hope"
+  },
+  {
+    "eus": "lore",
+    "eng": "flower"
+  },
+  {
+    "eus": "clothe",
+    "eng": "clothe"
+  },
+  {
+    "eus": "arraro",
+    "eng": "strange"
+  },
+  {
+    "eus": "gone",
+    "eng": "gone"
+  },
+  {
+    "eus": "merkataritza",
+    "eng": "trade"
+  },
+  {
+    "eus": "melodia",
+    "eng": "melody"
+  },
+  {
+    "eus": "bidaia",
+    "eng": "trip"
+  },
+  {
+    "eus": "bulegoa",
+    "eng": "office"
+  },
+  {
+    "eus": "jasotzeko",
+    "eng": "receive"
+  },
+  {
+    "eus": "ilara",
+    "eng": "row"
+  },
+  {
+    "eus": "ahoa",
+    "eng": "mouth"
+  },
+  {
+    "eus": "zehatza",
+    "eng": "exact"
+  },
+  {
+    "eus": "sinbolo",
+    "eng": "symbol"
+  },
+  {
+    "eus": "hiltzen",
+    "eng": "die"
+  },
+  {
+    "eus": "gutxienez",
+    "eng": "least"
+  },
+  {
+    "eus": "arazoak",
+    "eng": "trouble"
+  },
+  {
+    "eus": "oihu",
+    "eng": "shout"
+  },
+  {
+    "eus": "salbu",
+    "eng": "except"
+  },
+  {
+    "eus": "idatzi",
+    "eng": "wrote"
+  },
+  {
+    "eus": "hazia",
+    "eng": "seed"
+  },
+  {
+    "eus": "tonua",
+    "eng": "tone"
+  },
+  {
+    "eus": "apunta",
+    "eng": "join"
+  },
+  {
+    "eus": "iradokitzen",
+    "eng": "suggest"
+  },
+  {
+    "eus": "garbi",
+    "eng": "clean"
+  },
+  {
+    "eus": "break",
+    "eng": "break"
+  },
+  {
+    "eus": "andre",
+    "eng": "lady"
+  },
+  {
+    "eus": "patiora",
+    "eng": "yard"
+  },
+  {
+    "eus": "igoko",
+    "eng": "rise"
+  },
+  {
+    "eus": "txarra",
+    "eng": "bad"
+  },
+  {
+    "eus": "kolpe",
+    "eng": "blow"
+  },
+  {
+    "eus": "olioa",
+    "eng": "oil"
+  },
+  {
+    "eus": "odol",
+    "eng": "blood"
+  },
+  {
+    "eus": "ukitu",
+    "eng": "touch"
+  },
+  {
+    "eus": "hazi",
+    "eng": "grew"
+  },
+  {
+    "eus": "cent",
+    "eng": "cent"
+  },
+  {
+    "eus": "nahastu",
+    "eng": "mix"
+  },
+  {
+    "eus": "taldeak",
+    "eng": "team"
+  },
+  {
+    "eus": "wire",
+    "eng": "wire"
+  },
+  {
+    "eus": "kostua",
+    "eng": "cost"
+  },
+  {
+    "eus": "galduta",
+    "eng": "lost"
+  },
+  {
+    "eus": "marroi",
+    "eng": "brown"
+  },
+  {
+    "eus": "higadura",
+    "eng": "wear"
+  },
+  {
+    "eus": "lorategia",
+    "eng": "garden"
+  },
+  {
+    "eus": "berdina",
+    "eng": "equal"
+  },
+  {
+    "eus": "bidali",
+    "eng": "sent"
+  },
+  {
+    "eus": "aukeratu",
+    "eng": "choose"
+  },
+  {
+    "eus": "jaitsi",
+    "eng": "fell"
+  },
+  {
+    "eus": "kabitzen",
+    "eng": "fit"
+  },
+  {
+    "eus": "osotasunean",
+    "eng": "flow"
+  },
+  {
+    "eus": "azoka",
+    "eng": "fair"
+  },
+  {
+    "eus": "bankua",
+    "eng": "bank"
+  },
+  {
+    "eus": "biltzeko",
+    "eng": "collect"
+  },
+  {
+    "eus": "gorde",
+    "eng": "save"
+  },
+  {
+    "eus": "kontrola",
+    "eng": "control"
+  },
+  {
+    "eus": "hamartarrekin",
+    "eng": "decimal"
+  },
+  {
+    "eus": "belarria",
+    "eng": "ear"
+  },
+  {
+    "eus": "else",
+    "eng": "else"
+  },
+  {
+    "eus": "nahiko",
+    "eng": "quite"
+  },
+  {
+    "eus": "hautsi",
+    "eng": "broke"
+  },
+  {
+    "eus": "Kasu",
+    "eng": "case"
+  },
+  {
+    "eus": "Erdialdetik",
+    "eng": "middle"
+  },
+  {
+    "eus": "hiltzeko",
+    "eng": "kill"
+  },
+  {
+    "eus": "semea",
+    "eng": "son"
+  },
+  {
+    "eus": "laku",
+    "eng": "lake"
+  },
+  {
+    "eus": "une",
+    "eng": "moment"
+  },
+  {
+    "eus": "eskala",
+    "eng": "scale"
+  },
+  {
+    "eus": "ozen",
+    "eng": "loud"
+  },
+  {
+    "eus": "udaberrian",
+    "eng": "spring"
+  },
+  {
+    "eus": "behatzen",
+    "eng": "observe"
+  },
+  {
+    "eus": "Umearen",
+    "eng": "child"
+  },
+  {
+    "eus": "zuzen",
+    "eng": "straight"
+  },
+  {
+    "eus": "kontsonante",
+    "eng": "consonant"
+  },
+  {
+    "eus": "nazioa",
+    "eng": "nation"
+  },
+  {
+    "eus": "hiztegia",
+    "eng": "dictionary"
+  },
+  {
+    "eus": "esnea",
+    "eng": "milk"
+  },
+  {
+    "eus": "abiadura",
+    "eng": "speed"
+  },
+  {
+    "eus": "metodo",
+    "eng": "method"
+  },
+  {
+    "eus": "organoaren",
+    "eng": "organ"
+  },
+  {
+    "eus": "ordaindu",
+    "eng": "pay"
+  },
+  {
+    "eus": "adina",
+    "eng": "age"
+  },
+  {
+    "eus": "atalean",
+    "eng": "section"
+  },
+  {
+    "eus": "soineko",
+    "eng": "dress"
+  },
+  {
+    "eus": "hodei",
+    "eng": "cloud"
+  },
+  {
+    "eus": "sorpresa",
+    "eng": "surprise"
+  },
+  {
+    "eus": "lasaiak",
+    "eng": "quiet"
+  },
+  {
+    "eus": "harria",
+    "eng": "stone"
+  },
+  {
+    "eus": "tiny",
+    "eng": "tiny"
+  },
+  {
+    "eus": "Igoera",
+    "eng": "climb"
+  },
+  {
+    "eus": "cool",
+    "eng": "cool"
+  },
+  {
+    "eus": "diseinua",
+    "eng": "design"
+  },
+  {
+    "eus": "pobrea",
+    "eng": "poor"
+  },
+  {
+    "eus": "asko",
+    "eng": "lot"
+  },
+  {
+    "eus": "esperimentua",
+    "eng": "experiment"
+  },
+  {
+    "eus": "behean",
+    "eng": "bottom"
+  },
+  {
+    "eus": "giltza",
+    "eng": "key"
+  },
+  {
+    "eus": "burdina",
+    "eng": "iron"
+  },
+  {
+    "eus": "bakar",
+    "eng": "single"
+  },
+  {
+    "eus": "makila",
+    "eng": "stick"
+  },
+  {
+    "eus": "laua",
+    "eng": "flat"
+  },
+  {
+    "eus": "hogei",
+    "eng": "twenty"
+  },
+  {
+    "eus": "azala",
+    "eng": "skin"
+  },
+  {
+    "eus": "irribarre",
+    "eng": "smile"
+  },
+  {
+    "eus": "crease",
+    "eng": "crease"
+  },
+  {
+    "eus": "zulo",
+    "eng": "hole"
+  },
+  {
+    "eus": "salto",
+    "eng": "jump"
+  },
+  {
+    "eus": "haurra",
+    "eng": "baby"
+  },
+  {
+    "eus": "zortzi",
+    "eng": "eight"
+  },
+  {
+    "eus": "herriko",
+    "eng": "village"
+  },
+  {
+    "eus": "bete",
+    "eng": "meet"
+  },
+  {
+    "eus": "erroa",
+    "eng": "root"
+  },
+  {
+    "eus": "erosi",
+    "eng": "buy"
+  },
+  {
+    "eus": "goratzen",
+    "eng": "raise"
+  },
+  {
+    "eus": "konpontzeko",
+    "eng": "solve"
+  },
+  {
+    "eus": "metal",
+    "eng": "metal"
+  },
+  {
+    "eus": "ala",
+    "eng": "whether"
+  },
+  {
+    "eus": "push",
+    "eng": "push"
+  },
+  {
+    "eus": "zazpi",
+    "eng": "seven"
+  },
+  {
+    "eus": "paragrafoan",
+    "eng": "paragraph"
+  },
+  {
+    "eus": "hirugarren",
+    "eng": "third"
+  },
+  {
+    "eus": "errejimena",
+    "eng": "shall"
+  },
+  {
+    "eus": "mantendutako",
+    "eng": "held"
+  },
+  {
+    "eus": "ilea",
+    "eng": "hair"
+  },
+  {
+    "eus": "deskribatuko",
+    "eng": "describe"
+  },
+  {
+    "eus": "sukaldari",
+    "eng": "cook"
+  },
+  {
+    "eus": "solairuan",
+    "eng": "floor"
+  },
+  {
+    "eus": "bai",
+    "eng": "either"
+  },
+  {
+    "eus": "emaitza",
+    "eng": "result"
+  },
+  {
+    "eus": "erre",
+    "eng": "burn"
+  },
+  {
+    "eus": "muino",
+    "eng": "hill"
+  },
+  {
+    "eus": "seguru",
+    "eng": "safe"
+  },
+  {
+    "eus": "katu",
+    "eng": "cat"
+  },
+  {
+    "eus": "mendean",
+    "eng": "century"
+  },
+  {
+    "eus": "kontuan hartu",
+    "eng": "consider"
+  },
+  {
+    "eus": "mota",
+    "eng": "type"
+  },
+  {
+    "eus": "legea",
+    "eng": "law"
+  },
+  {
+    "eus": "bit",
+    "eng": "bit"
+  },
+  {
+    "eus": "kostaldean",
+    "eng": "coast"
+  },
+  {
+    "eus": "kopia",
+    "eng": "copy"
+  },
+  {
+    "eus": "Esaldi",
+    "eng": "phrase"
+  },
+  {
+    "eus": "isila",
+    "eng": "silent"
+  },
+  {
+    "eus": "altu",
+    "eng": "tall"
+  },
+  {
+    "eus": "harea",
+    "eng": "sand"
+  },
+  {
+    "eus": "lurzoruaren",
+    "eng": "soil"
+  },
+  {
+    "eus": "roll",
+    "eng": "roll"
+  },
+  {
+    "eus": "tenperatura",
+    "eng": "temperature"
+  },
+  {
+    "eus": "hatz",
+    "eng": "finger"
+  },
+  {
+    "eus": "industria",
+    "eng": "industry"
+  },
+  {
+    "eus": "balio",
+    "eng": "value"
+  },
+  {
+    "eus": "borroka",
+    "eng": "fight"
+  },
+  {
+    "eus": "gezur",
+    "eng": "lie"
+  },
+  {
+    "eus": "beat",
+    "eng": "beat"
+  },
+  {
+    "eus": "urduritu",
+    "eng": "excite"
+  },
+  {
+    "eus": "natural",
+    "eng": "natural"
+  },
+  {
+    "eus": "ikuspegia",
+    "eng": "view"
+  },
+  {
+    "eus": "zentzu",
+    "eng": "sense"
+  },
+  {
+    "eus": "capital",
+    "eng": "capital"
+  },
+  {
+    "eus": "izango ez",
+    "eng": "won’t"
+  },
+  {
+    "eus": "aulkia",
+    "eng": "chair"
+  },
+  {
+    "eus": "arriskuan",
+    "eng": "danger"
+  },
+  {
+    "eus": "fruta",
+    "eng": "fruit"
+  },
+  {
+    "eus": "aberatsa",
+    "eng": "rich"
+  },
+  {
+    "eus": "lodi",
+    "eng": "thick"
+  },
+  {
+    "eus": "soldadu",
+    "eng": "soldier"
+  },
+  {
+    "eus": "prozesua",
+    "eng": "process"
+  },
+  {
+    "eus": "funtzionatzeko",
+    "eng": "operate"
+  },
+  {
+    "eus": "praktikan",
+    "eng": "practice"
+  },
+  {
+    "eus": "Aparteko",
+    "eng": "separate"
+  },
+  {
+    "eus": "zaila",
+    "eng": "difficult"
+  },
+  {
+    "eus": "doctor",
+    "eng": "doctor"
+  },
+  {
+    "eus": "mesedez",
+    "eng": "please"
+  },
+  {
+    "eus": "babesteko",
+    "eng": "protect"
+  },
+  {
+    "eus": "eguerdian",
+    "eng": "noon"
+  },
+  {
+    "eus": "laborantza",
+    "eng": "crop"
+  },
+  {
+    "eus": "modernoa",
+    "eng": "modern"
+  },
+  {
+    "eus": "elementu",
+    "eng": "element"
+  },
+  {
+    "eus": "hit",
+    "eng": "hit"
+  },
+  {
+    "eus": "ikaslearen",
+    "eng": "student"
+  },
+  {
+    "eus": "korner",
+    "eng": "corner"
+  },
+  {
+    "eus": "festa",
+    "eng": "party"
+  },
+  {
+    "eus": "hornikuntza",
+    "eng": "supply"
+  },
+  {
+    "eus": "zeinen",
+    "eng": "whose"
+  },
+  {
+    "eus": "kokatzeko",
+    "eng": "locate"
+  },
+  {
+    "eus": "ring",
+    "eng": "ring"
+  },
+  {
+    "eus": "pertsonaia",
+    "eng": "character"
+  },
+  {
+    "eus": "intsektuen",
+    "eng": "insect"
+  },
+  {
+    "eus": "harrapatu",
+    "eng": "caught"
+  },
+  {
+    "eus": "epea",
+    "eng": "period"
+  },
+  {
+    "eus": "adierazten",
+    "eng": "indicate"
+  },
+  {
+    "eus": "radio",
+    "eng": "radio"
+  },
+  {
+    "eus": "mintzatu",
+    "eng": "spoke"
+  },
+  {
+    "eus": "atomo",
+    "eng": "atom"
+  },
+  {
+    "eus": "giza",
+    "eng": "human"
+  },
+  {
+    "eus": "historia",
+    "eng": "history"
+  },
+  {
+    "eus": "efektu",
+    "eng": "effect"
+  },
+  {
+    "eus": "elektrikoa",
+    "eng": "electric"
+  },
+  {
+    "eus": "espero",
+    "eng": "expect"
+  },
+  {
+    "eus": "hezur",
+    "eng": "bone"
+  },
+  {
+    "eus": "trenbide",
+    "eng": "rail"
+  },
+  {
+    "eus": "imajinatu",
+    "eng": "imagine"
+  },
+  {
+    "eus": "ematen",
+    "eng": "provide"
+  },
+  {
+    "eus": "ados",
+    "eng": "agree"
+  },
+  {
+    "eus": "horrela",
+    "eng": "thus"
+  },
+  {
+    "eus": "leuna",
+    "eng": "gentle"
+  },
+  {
+    "eus": "emakumea",
+    "eng": "woman"
+  },
+  {
+    "eus": "Kapitainak",
+    "eng": "captain"
+  },
+  {
+    "eus": "asmatzen",
+    "eng": "guess"
+  },
+  {
+    "eus": "beharrezkoa",
+    "eng": "necessary"
+  },
+  {
+    "eus": "zorrotz",
+    "eng": "sharp"
+  },
+  {
+    "eus": "Ezenarro",
+    "eng": "wing"
+  },
+  {
+    "eus": "sortu",
+    "eng": "create"
+  },
+  {
+    "eus": "bizilaguna",
+    "eng": "neighbor"
+  },
+  {
+    "eus": "garbiketa",
+    "eng": "wash"
+  },
+  {
+    "eus": "Bat",
+    "eng": "bat"
+  },
+  {
+    "eus": "baizik",
+    "eng": "rather"
+  },
+  {
+    "eus": "Zaleak",
+    "eng": "crowd"
+  },
+  {
+    "eus": "arto",
+    "eng": "corn"
+  },
+  {
+    "eus": "alderatu",
+    "eng": "compare"
+  },
+  {
+    "eus": "poema",
+    "eng": "poem"
+  },
+  {
+    "eus": "katea",
+    "eng": "string"
+  },
+  {
+    "eus": "kanpai",
+    "eng": "bell"
+  },
+  {
+    "eus": "mendekoak",
+    "eng": "depend"
+  },
+  {
+    "eus": "haragi",
+    "eng": "meat"
+  },
+  {
+    "eus": "RUB",
+    "eng": "rub"
+  },
+  {
+    "eus": "hodi",
+    "eng": "tube"
+  },
+  {
+    "eus": "ospetsua",
+    "eng": "famous"
+  },
+  {
+    "eus": "dolarrak",
+    "eng": "dollar"
+  },
+  {
+    "eus": "erreka",
+    "eng": "stream"
+  },
+  {
+    "eus": "beldurra",
+    "eng": "fear"
+  },
+  {
+    "eus": "ikusmena",
+    "eng": "sight"
+  },
+  {
+    "eus": "mehe",
+    "eng": "thin"
+  },
+  {
+    "eus": "triangelu",
+    "eng": "triangle"
+  },
+  {
+    "eus": "planeta",
+    "eng": "planet"
+  },
+  {
+    "eus": "presarik",
+    "eng": "hurry"
+  },
+  {
+    "eus": "buruzagi",
+    "eng": "chief"
+  },
+  {
+    "eus": "kolonia",
+    "eng": "colony"
+  },
+  {
+    "eus": "erlojuaren",
+    "eng": "clock"
+  },
+  {
+    "eus": "mine",
+    "eng": "mine"
+  },
+  {
+    "eus": "Berdinketa",
+    "eng": "tie"
+  },
+  {
+    "eus": "idatzi",
+    "eng": "enter"
+  },
+  {
+    "eus": "nagusien",
+    "eng": "major"
+  },
+  {
+    "eus": "freskoa",
+    "eng": "fresh"
+  },
+  {
+    "eus": "bilaketa",
+    "eng": "search"
+  },
+  {
+    "eus": "bidali",
+    "eng": "send"
+  },
+  {
+    "eus": "horia",
+    "eng": "yellow"
+  },
+  {
+    "eus": "pistola",
+    "eng": "gun"
+  },
+  {
+    "eus": "baimendu",
+    "eng": "allow"
+  },
+  {
+    "eus": "inprimatu",
+    "eng": "print"
+  },
+  {
+    "eus": "hildako",
+    "eng": "dead"
+  },
+  {
+    "eus": "Leku",
+    "eng": "spot"
+  },
+  {
+    "eus": "basamortuko",
+    "eng": "desert"
+  },
+  {
+    "eus": "trajea",
+    "eng": "suit"
+  },
+  {
+    "eus": "egungo",
+    "eng": "current"
+  },
+  {
+    "eus": "igogailua",
+    "eng": "lift"
+  },
+  {
+    "eus": "igo",
+    "eng": "rose"
+  },
+  {
+    "eus": "iristen",
+    "eng": "arrive"
+  },
+  {
+    "eus": "master",
+    "eng": "master"
+  },
+  {
+    "eus": "pista",
+    "eng": "track"
+  },
+  {
+    "eus": "gurasoa",
+    "eng": "parent"
+  },
+  {
+    "eus": "shore",
+    "eng": "shore"
+  },
+  {
+    "eus": "zatiketa",
+    "eng": "division"
+  },
+  {
+    "eus": "fitxa",
+    "eng": "sheet"
+  },
+  {
+    "eus": "substantzia",
+    "eng": "substance"
+  },
+  {
+    "eus": "mesede",
+    "eng": "favor"
+  },
+  {
+    "eus": "konektatu",
+    "eng": "connect"
+  },
+  {
+    "eus": "post",
+    "eng": "post"
+  },
+  {
+    "eus": "pasatzeko",
+    "eng": "spend"
+  },
+  {
+    "eus": "akordeak",
+    "eng": "chord"
+  },
+  {
+    "eus": "gantz",
+    "eng": "fat"
+  },
+  {
+    "eus": "pozik",
+    "eng": "glad"
+  },
+  {
+    "eus": "original",
+    "eng": "original"
+  },
+  {
+    "eus": "share",
+    "eng": "share"
+  },
+  {
+    "eus": "geltokia",
+    "eng": "station"
+  },
+  {
+    "eus": "dad",
+    "eng": "dad"
+  },
+  {
+    "eus": "ogia",
+    "eng": "bread"
+  },
+  {
+    "eus": "kobratzen",
+    "eng": "charge"
+  },
+  {
+    "eus": "egokia",
+    "eng": "proper"
+  },
+  {
+    "eus": "bar",
+    "eng": "bar"
+  },
+  {
+    "eus": "eskaintza",
+    "eng": "offer"
+  },
+  {
+    "eus": "segmentu",
+    "eng": "segment"
+  },
+  {
+    "eus": "esklabu",
+    "eng": "slave"
+  },
+  {
+    "eus": "ahate",
+    "eng": "duck"
+  },
+  {
+    "eus": "instant",
+    "eng": "instant"
+  },
+  {
+    "eus": "merkatua",
+    "eng": "market"
+  },
+  {
+    "eus": "maila",
+    "eng": "degree"
+  },
+  {
+    "eus": "populatu",
+    "eng": "populate"
+  },
+  {
+    "eus": "Chick",
+    "eng": "chick"
+  },
+  {
+    "eus": "maitea",
+    "eng": "dear"
+  },
+  {
+    "eus": "etsaiaren",
+    "eng": "enemy"
+  },
+  {
+    "eus": "erantzun",
+    "eng": "reply"
+  },
+  {
+    "eus": "edari",
+    "eng": "drink"
+  },
+  {
+    "eus": "gerta",
+    "eng": "occur"
+  },
+  {
+    "eus": "laguntza",
+    "eng": "support"
+  },
+  {
+    "eus": "hitzaldian",
+    "eng": "speech"
+  },
+  {
+    "eus": "natura",
+    "eng": "nature"
+  },
+  {
+    "eus": "sorta",
+    "eng": "range"
+  },
+  {
+    "eus": "lurrun",
+    "eng": "steam"
+  },
+  {
+    "eus": "motion",
+    "eng": "motion"
+  },
+  {
+    "eus": "bidea",
+    "eng": "path"
+  },
+  {
+    "eus": "likidoa",
+    "eng": "liquid"
+  },
+  {
+    "eus": "saioa hasi",
+    "eng": "log"
+  },
+  {
+    "eus": "ekarri",
+    "eng": "meant"
+  },
+  {
+    "eus": "zatidura",
+    "eng": "quotient"
+  },
+  {
+    "eus": "hortzak",
+    "eng": "teeth"
+  },
+  {
+    "eus": "shell",
+    "eng": "shell"
+  },
+  {
+    "eus": "lepoan",
+    "eng": "neck"
+  },
+  {
+    "eus": "oxigeno",
+    "eng": "oxygen"
+  },
+  {
+    "eus": "azukre",
+    "eng": "sugar"
+  },
+  {
+    "eus": "heriotza",
+    "eng": "death"
+  },
+  {
+    "eus": "nahiko",
+    "eng": "pretty"
+  },
+  {
+    "eus": "skill",
+    "eng": "skill"
+  },
+  {
+    "eus": "emakumeak",
+    "eng": "women"
+  },
+  {
+    "eus": "denboraldian",
+    "eng": "season"
+  },
+  {
+    "eus": "irtenbide",
+    "eng": "solution"
+  },
+  {
+    "eus": "iman",
+    "eng": "magnet"
+  },
+  {
+    "eus": "zilar",
+    "eng": "silver"
+  },
+  {
+    "eus": "eskerrik",
+    "eng": "thank"
+  },
+  {
+    "eus": "adarra",
+    "eng": "branch"
+  },
+  {
+    "eus": "partidu",
+    "eng": "match"
+  },
+  {
+    "eus": "atzizkia",
+    "eng": "suffix"
+  },
+  {
+    "eus": "batez ere,",
+    "eng": "especially"
+  },
+  {
+    "eus": "piku",
+    "eng": "fig"
+  },
+  {
+    "eus": "beldur",
+    "eng": "afraid"
+  },
+  {
+    "eus": "handi",
+    "eng": "huge"
+  },
+  {
+    "eus": "arreba",
+    "eng": "sister"
+  },
+  {
+    "eus": "steel",
+    "eng": "steel"
+  },
+  {
+    "eus": "eztabaidatzeko",
+    "eng": "discuss"
+  },
+  {
+    "eus": "aurrera",
+    "eng": "forward"
+  },
+  {
+    "eus": "antzeko",
+    "eng": "similar"
+  },
+  {
+    "eus": "orientatzea",
+    "eng": "guide"
+  },
+  {
+    "eus": "Eskarmentu",
+    "eng": "experience"
+  },
+  {
+    "eus": "puntuazio",
+    "eng": "score"
+  },
+  {
+    "eus": "sagar",
+    "eng": "apple"
+  },
+  {
+    "eus": "erosi",
+    "eng": "bought"
+  },
+  {
+    "eus": "buru",
+    "eng": "led"
+  },
+  {
+    "eus": "zelaia",
+    "eng": "pitch"
+  },
+  {
+    "eus": "berokia",
+    "eng": "coat"
+  },
+  {
+    "eus": "masa",
+    "eng": "mass"
+  },
+  {
+    "eus": "txartel",
+    "eng": "card"
+  },
+  {
+    "eus": "band",
+    "eng": "band"
+  },
+  {
+    "eus": "soka",
+    "eng": "rope"
+  },
+  {
+    "eus": "lapsus",
+    "eng": "slip"
+  },
+  {
+    "eus": "irabazi",
+    "eng": "win"
+  },
+  {
+    "eus": "amets",
+    "eng": "dream"
+  },
+  {
+    "eus": "arratsaldean",
+    "eng": "evening"
+  },
+  {
+    "eus": "baldintza",
+    "eng": "condition"
+  },
+  {
+    "eus": "feed",
+    "eng": "feed"
+  },
+  {
+    "eus": "tresna",
+    "eng": "tool"
+  },
+  {
+    "eus": "guztira",
+    "eng": "total"
+  },
+  {
+    "eus": "oinarrizko",
+    "eng": "basic"
+  },
+  {
+    "eus": "usaina",
+    "eng": "smell"
+  },
+  {
+    "eus": "haran",
+    "eng": "valley"
+  },
+  {
+    "eus": "ezta",
+    "eng": "nor"
+  },
+  {
+    "eus": "bikoitza",
+    "eng": "double"
+  },
+  {
+    "eus": "eserlekua",
+    "eng": "seat"
+  },
+  {
+    "eus": "jarraitzeko",
+    "eng": "continue"
+  },
+  {
+    "eus": "bloke",
+    "eng": "block"
+  },
+  {
+    "eus": "taula",
+    "eng": "chart"
+  },
+  {
+    "eus": "hat",
+    "eng": "hat"
+  },
+  {
+    "eus": "saltzeko",
+    "eng": "sell"
+  },
+  {
+    "eus": "arrakasta",
+    "eng": "success"
+  },
+  {
+    "eus": "konpainia",
+    "eng": "company"
+  },
+  {
+    "eus": "kenketak",
+    "eng": "subtract"
+  },
+  {
+    "eus": "ekitaldia",
+    "eng": "event"
+  },
+  {
+    "eus": "bereziki",
+    "eng": "particular"
+  },
+  {
+    "eus": "akordio",
+    "eng": "deal"
+  },
+  {
+    "eus": "igeri",
+    "eng": "swim"
+  },
+  {
+    "eus": "epe",
+    "eng": "term"
+  },
+  {
+    "eus": "kontrakoa",
+    "eng": "opposite"
+  },
+  {
+    "eus": "emaztea",
+    "eng": "wife"
+  },
+  {
+    "eus": "zapatila",
+    "eng": "shoe"
+  },
+  {
+    "eus": "sorbaldaren",
+    "eng": "shoulder"
+  },
+  {
+    "eus": "hedapena",
+    "eng": "spread"
+  },
+  {
+    "eus": "antolatu",
+    "eng": "arrange"
+  },
+  {
+    "eus": "camp",
+    "eng": "camp"
+  },
+  {
+    "eus": "asmatuko",
+    "eng": "invent"
+  },
+  {
+    "eus": "kotoia",
+    "eng": "cotton"
+  },
+  {
+    "eus": "Born",
+    "eng": "born"
+  },
+  {
+    "eus": "zehazteko",
+    "eng": "determine"
+  },
+  {
+    "eus": "quart",
+    "eng": "quart"
+  },
+  {
+    "eus": "bederatzi",
+    "eng": "nine"
+  },
+  {
+    "eus": "kamioi",
+    "eng": "truck"
+  },
+  {
+    "eus": "zarata",
+    "eng": "noise"
+  },
+  {
+    "eus": "maila",
+    "eng": "level"
+  },
+  {
+    "eus": "aukera",
+    "eng": "chance"
+  },
+  {
+    "eus": "bildu",
+    "eng": "gather"
+  },
+  {
+    "eus": "denda",
+    "eng": "shop"
+  },
+  {
+    "eus": "tarte",
+    "eng": "stretch"
+  },
+  {
+    "eus": "bota",
+    "eng": "throw"
+  },
+  {
+    "eus": "distira",
+    "eng": "shine"
+  },
+  {
+    "eus": "jabetza",
+    "eng": "property"
+  },
+  {
+    "eus": "zutabe",
+    "eng": "column"
+  },
+  {
+    "eus": "molekula",
+    "eng": "molecule"
+  },
+  {
+    "eus": "hautatu",
+    "eng": "select"
+  },
+  {
+    "eus": "oker",
+    "eng": "wrong"
+  },
+  {
+    "eus": "grisa",
+    "eng": "gray"
+  },
+  {
+    "eus": "errepikatu",
+    "eng": "repeat"
+  },
+  {
+    "eus": "eskatzen",
+    "eng": "require"
+  },
+  {
+    "eus": "zabal",
+    "eng": "broad"
+  },
+  {
+    "eus": "prestatu",
+    "eng": "prepare"
+  },
+  {
+    "eus": "gatza",
+    "eng": "salt"
+  },
+  {
+    "eus": "sudurra",
+    "eng": "nose"
+  },
+  {
+    "eus": "plural",
+    "eng": "plural"
+  },
+  {
+    "eus": "haserrea",
+    "eng": "anger"
+  },
+  {
+    "eus": "erreklamazioa",
+    "eng": "claim"
+  },
+  {
+    "eus": "kontinenteko",
+    "eng": "continent"
+  }
+]
