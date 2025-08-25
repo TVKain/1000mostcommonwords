@@ -1,0 +1,3946 @@
+[
+  {
+    "cmn_Hans": "一",
+    "eng_Latn": "a"
+  },
+  {
+    "cmn_Hans": "人",
+    "eng_Latn": "people"
+  },
+  {
+    "cmn_Hans": "里",
+    "eng_Latn": "in"
+  },
+  {
+    "cmn_Hans": "会",
+    "eng_Latn": "can"
+  },
+  {
+    "cmn_Hans": "没",
+    "eng_Latn": "not"
+  },
+  {
+    "cmn_Hans": "她",
+    "eng_Latn": "she"
+  },
+  {
+    "cmn_Hans": "吗",
+    "eng_Latn": "do"
+  },
+  {
+    "cmn_Hans": "去",
+    "eng_Latn": "go"
+  },
+  {
+    "cmn_Hans": "也",
+    "eng_Latn": "also"
+  },
+  {
+    "cmn_Hans": "有",
+    "eng_Latn": "have"
+  },
+  {
+    "cmn_Hans": "这",
+    "eng_Latn": "this"
+  },
+  {
+    "cmn_Hans": "那",
+    "eng_Latn": "that"
+  },
+  {
+    "cmn_Hans": "不",
+    "eng_Latn": "not"
+  },
+  {
+    "cmn_Hans": "什",
+    "eng_Latn": "even"
+  },
+  {
+    "cmn_Hans": "个",
+    "eng_Latn": "a"
+  },
+  {
+    "cmn_Hans": "来",
+    "eng_Latn": "come"
+  },
+  {
+    "cmn_Hans": "要",
+    "eng_Latn": "wish"
+  },
+  {
+    "cmn_Hans": "就",
+    "eng_Latn": "on"
+  },
+  {
+    "cmn_Hans": "我",
+    "eng_Latn": "i"
+  },
+  {
+    "cmn_Hans": "你",
+    "eng_Latn": "you"
+  },
+  {
+    "cmn_Hans": "的",
+    "eng_Latn": "of"
+  },
+  {
+    "cmn_Hans": "是",
+    "eng_Latn": "be"
+  },
+  {
+    "cmn_Hans": "了",
+    "eng_Latn": "the"
+  },
+  {
+    "cmn_Hans": "他",
+    "eng_Latn": "he"
+  },
+  {
+    "cmn_Hans": "么",
+    "eng_Latn": "what"
+  },
+  {
+    "cmn_Hans": "们",
+    "eng_Latn": "they"
+  },
+  {
+    "cmn_Hans": "在",
+    "eng_Latn": "in"
+  },
+  {
+    "cmn_Hans": "说",
+    "eng_Latn": "say"
+  },
+  {
+    "cmn_Hans": "为",
+    "eng_Latn": "for"
+  },
+  {
+    "cmn_Hans": "好",
+    "eng_Latn": "good"
+  },
+  {
+    "cmn_Hans": "吧",
+    "eng_Latn": "it"
+  },
+  {
+    "cmn_Hans": "知道",
+    "eng_Latn": "know"
+  },
+  {
+    "cmn_Hans": "我的",
+    "eng_Latn": "my"
+  },
+  {
+    "cmn_Hans": "和",
+    "eng_Latn": "and"
+  },
+  {
+    "cmn_Hans": "你的",
+    "eng_Latn": "your"
+  },
+  {
+    "cmn_Hans": "想",
+    "eng_Latn": "want"
+  },
+  {
+    "cmn_Hans": "只",
+    "eng_Latn": "only"
+  },
+  {
+    "cmn_Hans": "很",
+    "eng_Latn": "very"
+  },
+  {
+    "cmn_Hans": "都",
+    "eng_Latn": "both"
+  },
+  {
+    "cmn_Hans": "对",
+    "eng_Latn": "to"
+  },
+  {
+    "cmn_Hans": "把",
+    "eng_Latn": "to"
+  },
+  {
+    "cmn_Hans": "啊",
+    "eng_Latn": "ah"
+  },
+  {
+    "cmn_Hans": "怎",
+    "eng_Latn": "how"
+  },
+  {
+    "cmn_Hans": "得",
+    "eng_Latn": "get"
+  },
+  {
+    "cmn_Hans": "还",
+    "eng_Latn": "also"
+  },
+  {
+    "cmn_Hans": "过",
+    "eng_Latn": "cross"
+  },
+  {
+    "cmn_Hans": "不是",
+    "eng_Latn": "no"
+  },
+  {
+    "cmn_Hans": "到",
+    "eng_Latn": "to"
+  },
+  {
+    "cmn_Hans": "样",
+    "eng_Latn": "sample"
+  },
+  {
+    "cmn_Hans": "飞",
+    "eng_Latn": "fly"
+  },
+  {
+    "cmn_Hans": "远",
+    "eng_Latn": "far"
+  },
+  {
+    "cmn_Hans": "身",
+    "eng_Latn": "body"
+  },
+  {
+    "cmn_Hans": "任何",
+    "eng_Latn": "any"
+  },
+  {
+    "cmn_Hans": "生活",
+    "eng_Latn": "life"
+  },
+  {
+    "cmn_Hans": "够",
+    "eng_Latn": "enough"
+  },
+  {
+    "cmn_Hans": "号",
+    "eng_Latn": "number"
+  },
+  {
+    "cmn_Hans": "兰",
+    "eng_Latn": "orchid"
+  },
+  {
+    "cmn_Hans": "瑞",
+    "eng_Latn": "swiss"
+  },
+  {
+    "cmn_Hans": "达",
+    "eng_Latn": "reach"
+  },
+  {
+    "cmn_Hans": "或",
+    "eng_Latn": "or"
+  },
+  {
+    "cmn_Hans": "愿",
+    "eng_Latn": "willing"
+  },
+  {
+    "cmn_Hans": "蒂",
+    "eng_Latn": "stem"
+  },
+  {
+    "cmn_Hans": "別",
+    "eng_Latn": "do not"
+  },
+  {
+    "cmn_Hans": "军",
+    "eng_Latn": "military"
+  },
+  {
+    "cmn_Hans": "正",
+    "eng_Latn": "positive"
+  },
+  {
+    "cmn_Hans": "是不是",
+    "eng_Latn": "is not"
+  },
+  {
+    "cmn_Hans": "证",
+    "eng_Latn": "certificate"
+  },
+  {
+    "cmn_Hans": "不用",
+    "eng_Latn": "need not"
+  },
+  {
+    "cmn_Hans": "三",
+    "eng_Latn": "three"
+  },
+  {
+    "cmn_Hans": "乐",
+    "eng_Latn": "music"
+  },
+  {
+    "cmn_Hans": "吉",
+    "eng_Latn": "lucky"
+  },
+  {
+    "cmn_Hans": "男人",
+    "eng_Latn": "man"
+  },
+  {
+    "cmn_Hans": "告訴",
+    "eng_Latn": "tell"
+  },
+  {
+    "cmn_Hans": "路",
+    "eng_Latn": "road"
+  },
+  {
+    "cmn_Hans": "搞",
+    "eng_Latn": "do"
+  },
+  {
+    "cmn_Hans": "可是",
+    "eng_Latn": "but"
+  },
+  {
+    "cmn_Hans": "与",
+    "eng_Latn": "and"
+  },
+  {
+    "cmn_Hans": "次",
+    "eng_Latn": "secondary"
+  },
+  {
+    "cmn_Hans": "狗",
+    "eng_Latn": "dog"
+  },
+  {
+    "cmn_Hans": "决",
+    "eng_Latn": "decide"
+  },
+  {
+    "cmn_Hans": "金",
+    "eng_Latn": "gold"
+  },
+  {
+    "cmn_Hans": "史",
+    "eng_Latn": "history"
+  },
+  {
+    "cmn_Hans": "姆",
+    "eng_Latn": "governess"
+  },
+  {
+    "cmn_Hans": "部",
+    "eng_Latn": "department"
+  },
+  {
+    "cmn_Hans": "正在",
+    "eng_Latn": "are"
+  },
+  {
+    "cmn_Hans": "活",
+    "eng_Latn": "live"
+  },
+  {
+    "cmn_Hans": "刚",
+    "eng_Latn": "just"
+  },
+  {
+    "cmn_Hans": "回家",
+    "eng_Latn": "return home"
+  },
+  {
+    "cmn_Hans": "贝",
+    "eng_Latn": "shellfish"
+  },
+  {
+    "cmn_Hans": "如何",
+    "eng_Latn": "how"
+  },
+  {
+    "cmn_Hans": "须",
+    "eng_Latn": "must"
+  },
+  {
+    "cmn_Hans": "战",
+    "eng_Latn": "war"
+  },
+  {
+    "cmn_Hans": "不會",
+    "eng_Latn": "will not"
+  },
+  {
+    "cmn_Hans": "夫",
+    "eng_Latn": "husband"
+  },
+  {
+    "cmn_Hans": "喂",
+    "eng_Latn": "feed"
+  },
+  {
+    "cmn_Hans": "父",
+    "eng_Latn": "father"
+  },
+  {
+    "cmn_Hans": "亚",
+    "eng_Latn": "inferior"
+  },
+  {
+    "cmn_Hans": "肯定",
+    "eng_Latn": "sure"
+  },
+  {
+    "cmn_Hans": "女孩",
+    "eng_Latn": "girl"
+  },
+  {
+    "cmn_Hans": "世界",
+    "eng_Latn": "world"
+  },
+  {
+    "cmn_Hans": "不要",
+    "eng_Latn": "must not"
+  },
+  {
+    "cmn_Hans": "些",
+    "eng_Latn": "some"
+  },
+  {
+    "cmn_Hans": "不知道",
+    "eng_Latn": "do not know"
+  },
+  {
+    "cmn_Hans": "不能",
+    "eng_Latn": "can not"
+  },
+  {
+    "cmn_Hans": "因",
+    "eng_Latn": "because"
+  },
+  {
+    "cmn_Hans": "觉",
+    "eng_Latn": "feel"
+  },
+  {
+    "cmn_Hans": "发",
+    "eng_Latn": "hair"
+  },
+  {
+    "cmn_Hans": "像",
+    "eng_Latn": "image"
+  },
+  {
+    "cmn_Hans": "太",
+    "eng_Latn": "too"
+  },
+  {
+    "cmn_Hans": "但是",
+    "eng_Latn": "but"
+  },
+  {
+    "cmn_Hans": "多",
+    "eng_Latn": "multi-"
+  },
+  {
+    "cmn_Hans": "打",
+    "eng_Latn": "fight"
+  },
+  {
+    "cmn_Hans": "机",
+    "eng_Latn": "machine"
+  },
+  {
+    "cmn_Hans": "來",
+    "eng_Latn": "come"
+  },
+  {
+    "cmn_Hans": "好了",
+    "eng_Latn": "well"
+  },
+  {
+    "cmn_Hans": "用",
+    "eng_Latn": "use"
+  },
+  {
+    "cmn_Hans": "他的",
+    "eng_Latn": "his"
+  },
+  {
+    "cmn_Hans": "诉",
+    "eng_Latn": "appeal"
+  },
+  {
+    "cmn_Hans": "德",
+    "eng_Latn": "moral"
+  },
+  {
+    "cmn_Hans": "叫",
+    "eng_Latn": "call"
+  },
+  {
+    "cmn_Hans": "什麼",
+    "eng_Latn": "what"
+  },
+  {
+    "cmn_Hans": "真",
+    "eng_Latn": "sant"
+  },
+  {
+    "cmn_Hans": "干",
+    "eng_Latn": "dry"
+  },
+  {
+    "cmn_Hans": "心",
+    "eng_Latn": "heart"
+  },
+  {
+    "cmn_Hans": "走",
+    "eng_Latn": "go"
+  },
+  {
+    "cmn_Hans": "比",
+    "eng_Latn": "ratio"
+  },
+  {
+    "cmn_Hans": "死",
+    "eng_Latn": "dead"
+  },
+  {
+    "cmn_Hans": "嘿",
+    "eng_Latn": "hey"
+  },
+  {
+    "cmn_Hans": "出",
+    "eng_Latn": "out"
+  },
+  {
+    "cmn_Hans": "车",
+    "eng_Latn": "car"
+  },
+  {
+    "cmn_Hans": "一下",
+    "eng_Latn": "about"
+  },
+  {
+    "cmn_Hans": "中",
+    "eng_Latn": "in"
+  },
+  {
+    "cmn_Hans": "好吧",
+    "eng_Latn": "well"
+  },
+  {
+    "cmn_Hans": "需要",
+    "eng_Latn": "need"
+  },
+  {
+    "cmn_Hans": "经",
+    "eng_Latn": "after"
+  },
+  {
+    "cmn_Hans": "妈",
+    "eng_Latn": "mom"
+  },
+  {
+    "cmn_Hans": "候",
+    "eng_Latn": "wait"
+  },
+  {
+    "cmn_Hans": "长",
+    "eng_Latn": "long"
+  },
+  {
+    "cmn_Hans": "而",
+    "eng_Latn": "and"
+  },
+  {
+    "cmn_Hans": "错",
+    "eng_Latn": "wrong"
+  },
+  {
+    "cmn_Hans": "好的",
+    "eng_Latn": "good"
+  },
+  {
+    "cmn_Hans": "间",
+    "eng_Latn": "between"
+  },
+  {
+    "cmn_Hans": "又",
+    "eng_Latn": "and"
+  },
+  {
+    "cmn_Hans": "国",
+    "eng_Latn": "country"
+  },
+  {
+    "cmn_Hans": "起",
+    "eng_Latn": "start"
+  },
+  {
+    "cmn_Hans": "动",
+    "eng_Latn": "move"
+  },
+  {
+    "cmn_Hans": "杀",
+    "eng_Latn": "kill"
+  },
+  {
+    "cmn_Hans": "于",
+    "eng_Latn": "at"
+  },
+  {
+    "cmn_Hans": "种",
+    "eng_Latn": "seed"
+  },
+  {
+    "cmn_Hans": "去了",
+    "eng_Latn": "go"
+  },
+  {
+    "cmn_Hans": "担",
+    "eng_Latn": "dan"
+  },
+  {
+    "cmn_Hans": "名",
+    "eng_Latn": "name"
+  },
+  {
+    "cmn_Hans": "混蛋",
+    "eng_Latn": "asshole"
+  },
+  {
+    "cmn_Hans": "礼",
+    "eng_Latn": "ceremony"
+  },
+  {
+    "cmn_Hans": "幹",
+    "eng_Latn": "dry"
+  },
+  {
+    "cmn_Hans": "不了",
+    "eng_Latn": "not"
+  },
+  {
+    "cmn_Hans": "有些",
+    "eng_Latn": "some"
+  },
+  {
+    "cmn_Hans": "過",
+    "eng_Latn": "cross"
+  },
+  {
+    "cmn_Hans": "後",
+    "eng_Latn": "after"
+  },
+  {
+    "cmn_Hans": "击",
+    "eng_Latn": "strike"
+  },
+  {
+    "cmn_Hans": "漂亮",
+    "eng_Latn": "beautiful"
+  },
+  {
+    "cmn_Hans": "神",
+    "eng_Latn": "god"
+  },
+  {
+    "cmn_Hans": "多少",
+    "eng_Latn": "how much"
+  },
+  {
+    "cmn_Hans": "海",
+    "eng_Latn": "sea"
+  },
+  {
+    "cmn_Hans": "每",
+    "eng_Latn": "each"
+  },
+  {
+    "cmn_Hans": "哥",
+    "eng_Latn": "brother"
+  },
+  {
+    "cmn_Hans": "教",
+    "eng_Latn": "teach"
+  },
+  {
+    "cmn_Hans": "走吧",
+    "eng_Latn": "go"
+  },
+  {
+    "cmn_Hans": "好像",
+    "eng_Latn": "like"
+  },
+  {
+    "cmn_Hans": "单",
+    "eng_Latn": "single"
+  },
+  {
+    "cmn_Hans": "公",
+    "eng_Latn": "public"
+  },
+  {
+    "cmn_Hans": "林",
+    "eng_Latn": "forest"
+  },
+  {
+    "cmn_Hans": "女",
+    "eng_Latn": "female"
+  },
+  {
+    "cmn_Hans": "忙",
+    "eng_Latn": "busy"
+  },
+  {
+    "cmn_Hans": "火",
+    "eng_Latn": "fire"
+  },
+  {
+    "cmn_Hans": "钟",
+    "eng_Latn": "bell"
+  },
+  {
+    "cmn_Hans": "家伙",
+    "eng_Latn": "guy"
+  },
+  {
+    "cmn_Hans": "科",
+    "eng_Latn": "branch"
+  },
+  {
+    "cmn_Hans": "回去",
+    "eng_Latn": "go back"
+  },
+  {
+    "cmn_Hans": "最后",
+    "eng_Latn": "last"
+  },
+  {
+    "cmn_Hans": "水",
+    "eng_Latn": "water"
+  },
+  {
+    "cmn_Hans": "不管",
+    "eng_Latn": "regardless of"
+  },
+  {
+    "cmn_Hans": "麦",
+    "eng_Latn": "wheat"
+  },
+  {
+    "cmn_Hans": "泻",
+    "eng_Latn": "diarrhea"
+  },
+  {
+    "cmn_Hans": "鬼",
+    "eng_Latn": "ghost"
+  },
+  {
+    "cmn_Hans": "還",
+    "eng_Latn": "also"
+  },
+  {
+    "cmn_Hans": "船",
+    "eng_Latn": "ship"
+  },
+  {
+    "cmn_Hans": "永",
+    "eng_Latn": "forever"
+  },
+  {
+    "cmn_Hans": "安全",
+    "eng_Latn": "security"
+  },
+  {
+    "cmn_Hans": "那個",
+    "eng_Latn": "that"
+  },
+  {
+    "cmn_Hans": "爾",
+    "eng_Latn": "seoul"
+  },
+  {
+    "cmn_Hans": "這麼",
+    "eng_Latn": "so"
+  },
+  {
+    "cmn_Hans": "满",
+    "eng_Latn": "full"
+  },
+  {
+    "cmn_Hans": "风",
+    "eng_Latn": "wind"
+  },
+  {
+    "cmn_Hans": "皮",
+    "eng_Latn": "skin"
+  },
+  {
+    "cmn_Hans": "威",
+    "eng_Latn": "prestige"
+  },
+  {
+    "cmn_Hans": "据",
+    "eng_Latn": "according to"
+  },
+  {
+    "cmn_Hans": "鲁",
+    "eng_Latn": "lu"
+  },
+  {
+    "cmn_Hans": "转",
+    "eng_Latn": "turn"
+  },
+  {
+    "cmn_Hans": "相",
+    "eng_Latn": "phase"
+  },
+  {
+    "cmn_Hans": "地方",
+    "eng_Latn": "local"
+  },
+  {
+    "cmn_Hans": "沒有",
+    "eng_Latn": "no"
+  },
+  {
+    "cmn_Hans": "有人",
+    "eng_Latn": "some"
+  },
+  {
+    "cmn_Hans": "嗨",
+    "eng_Latn": "hi"
+  },
+  {
+    "cmn_Hans": "看看",
+    "eng_Latn": "look"
+  },
+  {
+    "cmn_Hans": "自己",
+    "eng_Latn": "oneself"
+  },
+  {
+    "cmn_Hans": "一定",
+    "eng_Latn": "certainly"
+  },
+  {
+    "cmn_Hans": "事情",
+    "eng_Latn": "thing"
+  },
+  {
+    "cmn_Hans": "屑",
+    "eng_Latn": "scrap"
+  },
+  {
+    "cmn_Hans": "希望",
+    "eng_Latn": "hope"
+  },
+  {
+    "cmn_Hans": "所",
+    "eng_Latn": "the"
+  },
+  {
+    "cmn_Hans": "褉",
+    "eng_Latn": "aspx."
+  },
+  {
+    "cmn_Hans": "感",
+    "eng_Latn": "sense"
+  },
+  {
+    "cmn_Hans": "气",
+    "eng_Latn": "gas"
+  },
+  {
+    "cmn_Hans": "不想",
+    "eng_Latn": "do not want to"
+  },
+  {
+    "cmn_Hans": "嘛",
+    "eng_Latn": "well"
+  },
+  {
+    "cmn_Hans": "实",
+    "eng_Latn": "real"
+  },
+  {
+    "cmn_Hans": "始",
+    "eng_Latn": "beginning"
+  },
+  {
+    "cmn_Hans": "給",
+    "eng_Latn": "to"
+  },
+  {
+    "cmn_Hans": "然后",
+    "eng_Latn": "then"
+  },
+  {
+    "cmn_Hans": "個",
+    "eng_Latn": "a"
+  },
+  {
+    "cmn_Hans": "相信",
+    "eng_Latn": "believe"
+  },
+  {
+    "cmn_Hans": "结",
+    "eng_Latn": "bear"
+  },
+  {
+    "cmn_Hans": "今天",
+    "eng_Latn": "today"
+  },
+  {
+    "cmn_Hans": "几",
+    "eng_Latn": "a few"
+  },
+  {
+    "cmn_Hans": "题",
+    "eng_Latn": "title"
+  },
+  {
+    "cmn_Hans": "放",
+    "eng_Latn": "put"
+  },
+  {
+    "cmn_Hans": "讓",
+    "eng_Latn": "let"
+  },
+  {
+    "cmn_Hans": "确",
+    "eng_Latn": "indeed"
+  },
+  {
+    "cmn_Hans": "意思",
+    "eng_Latn": "meaning"
+  },
+  {
+    "cmn_Hans": "成",
+    "eng_Latn": "become"
+  },
+  {
+    "cmn_Hans": "所有",
+    "eng_Latn": "all"
+  },
+  {
+    "cmn_Hans": "喜",
+    "eng_Latn": "happy"
+  },
+  {
+    "cmn_Hans": "對",
+    "eng_Latn": "to"
+  },
+  {
+    "cmn_Hans": "之",
+    "eng_Latn": "the"
+  },
+  {
+    "cmn_Hans": "一切",
+    "eng_Latn": "everything"
+  },
+  {
+    "cmn_Hans": "记",
+    "eng_Latn": "remember"
+  },
+  {
+    "cmn_Hans": "抱歉",
+    "eng_Latn": "sorry"
+  },
+  {
+    "cmn_Hans": "一直",
+    "eng_Latn": "has been"
+  },
+  {
+    "cmn_Hans": "天",
+    "eng_Latn": "day"
+  },
+  {
+    "cmn_Hans": "褌",
+    "eng_Latn": "drawers"
+  },
+  {
+    "cmn_Hans": "钱",
+    "eng_Latn": "money"
+  },
+  {
+    "cmn_Hans": "面",
+    "eng_Latn": "surface"
+  },
+  {
+    "cmn_Hans": "更",
+    "eng_Latn": "more"
+  },
+  {
+    "cmn_Hans": "学",
+    "eng_Latn": "learn"
+  },
+  {
+    "cmn_Hans": "現在",
+    "eng_Latn": "now"
+  },
+  {
+    "cmn_Hans": "边",
+    "eng_Latn": "side"
+  },
+  {
+    "cmn_Hans": "你們",
+    "eng_Latn": "you"
+  },
+  {
+    "cmn_Hans": "不起",
+    "eng_Latn": "can not afford to"
+  },
+  {
+    "cmn_Hans": "脑",
+    "eng_Latn": "brain"
+  },
+  {
+    "cmn_Hans": "呃",
+    "eng_Latn": "uh"
+  },
+  {
+    "cmn_Hans": "论",
+    "eng_Latn": "theory"
+  },
+  {
+    "cmn_Hans": "曼",
+    "eng_Latn": "man"
+  },
+  {
+    "cmn_Hans": "點",
+    "eng_Latn": "point"
+  },
+  {
+    "cmn_Hans": "普",
+    "eng_Latn": "general"
+  },
+  {
+    "cmn_Hans": "第一",
+    "eng_Latn": "first"
+  },
+  {
+    "cmn_Hans": "通",
+    "eng_Latn": "through"
+  },
+  {
+    "cmn_Hans": "棒",
+    "eng_Latn": "stick"
+  },
+  {
+    "cmn_Hans": "线",
+    "eng_Latn": "line"
+  },
+  {
+    "cmn_Hans": "很高",
+    "eng_Latn": "high"
+  },
+  {
+    "cmn_Hans": "买",
+    "eng_Latn": "buy"
+  },
+  {
+    "cmn_Hans": "求",
+    "eng_Latn": "request"
+  },
+  {
+    "cmn_Hans": "束",
+    "eng_Latn": "bundle"
+  },
+  {
+    "cmn_Hans": "哇",
+    "eng_Latn": "wow"
+  },
+  {
+    "cmn_Hans": "指",
+    "eng_Latn": "finger"
+  },
+  {
+    "cmn_Hans": "张",
+    "eng_Latn": "zhang"
+  },
+  {
+    "cmn_Hans": "文",
+    "eng_Latn": "culture"
+  },
+  {
+    "cmn_Hans": "锌",
+    "eng_Latn": "zinc"
+  },
+  {
+    "cmn_Hans": "重",
+    "eng_Latn": "weight"
+  },
+  {
+    "cmn_Hans": "菲",
+    "eng_Latn": "philippines"
+  },
+  {
+    "cmn_Hans": "目",
+    "eng_Latn": "eye"
+  },
+  {
+    "cmn_Hans": "根本",
+    "eng_Latn": "fundamental"
+  },
+  {
+    "cmn_Hans": "联",
+    "eng_Latn": "join"
+  },
+  {
+    "cmn_Hans": "丹",
+    "eng_Latn": "red"
+  },
+  {
+    "cmn_Hans": "愛",
+    "eng_Latn": "love"
+  },
+  {
+    "cmn_Hans": "不到",
+    "eng_Latn": "less than"
+  },
+  {
+    "cmn_Hans": "這些",
+    "eng_Latn": "these"
+  },
+  {
+    "cmn_Hans": "自己的",
+    "eng_Latn": "own"
+  },
+  {
+    "cmn_Hans": "笑",
+    "eng_Latn": "laugh"
+  },
+  {
+    "cmn_Hans": "闭",
+    "eng_Latn": "close"
+  },
+  {
+    "cmn_Hans": "基",
+    "eng_Latn": "base"
+  },
+  {
+    "cmn_Hans": "唯一",
+    "eng_Latn": "unique"
+  },
+  {
+    "cmn_Hans": "要是",
+    "eng_Latn": "if"
+  },
+  {
+    "cmn_Hans": "提",
+    "eng_Latn": "mention"
+  },
+  {
+    "cmn_Hans": "调",
+    "eng_Latn": "tune"
+  },
+  {
+    "cmn_Hans": "丽",
+    "eng_Latn": "korea"
+  },
+  {
+    "cmn_Hans": "女士",
+    "eng_Latn": "ms."
+  },
+  {
+    "cmn_Hans": "校",
+    "eng_Latn": "school"
+  },
+  {
+    "cmn_Hans": "公司",
+    "eng_Latn": "company"
+  },
+  {
+    "cmn_Hans": "况",
+    "eng_Latn": "condition"
+  },
+  {
+    "cmn_Hans": "烦",
+    "eng_Latn": "bother"
+  },
+  {
+    "cmn_Hans": "停",
+    "eng_Latn": "stop"
+  },
+  {
+    "cmn_Hans": "英",
+    "eng_Latn": "britain"
+  },
+  {
+    "cmn_Hans": "警",
+    "eng_Latn": "police"
+  },
+  {
+    "cmn_Hans": "险",
+    "eng_Latn": "risk"
+  },
+  {
+    "cmn_Hans": "東西",
+    "eng_Latn": "thing"
+  },
+  {
+    "cmn_Hans": "不可能",
+    "eng_Latn": "impossible"
+  },
+  {
+    "cmn_Hans": "坐",
+    "eng_Latn": "sit"
+  },
+  {
+    "cmn_Hans": "区",
+    "eng_Latn": "area"
+  },
+  {
+    "cmn_Hans": "果",
+    "eng_Latn": "fruit"
+  },
+  {
+    "cmn_Hans": "伙",
+    "eng_Latn": "partner"
+  },
+  {
+    "cmn_Hans": "哈",
+    "eng_Latn": "ha"
+  },
+  {
+    "cmn_Hans": "罗",
+    "eng_Latn": "luo"
+  },
+  {
+    "cmn_Hans": "难",
+    "eng_Latn": "difficult"
+  },
+  {
+    "cmn_Hans": "两",
+    "eng_Latn": "both"
+  },
+  {
+    "cmn_Hans": "一些",
+    "eng_Latn": "some"
+  },
+  {
+    "cmn_Hans": "這樣",
+    "eng_Latn": "so"
+  },
+  {
+    "cmn_Hans": "自",
+    "eng_Latn": "from"
+  },
+  {
+    "cmn_Hans": "女人",
+    "eng_Latn": "woman"
+  },
+  {
+    "cmn_Hans": "向",
+    "eng_Latn": "to"
+  },
+  {
+    "cmn_Hans": "最好",
+    "eng_Latn": "the best"
+  },
+  {
+    "cmn_Hans": "走了",
+    "eng_Latn": "go"
+  },
+  {
+    "cmn_Hans": "褬",
+    "eng_Latn": "sang"
+  },
+  {
+    "cmn_Hans": "胁",
+    "eng_Latn": "threaten"
+  },
+  {
+    "cmn_Hans": "明",
+    "eng_Latn": "next"
+  },
+  {
+    "cmn_Hans": "理",
+    "eng_Latn": "reason"
+  },
+  {
+    "cmn_Hans": "加",
+    "eng_Latn": "plus"
+  },
+  {
+    "cmn_Hans": "枪",
+    "eng_Latn": "gun"
+  },
+  {
+    "cmn_Hans": "万",
+    "eng_Latn": "ten thousand"
+  },
+  {
+    "cmn_Hans": "员",
+    "eng_Latn": "member"
+  },
+  {
+    "cmn_Hans": "妳",
+    "eng_Latn": "you"
+  },
+  {
+    "cmn_Hans": "玩",
+    "eng_Latn": "play"
+  },
+  {
+    "cmn_Hans": "分",
+    "eng_Latn": "minute"
+  },
+  {
+    "cmn_Hans": "作",
+    "eng_Latn": "make"
+  },
+  {
+    "cmn_Hans": "巴",
+    "eng_Latn": "pakistan"
+  },
+  {
+    "cmn_Hans": "而且",
+    "eng_Latn": "and"
+  },
+  {
+    "cmn_Hans": "物",
+    "eng_Latn": "matter"
+  },
+  {
+    "cmn_Hans": "伤",
+    "eng_Latn": "hurt"
+  },
+  {
+    "cmn_Hans": "官",
+    "eng_Latn": "official"
+  },
+  {
+    "cmn_Hans": "道",
+    "eng_Latn": "road"
+  },
+  {
+    "cmn_Hans": "出去",
+    "eng_Latn": "out"
+  },
+  {
+    "cmn_Hans": "力",
+    "eng_Latn": "force"
+  },
+  {
+    "cmn_Hans": "总",
+    "eng_Latn": "total"
+  },
+  {
+    "cmn_Hans": "者",
+    "eng_Latn": "person"
+  },
+  {
+    "cmn_Hans": "先",
+    "eng_Latn": "first"
+  },
+  {
+    "cmn_Hans": "最",
+    "eng_Latn": "most"
+  },
+  {
+    "cmn_Hans": "很多",
+    "eng_Latn": "many"
+  },
+  {
+    "cmn_Hans": "医",
+    "eng_Latn": "treatment"
+  },
+  {
+    "cmn_Hans": "一次",
+    "eng_Latn": "once"
+  },
+  {
+    "cmn_Hans": "报",
+    "eng_Latn": "report"
+  },
+  {
+    "cmn_Hans": "名字",
+    "eng_Latn": "name"
+  },
+  {
+    "cmn_Hans": "将",
+    "eng_Latn": "will"
+  },
+  {
+    "cmn_Hans": "迪",
+    "eng_Latn": "di"
+  },
+  {
+    "cmn_Hans": "到了",
+    "eng_Latn": "to"
+  },
+  {
+    "cmn_Hans": "解",
+    "eng_Latn": "solution"
+  },
+  {
+    "cmn_Hans": "新",
+    "eng_Latn": "new"
+  },
+  {
+    "cmn_Hans": "队",
+    "eng_Latn": "team"
+  },
+  {
+    "cmn_Hans": "识",
+    "eng_Latn": "knowledge"
+  },
+  {
+    "cmn_Hans": "死了",
+    "eng_Latn": "dead"
+  },
+  {
+    "cmn_Hans": "眼",
+    "eng_Latn": "eye"
+  },
+  {
+    "cmn_Hans": "媽的",
+    "eng_Latn": "damn"
+  },
+  {
+    "cmn_Hans": "第一次",
+    "eng_Latn": "first"
+  },
+  {
+    "cmn_Hans": "離開",
+    "eng_Latn": "leave"
+  },
+  {
+    "cmn_Hans": "忘",
+    "eng_Latn": "forget"
+  },
+  {
+    "cmn_Hans": "我自己",
+    "eng_Latn": "myself"
+  },
+  {
+    "cmn_Hans": "谐",
+    "eng_Latn": "harmonious"
+  },
+  {
+    "cmn_Hans": "严",
+    "eng_Latn": "strict"
+  },
+  {
+    "cmn_Hans": "且",
+    "eng_Latn": "and"
+  },
+  {
+    "cmn_Hans": "帶",
+    "eng_Latn": "band"
+  },
+  {
+    "cmn_Hans": "赶",
+    "eng_Latn": "rush"
+  },
+  {
+    "cmn_Hans": "太棒",
+    "eng_Latn": "great"
+  },
+  {
+    "cmn_Hans": "佛",
+    "eng_Latn": "buddha"
+  },
+  {
+    "cmn_Hans": "直",
+    "eng_Latn": "straight"
+  },
+  {
+    "cmn_Hans": "認為",
+    "eng_Latn": "think"
+  },
+  {
+    "cmn_Hans": "老婆",
+    "eng_Latn": "wife"
+  },
+  {
+    "cmn_Hans": "索",
+    "eng_Latn": "search"
+  },
+  {
+    "cmn_Hans": "除了",
+    "eng_Latn": "in addition to"
+  },
+  {
+    "cmn_Hans": "承",
+    "eng_Latn": "by order of the"
+  },
+  {
+    "cmn_Hans": "泰",
+    "eng_Latn": "thai"
+  },
+  {
+    "cmn_Hans": "建",
+    "eng_Latn": "build"
+  },
+  {
+    "cmn_Hans": "欧",
+    "eng_Latn": "europe"
+  },
+  {
+    "cmn_Hans": "然後",
+    "eng_Latn": "then"
+  },
+  {
+    "cmn_Hans": "级",
+    "eng_Latn": "level"
+  },
+  {
+    "cmn_Hans": "昨晚",
+    "eng_Latn": "last night"
+  },
+  {
+    "cmn_Hans": "石",
+    "eng_Latn": "stone"
+  },
+  {
+    "cmn_Hans": "有了",
+    "eng_Latn": "with"
+  },
+  {
+    "cmn_Hans": "都有",
+    "eng_Latn": "have"
+  },
+  {
+    "cmn_Hans": "磲",
+    "eng_Latn": "clams"
+  },
+  {
+    "cmn_Hans": "差",
+    "eng_Latn": "poor"
+  },
+  {
+    "cmn_Hans": "思",
+    "eng_Latn": "think"
+  },
+  {
+    "cmn_Hans": "啥",
+    "eng_Latn": "what"
+  },
+  {
+    "cmn_Hans": "過來",
+    "eng_Latn": "come"
+  },
+  {
+    "cmn_Hans": "努力",
+    "eng_Latn": "strive"
+  },
+  {
+    "cmn_Hans": "丈夫",
+    "eng_Latn": "husband"
+  },
+  {
+    "cmn_Hans": "任何人",
+    "eng_Latn": "anyone"
+  },
+  {
+    "cmn_Hans": "城市",
+    "eng_Latn": "city"
+  },
+  {
+    "cmn_Hans": "死亡",
+    "eng_Latn": "death"
+  },
+  {
+    "cmn_Hans": "全部",
+    "eng_Latn": "whole"
+  },
+  {
+    "cmn_Hans": "组",
+    "eng_Latn": "group"
+  },
+  {
+    "cmn_Hans": "也許",
+    "eng_Latn": "perhaps"
+  },
+  {
+    "cmn_Hans": "最近",
+    "eng_Latn": "recently"
+  },
+  {
+    "cmn_Hans": "倒",
+    "eng_Latn": "inverted"
+  },
+  {
+    "cmn_Hans": "领",
+    "eng_Latn": "collar"
+  },
+  {
+    "cmn_Hans": "顾",
+    "eng_Latn": "gu"
+  },
+  {
+    "cmn_Hans": "市",
+    "eng_Latn": "city"
+  },
+  {
+    "cmn_Hans": "六",
+    "eng_Latn": "six"
+  },
+  {
+    "cmn_Hans": "行了",
+    "eng_Latn": "the line"
+  },
+  {
+    "cmn_Hans": "滚",
+    "eng_Latn": "roll"
+  },
+  {
+    "cmn_Hans": "好嗎",
+    "eng_Latn": "okay"
+  },
+  {
+    "cmn_Hans": "师",
+    "eng_Latn": "division"
+  },
+  {
+    "cmn_Hans": "高",
+    "eng_Latn": "high"
+  },
+  {
+    "cmn_Hans": "莉",
+    "eng_Latn": "li"
+  },
+  {
+    "cmn_Hans": "坏",
+    "eng_Latn": "bad"
+  },
+  {
+    "cmn_Hans": "电",
+    "eng_Latn": "electricity"
+  },
+  {
+    "cmn_Hans": "警察",
+    "eng_Latn": "police"
+  },
+  {
+    "cmn_Hans": "件",
+    "eng_Latn": "item"
+  },
+  {
+    "cmn_Hans": "誰",
+    "eng_Latn": "who"
+  },
+  {
+    "cmn_Hans": "兄弟",
+    "eng_Latn": "brothers"
+  },
+  {
+    "cmn_Hans": "之前",
+    "eng_Latn": "before"
+  },
+  {
+    "cmn_Hans": "谈",
+    "eng_Latn": "talk"
+  },
+  {
+    "cmn_Hans": "送",
+    "eng_Latn": "send"
+  },
+  {
+    "cmn_Hans": "森",
+    "eng_Latn": "forest"
+  },
+  {
+    "cmn_Hans": "伊",
+    "eng_Latn": "he"
+  },
+  {
+    "cmn_Hans": "以前",
+    "eng_Latn": "previous"
+  },
+  {
+    "cmn_Hans": "房",
+    "eng_Latn": "room"
+  },
+  {
+    "cmn_Hans": "婚",
+    "eng_Latn": "marriage"
+  },
+  {
+    "cmn_Hans": "喝",
+    "eng_Latn": "drink"
+  },
+  {
+    "cmn_Hans": "怎麼",
+    "eng_Latn": "how"
+  },
+  {
+    "cmn_Hans": "今晚",
+    "eng_Latn": "tonight"
+  },
+  {
+    "cmn_Hans": "兴",
+    "eng_Latn": "interest"
+  },
+  {
+    "cmn_Hans": "疯",
+    "eng_Latn": "crazy"
+  },
+  {
+    "cmn_Hans": "因為",
+    "eng_Latn": "because"
+  },
+  {
+    "cmn_Hans": "住",
+    "eng_Latn": "live"
+  },
+  {
+    "cmn_Hans": "内",
+    "eng_Latn": "within"
+  },
+  {
+    "cmn_Hans": "轻",
+    "eng_Latn": "light"
+  },
+  {
+    "cmn_Hans": "约",
+    "eng_Latn": "approximately"
+  },
+  {
+    "cmn_Hans": "声",
+    "eng_Latn": "sound"
+  },
+  {
+    "cmn_Hans": "或者",
+    "eng_Latn": "or"
+  },
+  {
+    "cmn_Hans": "不行",
+    "eng_Latn": "not work"
+  },
+  {
+    "cmn_Hans": "到底",
+    "eng_Latn": "in the end"
+  },
+  {
+    "cmn_Hans": "雷",
+    "eng_Latn": "mine"
+  },
+  {
+    "cmn_Hans": "维",
+    "eng_Latn": "dimension"
+  },
+  {
+    "cmn_Hans": "条",
+    "eng_Latn": "article"
+  },
+  {
+    "cmn_Hans": "明天",
+    "eng_Latn": "tomorrow"
+  },
+  {
+    "cmn_Hans": "不好",
+    "eng_Latn": "bad"
+  },
+  {
+    "cmn_Hans": "已經",
+    "eng_Latn": "already"
+  },
+  {
+    "cmn_Hans": "天啊",
+    "eng_Latn": "god"
+  },
+  {
+    "cmn_Hans": "洛",
+    "eng_Latn": "rockwell"
+  },
+  {
+    "cmn_Hans": "护",
+    "eng_Latn": "protect"
+  },
+  {
+    "cmn_Hans": "塔",
+    "eng_Latn": "tower"
+  },
+  {
+    "cmn_Hans": "运",
+    "eng_Latn": "transport"
+  },
+  {
+    "cmn_Hans": "接",
+    "eng_Latn": "meet"
+  },
+  {
+    "cmn_Hans": "球",
+    "eng_Latn": "ball"
+  },
+  {
+    "cmn_Hans": "得到",
+    "eng_Latn": "get"
+  },
+  {
+    "cmn_Hans": "穿",
+    "eng_Latn": "wear"
+  },
+  {
+    "cmn_Hans": "音",
+    "eng_Latn": "sound"
+  },
+  {
+    "cmn_Hans": "從",
+    "eng_Latn": "from"
+  },
+  {
+    "cmn_Hans": "為",
+    "eng_Latn": "for"
+  },
+  {
+    "cmn_Hans": "生",
+    "eng_Latn": "raw"
+  },
+  {
+    "cmn_Hans": "回",
+    "eng_Latn": "return"
+  },
+  {
+    "cmn_Hans": "可",
+    "eng_Latn": "can"
+  },
+  {
+    "cmn_Hans": "东",
+    "eng_Latn": "east"
+  },
+  {
+    "cmn_Hans": "尔",
+    "eng_Latn": "seoul"
+  },
+  {
+    "cmn_Hans": "欢",
+    "eng_Latn": "happy"
+  },
+  {
+    "cmn_Hans": "很好",
+    "eng_Latn": "well"
+  },
+  {
+    "cmn_Hans": "他們",
+    "eng_Latn": "they"
+  },
+  {
+    "cmn_Hans": "进",
+    "eng_Latn": "enter"
+  },
+  {
+    "cmn_Hans": "地",
+    "eng_Latn": "ground"
+  },
+  {
+    "cmn_Hans": "孩子",
+    "eng_Latn": "children"
+  },
+  {
+    "cmn_Hans": "帮",
+    "eng_Latn": "help"
+  },
+  {
+    "cmn_Hans": "离",
+    "eng_Latn": "from"
+  },
+  {
+    "cmn_Hans": "找",
+    "eng_Latn": "look for"
+  },
+  {
+    "cmn_Hans": "尼",
+    "eng_Latn": "nigeria"
+  },
+  {
+    "cmn_Hans": "从",
+    "eng_Latn": "from"
+  },
+  {
+    "cmn_Hans": "下",
+    "eng_Latn": "under"
+  },
+  {
+    "cmn_Hans": "马",
+    "eng_Latn": "horse"
+  },
+  {
+    "cmn_Hans": "以",
+    "eng_Latn": "with"
+  },
+  {
+    "cmn_Hans": "利",
+    "eng_Latn": "profit"
+  },
+  {
+    "cmn_Hans": "所以",
+    "eng_Latn": "so"
+  },
+  {
+    "cmn_Hans": "关",
+    "eng_Latn": "close"
+  },
+  {
+    "cmn_Hans": "哪",
+    "eng_Latn": "which"
+  },
+  {
+    "cmn_Hans": "懈",
+    "eng_Latn": "negligent"
+  },
+  {
+    "cmn_Hans": "行",
+    "eng_Latn": "row"
+  },
+  {
+    "cmn_Hans": "家",
+    "eng_Latn": "home"
+  },
+  {
+    "cmn_Hans": "拉",
+    "eng_Latn": "pull"
+  },
+  {
+    "cmn_Hans": "才",
+    "eng_Latn": "only"
+  },
+  {
+    "cmn_Hans": "看到",
+    "eng_Latn": "see"
+  },
+  {
+    "cmn_Hans": "說",
+    "eng_Latn": "say"
+  },
+  {
+    "cmn_Hans": "手",
+    "eng_Latn": "hand"
+  },
+  {
+    "cmn_Hans": "法",
+    "eng_Latn": "law"
+  },
+  {
+    "cmn_Hans": "噢",
+    "eng_Latn": "oh"
+  },
+  {
+    "cmn_Hans": "谁",
+    "eng_Latn": "who"
+  },
+  {
+    "cmn_Hans": "头",
+    "eng_Latn": "head"
+  },
+  {
+    "cmn_Hans": "无",
+    "eng_Latn": "no"
+  },
+  {
+    "cmn_Hans": "嗯",
+    "eng_Latn": "ah"
+  },
+  {
+    "cmn_Hans": "工作",
+    "eng_Latn": "work"
+  },
+  {
+    "cmn_Hans": "可能",
+    "eng_Latn": "may"
+  },
+  {
+    "cmn_Hans": "薪",
+    "eng_Latn": "salary"
+  },
+  {
+    "cmn_Hans": "朋友",
+    "eng_Latn": "friend"
+  },
+  {
+    "cmn_Hans": "请",
+    "eng_Latn": "please"
+  },
+  {
+    "cmn_Hans": "许",
+    "eng_Latn": "promise"
+  },
+  {
+    "cmn_Hans": "年",
+    "eng_Latn": "years"
+  },
+  {
+    "cmn_Hans": "那些",
+    "eng_Latn": "those"
+  },
+  {
+    "cmn_Hans": "一個",
+    "eng_Latn": "a"
+  },
+  {
+    "cmn_Hans": "一起",
+    "eng_Latn": "together"
+  },
+  {
+    "cmn_Hans": "然",
+    "eng_Latn": "however"
+  },
+  {
+    "cmn_Hans": "吃",
+    "eng_Latn": "eat"
+  },
+  {
+    "cmn_Hans": "写",
+    "eng_Latn": "write"
+  },
+  {
+    "cmn_Hans": "带",
+    "eng_Latn": "band"
+  },
+  {
+    "cmn_Hans": "我喜",
+    "eng_Latn": "i am pleased to"
+  },
+  {
+    "cmn_Hans": "弗",
+    "eng_Latn": "eph."
+  },
+  {
+    "cmn_Hans": "尽",
+    "eng_Latn": "exhausted"
+  },
+  {
+    "cmn_Hans": "耶",
+    "eng_Latn": "yeah"
+  },
+  {
+    "cmn_Hans": "喔",
+    "eng_Latn": "oh"
+  },
+  {
+    "cmn_Hans": "褍",
+    "eng_Latn": "tuan"
+  },
+  {
+    "cmn_Hans": "掉",
+    "eng_Latn": "fall"
+  },
+  {
+    "cmn_Hans": "书",
+    "eng_Latn": "book"
+  },
+  {
+    "cmn_Hans": "其他",
+    "eng_Latn": "other"
+  },
+  {
+    "cmn_Hans": "派",
+    "eng_Latn": "send"
+  },
+  {
+    "cmn_Hans": "士",
+    "eng_Latn": "scholar"
+  },
+  {
+    "cmn_Hans": "器",
+    "eng_Latn": "implement"
+  },
+  {
+    "cmn_Hans": "松",
+    "eng_Latn": "loose"
+  },
+  {
+    "cmn_Hans": "数",
+    "eng_Latn": "number"
+  },
+  {
+    "cmn_Hans": "光",
+    "eng_Latn": "light"
+  },
+  {
+    "cmn_Hans": "其",
+    "eng_Latn": "its"
+  },
+  {
+    "cmn_Hans": "想我",
+    "eng_Latn": "think i"
+  },
+  {
+    "cmn_Hans": "极",
+    "eng_Latn": "pole"
+  },
+  {
+    "cmn_Hans": "合",
+    "eng_Latn": "close"
+  },
+  {
+    "cmn_Hans": "完全",
+    "eng_Latn": "entirely"
+  },
+  {
+    "cmn_Hans": "做了",
+    "eng_Latn": "done"
+  },
+  {
+    "cmn_Hans": "影",
+    "eng_Latn": "shadow"
+  },
+  {
+    "cmn_Hans": "室",
+    "eng_Latn": "room"
+  },
+  {
+    "cmn_Hans": "受",
+    "eng_Latn": "be subject"
+  },
+  {
+    "cmn_Hans": "奇",
+    "eng_Latn": "odd"
+  },
+  {
+    "cmn_Hans": "试",
+    "eng_Latn": "test"
+  },
+  {
+    "cmn_Hans": "装",
+    "eng_Latn": "dress"
+  },
+  {
+    "cmn_Hans": "晚上",
+    "eng_Latn": "at night"
+  },
+  {
+    "cmn_Hans": "恶",
+    "eng_Latn": "evil"
+  },
+  {
+    "cmn_Hans": "应",
+    "eng_Latn": "should"
+  },
+  {
+    "cmn_Hans": "小姐",
+    "eng_Latn": "miss"
+  },
+  {
+    "cmn_Hans": "整",
+    "eng_Latn": "whole"
+  },
+  {
+    "cmn_Hans": "强",
+    "eng_Latn": "strength"
+  },
+  {
+    "cmn_Hans": "业",
+    "eng_Latn": "industry"
+  },
+  {
+    "cmn_Hans": "类",
+    "eng_Latn": "class"
+  },
+  {
+    "cmn_Hans": "复",
+    "eng_Latn": "complex"
+  },
+  {
+    "cmn_Hans": "奥",
+    "eng_Latn": "austrian"
+  },
+  {
+    "cmn_Hans": "梦",
+    "eng_Latn": "dream"
+  },
+  {
+    "cmn_Hans": "曾",
+    "eng_Latn": "once"
+  },
+  {
+    "cmn_Hans": "嘴",
+    "eng_Latn": "mouth"
+  },
+  {
+    "cmn_Hans": "认",
+    "eng_Latn": "recognize"
+  },
+  {
+    "cmn_Hans": "如此",
+    "eng_Latn": "so"
+  },
+  {
+    "cmn_Hans": "爸",
+    "eng_Latn": "dad"
+  },
+  {
+    "cmn_Hans": "照",
+    "eng_Latn": "photo"
+  },
+  {
+    "cmn_Hans": "杰",
+    "eng_Latn": "outstanding"
+  },
+  {
+    "cmn_Hans": "為什麼",
+    "eng_Latn": "why"
+  },
+  {
+    "cmn_Hans": "入",
+    "eng_Latn": "enter"
+  },
+  {
+    "cmn_Hans": "睡",
+    "eng_Latn": "sleep"
+  },
+  {
+    "cmn_Hans": "都不",
+    "eng_Latn": "not"
+  },
+  {
+    "cmn_Hans": "服",
+    "eng_Latn": "clothes"
+  },
+  {
+    "cmn_Hans": "节",
+    "eng_Latn": "festival"
+  },
+  {
+    "cmn_Hans": "顿",
+    "eng_Latn": "dayton"
+  },
+  {
+    "cmn_Hans": "了解",
+    "eng_Latn": "understand"
+  },
+  {
+    "cmn_Hans": "根",
+    "eng_Latn": "root"
+  },
+  {
+    "cmn_Hans": "蛋",
+    "eng_Latn": "egg"
+  },
+  {
+    "cmn_Hans": "紧",
+    "eng_Latn": "tight"
+  },
+  {
+    "cmn_Hans": "麻",
+    "eng_Latn": "hemp"
+  },
+  {
+    "cmn_Hans": "很快",
+    "eng_Latn": "quickly"
+  },
+  {
+    "cmn_Hans": "游",
+    "eng_Latn": "tour"
+  },
+  {
+    "cmn_Hans": "忘了",
+    "eng_Latn": "forget"
+  },
+  {
+    "cmn_Hans": "戴",
+    "eng_Latn": "wear"
+  },
+  {
+    "cmn_Hans": "莎",
+    "eng_Latn": "shakespeare"
+  },
+  {
+    "cmn_Hans": "故事",
+    "eng_Latn": "story"
+  },
+  {
+    "cmn_Hans": "视",
+    "eng_Latn": "regard"
+  },
+  {
+    "cmn_Hans": "真正",
+    "eng_Latn": "real"
+  },
+  {
+    "cmn_Hans": "蟹",
+    "eng_Latn": "crab"
+  },
+  {
+    "cmn_Hans": "费",
+    "eng_Latn": "fee"
+  },
+  {
+    "cmn_Hans": "靠",
+    "eng_Latn": "by"
+  },
+  {
+    "cmn_Hans": "全",
+    "eng_Latn": "whole"
+  },
+  {
+    "cmn_Hans": "反",
+    "eng_Latn": "anti-"
+  },
+  {
+    "cmn_Hans": "字",
+    "eng_Latn": "word"
+  },
+  {
+    "cmn_Hans": "度",
+    "eng_Latn": "degree"
+  },
+  {
+    "cmn_Hans": "甚至",
+    "eng_Latn": "even"
+  },
+  {
+    "cmn_Hans": "局",
+    "eng_Latn": "bureau"
+  },
+  {
+    "cmn_Hans": "莫",
+    "eng_Latn": "mo"
+  },
+  {
+    "cmn_Hans": "命",
+    "eng_Latn": "life"
+  },
+  {
+    "cmn_Hans": "语",
+    "eng_Latn": "language"
+  },
+  {
+    "cmn_Hans": "性",
+    "eng_Latn": "sex"
+  },
+  {
+    "cmn_Hans": "常",
+    "eng_Latn": "often"
+  },
+  {
+    "cmn_Hans": "莱",
+    "eng_Latn": "levin"
+  },
+  {
+    "cmn_Hans": "之后",
+    "eng_Latn": "after"
+  },
+  {
+    "cmn_Hans": "可不",
+    "eng_Latn": "from time to"
+  },
+  {
+    "cmn_Hans": "母",
+    "eng_Latn": "mother"
+  },
+  {
+    "cmn_Hans": "留下",
+    "eng_Latn": "stay"
+  },
+  {
+    "cmn_Hans": "外",
+    "eng_Latn": "outside"
+  },
+  {
+    "cmn_Hans": "當",
+    "eng_Latn": "when the"
+  },
+  {
+    "cmn_Hans": "此",
+    "eng_Latn": "this"
+  },
+  {
+    "cmn_Hans": "惊",
+    "eng_Latn": "shock"
+  },
+  {
+    "cmn_Hans": "伯",
+    "eng_Latn": "bo"
+  },
+  {
+    "cmn_Hans": "口",
+    "eng_Latn": "mouth"
+  },
+  {
+    "cmn_Hans": "喜歡",
+    "eng_Latn": "like"
+  },
+  {
+    "cmn_Hans": "在做",
+    "eng_Latn": "doing"
+  },
+  {
+    "cmn_Hans": "那麼",
+    "eng_Latn": "then"
+  },
+  {
+    "cmn_Hans": "請",
+    "eng_Latn": "please"
+  },
+  {
+    "cmn_Hans": "五",
+    "eng_Latn": "five"
+  },
+  {
+    "cmn_Hans": "标",
+    "eng_Latn": "mark"
+  },
+  {
+    "cmn_Hans": "画",
+    "eng_Latn": "painting"
+  },
+  {
+    "cmn_Hans": "身上",
+    "eng_Latn": "body"
+  },
+  {
+    "cmn_Hans": "以后",
+    "eng_Latn": "after"
+  },
+  {
+    "cmn_Hans": "主",
+    "eng_Latn": "main"
+  },
+  {
+    "cmn_Hans": "謝謝",
+    "eng_Latn": "thank you"
+  },
+  {
+    "cmn_Hans": "應該",
+    "eng_Latn": "should"
+  },
+  {
+    "cmn_Hans": "静",
+    "eng_Latn": "quiet"
+  },
+  {
+    "cmn_Hans": "弹",
+    "eng_Latn": "bomb"
+  },
+  {
+    "cmn_Hans": "改",
+    "eng_Latn": "change"
+  },
+  {
+    "cmn_Hans": "酒",
+    "eng_Latn": "wine"
+  },
+  {
+    "cmn_Hans": "伦",
+    "eng_Latn": "lun"
+  },
+  {
+    "cmn_Hans": "裏",
+    "eng_Latn": "in"
+  },
+  {
+    "cmn_Hans": "花",
+    "eng_Latn": "flower"
+  },
+  {
+    "cmn_Hans": "续",
+    "eng_Latn": "continue"
+  },
+  {
+    "cmn_Hans": "天哪",
+    "eng_Latn": "gosh"
+  },
+  {
+    "cmn_Hans": "這裡",
+    "eng_Latn": "here"
+  },
+  {
+    "cmn_Hans": "房子",
+    "eng_Latn": "house"
+  },
+  {
+    "cmn_Hans": "何",
+    "eng_Latn": "what"
+  },
+  {
+    "cmn_Hans": "由",
+    "eng_Latn": "by"
+  },
+  {
+    "cmn_Hans": "药",
+    "eng_Latn": "drug"
+  },
+  {
+    "cmn_Hans": "同",
+    "eng_Latn": "with"
+  },
+  {
+    "cmn_Hans": "早上",
+    "eng_Latn": "morning"
+  },
+  {
+    "cmn_Hans": "波",
+    "eng_Latn": "wave"
+  },
+  {
+    "cmn_Hans": "弄",
+    "eng_Latn": "get"
+  },
+  {
+    "cmn_Hans": "务",
+    "eng_Latn": "business"
+  },
+  {
+    "cmn_Hans": "原",
+    "eng_Latn": "original"
+  },
+  {
+    "cmn_Hans": "失",
+    "eng_Latn": "lose"
+  },
+  {
+    "cmn_Hans": "考",
+    "eng_Latn": "test"
+  },
+  {
+    "cmn_Hans": "岁",
+    "eng_Latn": "years"
+  },
+  {
+    "cmn_Hans": "统",
+    "eng_Latn": "collectively"
+  },
+  {
+    "cmn_Hans": "斜",
+    "eng_Latn": "oblique"
+  },
+  {
+    "cmn_Hans": "拜托",
+    "eng_Latn": "please"
+  },
+  {
+    "cmn_Hans": "跑",
+    "eng_Latn": "run"
+  },
+  {
+    "cmn_Hans": "不在",
+    "eng_Latn": "absence"
+  },
+  {
+    "cmn_Hans": "害",
+    "eng_Latn": "harm"
+  },
+  {
+    "cmn_Hans": "麽",
+    "eng_Latn": "what"
+  },
+  {
+    "cmn_Hans": "日",
+    "eng_Latn": "day"
+  },
+  {
+    "cmn_Hans": "妮",
+    "eng_Latn": "ni"
+  },
+  {
+    "cmn_Hans": "凯",
+    "eng_Latn": "triumphant"
+  },
+  {
+    "cmn_Hans": "衣服",
+    "eng_Latn": "clothes"
+  },
+  {
+    "cmn_Hans": "治",
+    "eng_Latn": "rule"
+  },
+  {
+    "cmn_Hans": "便",
+    "eng_Latn": "then"
+  },
+  {
+    "cmn_Hans": "客",
+    "eng_Latn": "passenger"
+  },
+  {
+    "cmn_Hans": "议",
+    "eng_Latn": "discuss"
+  },
+  {
+    "cmn_Hans": "好好",
+    "eng_Latn": "good"
+  },
+  {
+    "cmn_Hans": "們",
+    "eng_Latn": "they"
+  },
+  {
+    "cmn_Hans": "覺得",
+    "eng_Latn": "feel"
+  },
+  {
+    "cmn_Hans": "谢谢",
+    "eng_Latn": "thank you"
+  },
+  {
+    "cmn_Hans": "托",
+    "eng_Latn": "entrust"
+  },
+  {
+    "cmn_Hans": "赛",
+    "eng_Latn": "game"
+  },
+  {
+    "cmn_Hans": "任",
+    "eng_Latn": "office"
+  },
+  {
+    "cmn_Hans": "色",
+    "eng_Latn": "color"
+  },
+  {
+    "cmn_Hans": "独",
+    "eng_Latn": "independent"
+  },
+  {
+    "cmn_Hans": "眼睛",
+    "eng_Latn": "eye"
+  },
+  {
+    "cmn_Hans": "黑",
+    "eng_Latn": "black"
+  },
+  {
+    "cmn_Hans": "华",
+    "eng_Latn": "china"
+  },
+  {
+    "cmn_Hans": "放在",
+    "eng_Latn": "on the"
+  },
+  {
+    "cmn_Hans": "城",
+    "eng_Latn": "city"
+  },
+  {
+    "cmn_Hans": "的時候",
+    "eng_Latn": "when"
+  },
+  {
+    "cmn_Hans": "站",
+    "eng_Latn": "station"
+  },
+  {
+    "cmn_Hans": "小孩",
+    "eng_Latn": "child"
+  },
+  {
+    "cmn_Hans": "住在",
+    "eng_Latn": "lives in"
+  },
+  {
+    "cmn_Hans": "咖啡",
+    "eng_Latn": "coffee"
+  },
+  {
+    "cmn_Hans": "换",
+    "eng_Latn": "change"
+  },
+  {
+    "cmn_Hans": "才是",
+    "eng_Latn": "is"
+  },
+  {
+    "cmn_Hans": "褕",
+    "eng_Latn": "yu"
+  },
+  {
+    "cmn_Hans": "周",
+    "eng_Latn": "week"
+  },
+  {
+    "cmn_Hans": "控制",
+    "eng_Latn": "control"
+  },
+  {
+    "cmn_Hans": "言",
+    "eng_Latn": "speech"
+  },
+  {
+    "cmn_Hans": "敢",
+    "eng_Latn": "dare"
+  },
+  {
+    "cmn_Hans": "赢",
+    "eng_Latn": "win"
+  },
+  {
+    "cmn_Hans": "半",
+    "eng_Latn": "half"
+  },
+  {
+    "cmn_Hans": "白",
+    "eng_Latn": "white"
+  },
+  {
+    "cmn_Hans": "释",
+    "eng_Latn": "release"
+  },
+  {
+    "cmn_Hans": "能不能",
+    "eng_Latn": "can"
+  },
+  {
+    "cmn_Hans": "生了",
+    "eng_Latn": "health"
+  },
+  {
+    "cmn_Hans": "而已",
+    "eng_Latn": "nothing more"
+  },
+  {
+    "cmn_Hans": "图",
+    "eng_Latn": "map"
+  },
+  {
+    "cmn_Hans": "該",
+    "eng_Latn": "that"
+  },
+  {
+    "cmn_Hans": "怪",
+    "eng_Latn": "strange"
+  },
+  {
+    "cmn_Hans": "字幕",
+    "eng_Latn": "subtitle"
+  },
+  {
+    "cmn_Hans": "對不起",
+    "eng_Latn": "i am sorry"
+  },
+  {
+    "cmn_Hans": "去看",
+    "eng_Latn": "to see"
+  },
+  {
+    "cmn_Hans": "像是",
+    "eng_Latn": "like"
+  },
+  {
+    "cmn_Hans": "保持",
+    "eng_Latn": "keeping"
+  },
+  {
+    "cmn_Hans": "替",
+    "eng_Latn": "for"
+  },
+  {
+    "cmn_Hans": "拜",
+    "eng_Latn": "worship"
+  },
+  {
+    "cmn_Hans": "一件",
+    "eng_Latn": "a"
+  },
+  {
+    "cmn_Hans": "錢",
+    "eng_Latn": "money"
+  },
+  {
+    "cmn_Hans": "想知道",
+    "eng_Latn": "want to know"
+  },
+  {
+    "cmn_Hans": "時",
+    "eng_Latn": "time"
+  },
+  {
+    "cmn_Hans": "讲",
+    "eng_Latn": "speak"
+  },
+  {
+    "cmn_Hans": "新的",
+    "eng_Latn": "new"
+  },
+  {
+    "cmn_Hans": "希",
+    "eng_Latn": "hope"
+  },
+  {
+    "cmn_Hans": "炸",
+    "eng_Latn": "fry"
+  },
+  {
+    "cmn_Hans": "择",
+    "eng_Latn": "choose"
+  },
+  {
+    "cmn_Hans": "知",
+    "eng_Latn": "know"
+  },
+  {
+    "cmn_Hans": "說的",
+    "eng_Latn": "said"
+  },
+  {
+    "cmn_Hans": "码",
+    "eng_Latn": "code"
+  },
+  {
+    "cmn_Hans": "戏",
+    "eng_Latn": "play"
+  },
+  {
+    "cmn_Hans": "塞",
+    "eng_Latn": "stopper"
+  },
+  {
+    "cmn_Hans": "碰",
+    "eng_Latn": "touch"
+  },
+  {
+    "cmn_Hans": "放下",
+    "eng_Latn": "put down"
+  },
+  {
+    "cmn_Hans": "一樣",
+    "eng_Latn": "equally"
+  },
+  {
+    "cmn_Hans": "害怕",
+    "eng_Latn": "be afraid"
+  },
+  {
+    "cmn_Hans": "杰克",
+    "eng_Latn": "jack"
+  },
+  {
+    "cmn_Hans": "迎",
+    "eng_Latn": "welcome"
+  },
+  {
+    "cmn_Hans": "绝",
+    "eng_Latn": "absolutely"
+  },
+  {
+    "cmn_Hans": "開始",
+    "eng_Latn": "start"
+  },
+  {
+    "cmn_Hans": "生命",
+    "eng_Latn": "life"
+  },
+  {
+    "cmn_Hans": "王",
+    "eng_Latn": "king"
+  },
+  {
+    "cmn_Hans": "助",
+    "eng_Latn": "help"
+  },
+  {
+    "cmn_Hans": "乔",
+    "eng_Latn": "joe"
+  },
+  {
+    "cmn_Hans": "义",
+    "eng_Latn": "justice"
+  },
+  {
+    "cmn_Hans": "回到",
+    "eng_Latn": "back to"
+  },
+  {
+    "cmn_Hans": "救",
+    "eng_Latn": "save"
+  },
+  {
+    "cmn_Hans": "清楚",
+    "eng_Latn": "clear"
+  },
+  {
+    "cmn_Hans": "冷",
+    "eng_Latn": "cold"
+  },
+  {
+    "cmn_Hans": "原因",
+    "eng_Latn": "reason"
+  },
+  {
+    "cmn_Hans": "却",
+    "eng_Latn": "but"
+  },
+  {
+    "cmn_Hans": "付",
+    "eng_Latn": "pay"
+  },
+  {
+    "cmn_Hans": "管",
+    "eng_Latn": "tube"
+  },
+  {
+    "cmn_Hans": "狂",
+    "eng_Latn": "mad"
+  },
+  {
+    "cmn_Hans": "早",
+    "eng_Latn": "early"
+  },
+  {
+    "cmn_Hans": "一天",
+    "eng_Latn": "one day"
+  },
+  {
+    "cmn_Hans": "超",
+    "eng_Latn": "exceed"
+  },
+  {
+    "cmn_Hans": "怀",
+    "eng_Latn": "bosom"
+  },
+  {
+    "cmn_Hans": "使",
+    "eng_Latn": "make"
+  },
+  {
+    "cmn_Hans": "断",
+    "eng_Latn": "break"
+  },
+  {
+    "cmn_Hans": "演",
+    "eng_Latn": "play"
+  },
+  {
+    "cmn_Hans": "外面",
+    "eng_Latn": "outside"
+  },
+  {
+    "cmn_Hans": "四",
+    "eng_Latn": "four"
+  },
+  {
+    "cmn_Hans": "楼",
+    "eng_Latn": "floor"
+  },
+  {
+    "cmn_Hans": "另一",
+    "eng_Latn": "another"
+  },
+  {
+    "cmn_Hans": "玩笑",
+    "eng_Latn": "joke"
+  },
+  {
+    "cmn_Hans": "好啊",
+    "eng_Latn": "well"
+  },
+  {
+    "cmn_Hans": "裡",
+    "eng_Latn": "in"
+  },
+  {
+    "cmn_Hans": "院",
+    "eng_Latn": "hospital"
+  },
+  {
+    "cmn_Hans": "空",
+    "eng_Latn": "air"
+  },
+  {
+    "cmn_Hans": "娜",
+    "eng_Latn": "na"
+  },
+  {
+    "cmn_Hans": "將",
+    "eng_Latn": "will"
+  },
+  {
+    "cmn_Hans": "下去",
+    "eng_Latn": "go on"
+  },
+  {
+    "cmn_Hans": "传",
+    "eng_Latn": "pass"
+  },
+  {
+    "cmn_Hans": "時間",
+    "eng_Latn": "time"
+  },
+  {
+    "cmn_Hans": "感到",
+    "eng_Latn": "feel"
+  },
+  {
+    "cmn_Hans": "懂",
+    "eng_Latn": "understand"
+  },
+  {
+    "cmn_Hans": "血",
+    "eng_Latn": "blood"
+  },
+  {
+    "cmn_Hans": "失去",
+    "eng_Latn": "lose"
+  },
+  {
+    "cmn_Hans": "终",
+    "eng_Latn": "end"
+  },
+  {
+    "cmn_Hans": "還是",
+    "eng_Latn": "or"
+  },
+  {
+    "cmn_Hans": "价",
+    "eng_Latn": "price"
+  },
+  {
+    "cmn_Hans": "包",
+    "eng_Latn": "package"
+  },
+  {
+    "cmn_Hans": "等",
+    "eng_Latn": "wait"
+  },
+  {
+    "cmn_Hans": "变",
+    "eng_Latn": "change"
+  },
+  {
+    "cmn_Hans": "准",
+    "eng_Latn": "quasi-"
+  },
+  {
+    "cmn_Hans": "查",
+    "eng_Latn": "check"
+  },
+  {
+    "cmn_Hans": "阿",
+    "eng_Latn": "a"
+  },
+  {
+    "cmn_Hans": "卡",
+    "eng_Latn": "card"
+  },
+  {
+    "cmn_Hans": "這個",
+    "eng_Latn": "this"
+  },
+  {
+    "cmn_Hans": "在哪",
+    "eng_Latn": "where"
+  },
+  {
+    "cmn_Hans": "定",
+    "eng_Latn": "fixed"
+  },
+  {
+    "cmn_Hans": "处",
+    "eng_Latn": "place"
+  },
+  {
+    "cmn_Hans": "真是",
+    "eng_Latn": "really"
+  },
+  {
+    "cmn_Hans": "保",
+    "eng_Latn": "insurance"
+  },
+  {
+    "cmn_Hans": "想要",
+    "eng_Latn": "want"
+  },
+  {
+    "cmn_Hans": "安",
+    "eng_Latn": "safe"
+  },
+  {
+    "cmn_Hans": "并",
+    "eng_Latn": "and"
+  },
+  {
+    "cmn_Hans": "拿",
+    "eng_Latn": "take"
+  },
+  {
+    "cmn_Hans": "情",
+    "eng_Latn": "love"
+  },
+  {
+    "cmn_Hans": "爸爸",
+    "eng_Latn": "father"
+  },
+  {
+    "cmn_Hans": "褋",
+    "eng_Latn": "die"
+  },
+  {
+    "cmn_Hans": "您",
+    "eng_Latn": "you"
+  },
+  {
+    "cmn_Hans": "美",
+    "eng_Latn": "u.s."
+  },
+  {
+    "cmn_Hans": "非常",
+    "eng_Latn": "very"
+  },
+  {
+    "cmn_Hans": "办",
+    "eng_Latn": "do"
+  },
+  {
+    "cmn_Hans": "前",
+    "eng_Latn": "ago"
+  },
+  {
+    "cmn_Hans": "格",
+    "eng_Latn": "grid"
+  },
+  {
+    "cmn_Hans": "场",
+    "eng_Latn": "field"
+  },
+  {
+    "cmn_Hans": "体",
+    "eng_Latn": "body"
+  },
+  {
+    "cmn_Hans": "大家",
+    "eng_Latn": "everyone"
+  },
+  {
+    "cmn_Hans": "呀",
+    "eng_Latn": "yeah"
+  },
+  {
+    "cmn_Hans": "系",
+    "eng_Latn": "system"
+  },
+  {
+    "cmn_Hans": "后",
+    "eng_Latn": "after"
+  },
+  {
+    "cmn_Hans": "亲",
+    "eng_Latn": "parent"
+  },
+  {
+    "cmn_Hans": "明白",
+    "eng_Latn": "understand"
+  },
+  {
+    "cmn_Hans": "备",
+    "eng_Latn": "equipment"
+  },
+  {
+    "cmn_Hans": "布",
+    "eng_Latn": "cloth"
+  },
+  {
+    "cmn_Hans": "计",
+    "eng_Latn": "meter"
+  },
+  {
+    "cmn_Hans": "恩",
+    "eng_Latn": "grace"
+  },
+  {
+    "cmn_Hans": "找到",
+    "eng_Latn": "find"
+  },
+  {
+    "cmn_Hans": "她的",
+    "eng_Latn": "her"
+  },
+  {
+    "cmn_Hans": "老",
+    "eng_Latn": "old"
+  },
+  {
+    "cmn_Hans": "艾",
+    "eng_Latn": "ai"
+  },
+  {
+    "cmn_Hans": "意",
+    "eng_Latn": "meaning"
+  },
+  {
+    "cmn_Hans": "门",
+    "eng_Latn": "door"
+  },
+  {
+    "cmn_Hans": "啦",
+    "eng_Latn": "la"
+  },
+  {
+    "cmn_Hans": "米",
+    "eng_Latn": "meter"
+  },
+  {
+    "cmn_Hans": "本",
+    "eng_Latn": "this"
+  },
+  {
+    "cmn_Hans": "问",
+    "eng_Latn": "ask"
+  },
+  {
+    "cmn_Hans": "上帝",
+    "eng_Latn": "god"
+  },
+  {
+    "cmn_Hans": "必",
+    "eng_Latn": "must"
+  },
+  {
+    "cmn_Hans": "沒",
+    "eng_Latn": "not"
+  },
+  {
+    "cmn_Hans": "等等",
+    "eng_Latn": "etc."
+  },
+  {
+    "cmn_Hans": "不過",
+    "eng_Latn": "but"
+  },
+  {
+    "cmn_Hans": "猜",
+    "eng_Latn": "guess"
+  },
+  {
+    "cmn_Hans": "福",
+    "eng_Latn": "blessing"
+  },
+  {
+    "cmn_Hans": "打算",
+    "eng_Latn": "plan"
+  },
+  {
+    "cmn_Hans": "适",
+    "eng_Latn": "suitable"
+  },
+  {
+    "cmn_Hans": "危",
+    "eng_Latn": "danger"
+  },
+  {
+    "cmn_Hans": "连",
+    "eng_Latn": "even"
+  },
+  {
+    "cmn_Hans": "怕",
+    "eng_Latn": "fear"
+  },
+  {
+    "cmn_Hans": "化",
+    "eng_Latn": "of"
+  },
+  {
+    "cmn_Hans": "不需要",
+    "eng_Latn": "do not need to"
+  },
+  {
+    "cmn_Hans": "争",
+    "eng_Latn": "fight"
+  },
+  {
+    "cmn_Hans": "则",
+    "eng_Latn": "then"
+  },
+  {
+    "cmn_Hans": "狱",
+    "eng_Latn": "prison"
+  },
+  {
+    "cmn_Hans": "越",
+    "eng_Latn": "more"
+  },
+  {
+    "cmn_Hans": "小子",
+    "eng_Latn": "brat"
+  },
+  {
+    "cmn_Hans": "有趣",
+    "eng_Latn": "interesting"
+  },
+  {
+    "cmn_Hans": "至少",
+    "eng_Latn": "at least"
+  },
+  {
+    "cmn_Hans": "亞",
+    "eng_Latn": "inferior"
+  },
+  {
+    "cmn_Hans": "脱",
+    "eng_Latn": "take off"
+  },
+  {
+    "cmn_Hans": "消息",
+    "eng_Latn": "news"
+  },
+  {
+    "cmn_Hans": "不喜",
+    "eng_Latn": "do not like"
+  },
+  {
+    "cmn_Hans": "块",
+    "eng_Latn": "block"
+  },
+  {
+    "cmn_Hans": "快走",
+    "eng_Latn": "brisk walking"
+  },
+  {
+    "cmn_Hans": "著",
+    "eng_Latn": "with"
+  },
+  {
+    "cmn_Hans": "各位",
+    "eng_Latn": "everybody"
+  },
+  {
+    "cmn_Hans": "算",
+    "eng_Latn": "count"
+  },
+  {
+    "cmn_Hans": "問題",
+    "eng_Latn": "problem"
+  },
+  {
+    "cmn_Hans": "沒事",
+    "eng_Latn": "all right"
+  },
+  {
+    "cmn_Hans": "导",
+    "eng_Latn": "guide"
+  },
+  {
+    "cmn_Hans": "州",
+    "eng_Latn": "state"
+  },
+  {
+    "cmn_Hans": "老兄",
+    "eng_Latn": "brother"
+  },
+  {
+    "cmn_Hans": "抓",
+    "eng_Latn": "catch"
+  },
+  {
+    "cmn_Hans": "代",
+    "eng_Latn": "on behalf of"
+  },
+  {
+    "cmn_Hans": "蒙",
+    "eng_Latn": "mongolian"
+  },
+  {
+    "cmn_Hans": "抓住",
+    "eng_Latn": "catch"
+  },
+  {
+    "cmn_Hans": "山",
+    "eng_Latn": "mountain"
+  },
+  {
+    "cmn_Hans": "拍",
+    "eng_Latn": "beat"
+  },
+  {
+    "cmn_Hans": "沙",
+    "eng_Latn": "sand"
+  },
+  {
+    "cmn_Hans": "妻子",
+    "eng_Latn": "wife"
+  },
+  {
+    "cmn_Hans": "脸",
+    "eng_Latn": "face"
+  },
+  {
+    "cmn_Hans": "责",
+    "eng_Latn": "responsibility"
+  },
+  {
+    "cmn_Hans": "你自己",
+    "eng_Latn": "yourself"
+  },
+  {
+    "cmn_Hans": "回來",
+    "eng_Latn": "come back"
+  },
+  {
+    "cmn_Hans": "歌",
+    "eng_Latn": "song"
+  },
+  {
+    "cmn_Hans": "星",
+    "eng_Latn": "star"
+  },
+  {
+    "cmn_Hans": "权",
+    "eng_Latn": "right"
+  },
+  {
+    "cmn_Hans": "术",
+    "eng_Latn": "technique"
+  },
+  {
+    "cmn_Hans": "显",
+    "eng_Latn": "show"
+  },
+  {
+    "cmn_Hans": "幸",
+    "eng_Latn": "fortunately"
+  },
+  {
+    "cmn_Hans": "交",
+    "eng_Latn": "cross"
+  },
+  {
+    "cmn_Hans": "不同",
+    "eng_Latn": "different"
+  },
+  {
+    "cmn_Hans": "聪",
+    "eng_Latn": "clever"
+  },
+  {
+    "cmn_Hans": "随",
+    "eng_Latn": "follow"
+  },
+  {
+    "cmn_Hans": "登",
+    "eng_Latn": "ascend"
+  },
+  {
+    "cmn_Hans": "班",
+    "eng_Latn": "class"
+  },
+  {
+    "cmn_Hans": "二",
+    "eng_Latn": "two"
+  },
+  {
+    "cmn_Hans": "录",
+    "eng_Latn": "record"
+  },
+  {
+    "cmn_Hans": "武器",
+    "eng_Latn": "weapon"
+  },
+  {
+    "cmn_Hans": "热",
+    "eng_Latn": "hot"
+  },
+  {
+    "cmn_Hans": "才能",
+    "eng_Latn": "ability"
+  },
+  {
+    "cmn_Hans": "當然",
+    "eng_Latn": "of course"
+  },
+  {
+    "cmn_Hans": "晚",
+    "eng_Latn": "night"
+  },
+  {
+    "cmn_Hans": "晚安",
+    "eng_Latn": "good night"
+  },
+  {
+    "cmn_Hans": "成功",
+    "eng_Latn": "success"
+  },
+  {
+    "cmn_Hans": "未",
+    "eng_Latn": "not"
+  },
+  {
+    "cmn_Hans": "参",
+    "eng_Latn": "participate"
+  },
+  {
+    "cmn_Hans": "瓦",
+    "eng_Latn": "tile"
+  },
+  {
+    "cmn_Hans": "饭",
+    "eng_Latn": "rice"
+  },
+  {
+    "cmn_Hans": "殺",
+    "eng_Latn": "kill"
+  },
+  {
+    "cmn_Hans": "帕",
+    "eng_Latn": "handkerchief"
+  },
+  {
+    "cmn_Hans": "待",
+    "eng_Latn": "to be"
+  },
+  {
+    "cmn_Hans": "是否",
+    "eng_Latn": "whether"
+  },
+  {
+    "cmn_Hans": "勒",
+    "eng_Latn": "le"
+  },
+  {
+    "cmn_Hans": "射",
+    "eng_Latn": "shoot"
+  },
+  {
+    "cmn_Hans": "表",
+    "eng_Latn": "table"
+  },
+  {
+    "cmn_Hans": "卫",
+    "eng_Latn": "guard"
+  },
+  {
+    "cmn_Hans": "太太",
+    "eng_Latn": "wife"
+  },
+  {
+    "cmn_Hans": "接受",
+    "eng_Latn": "accepted"
+  },
+  {
+    "cmn_Hans": "跳",
+    "eng_Latn": "jump"
+  },
+  {
+    "cmn_Hans": "象",
+    "eng_Latn": "elephant"
+  },
+  {
+    "cmn_Hans": "灵",
+    "eng_Latn": "spirit"
+  },
+  {
+    "cmn_Hans": "真不",
+    "eng_Latn": "i really do not"
+  },
+  {
+    "cmn_Hans": "破",
+    "eng_Latn": "break"
+  },
+  {
+    "cmn_Hans": "夫人",
+    "eng_Latn": "mrs."
+  },
+  {
+    "cmn_Hans": "操",
+    "eng_Latn": "exercise"
+  },
+  {
+    "cmn_Hans": "诺",
+    "eng_Latn": "promise"
+  },
+  {
+    "cmn_Hans": "萨",
+    "eng_Latn": "bodhisattva"
+  },
+  {
+    "cmn_Hans": "卖",
+    "eng_Latn": "sell"
+  },
+  {
+    "cmn_Hans": "选",
+    "eng_Latn": "selected"
+  },
+  {
+    "cmn_Hans": "注意",
+    "eng_Latn": "note"
+  },
+  {
+    "cmn_Hans": "历",
+    "eng_Latn": "calendar"
+  },
+  {
+    "cmn_Hans": "脚",
+    "eng_Latn": "foot"
+  },
+  {
+    "cmn_Hans": "丝",
+    "eng_Latn": "wire"
+  },
+  {
+    "cmn_Hans": "少",
+    "eng_Latn": "less"
+  },
+  {
+    "cmn_Hans": "工",
+    "eng_Latn": "work"
+  },
+  {
+    "cmn_Hans": "密",
+    "eng_Latn": "close"
+  },
+  {
+    "cmn_Hans": "鱼",
+    "eng_Latn": "fish"
+  },
+  {
+    "cmn_Hans": "验",
+    "eng_Latn": "test"
+  },
+  {
+    "cmn_Hans": "不再",
+    "eng_Latn": "no longer"
+  },
+  {
+    "cmn_Hans": "检",
+    "eng_Latn": "check"
+  },
+  {
+    "cmn_Hans": "骗",
+    "eng_Latn": "cheat"
+  },
+  {
+    "cmn_Hans": "必須",
+    "eng_Latn": "must"
+  },
+  {
+    "cmn_Hans": "自由",
+    "eng_Latn": "free"
+  },
+  {
+    "cmn_Hans": "杯",
+    "eng_Latn": "cup"
+  },
+  {
+    "cmn_Hans": "馆",
+    "eng_Latn": "shop"
+  },
+  {
+    "cmn_Hans": "完",
+    "eng_Latn": "complete"
+  },
+  {
+    "cmn_Hans": "追",
+    "eng_Latn": "chase"
+  },
+  {
+    "cmn_Hans": "际",
+    "eng_Latn": "occasion"
+  },
+  {
+    "cmn_Hans": "产",
+    "eng_Latn": "yield"
+  },
+  {
+    "cmn_Hans": "想到",
+    "eng_Latn": "think"
+  },
+  {
+    "cmn_Hans": "收",
+    "eng_Latn": "income"
+  },
+  {
+    "cmn_Hans": "探",
+    "eng_Latn": "explore"
+  },
+  {
+    "cmn_Hans": "直到",
+    "eng_Latn": "until"
+  },
+  {
+    "cmn_Hans": "酷",
+    "eng_Latn": "cool"
+  },
+  {
+    "cmn_Hans": "乱",
+    "eng_Latn": "random"
+  },
+  {
+    "cmn_Hans": "资",
+    "eng_Latn": "capital"
+  },
+  {
+    "cmn_Hans": "毁",
+    "eng_Latn": "ruin"
+  },
+  {
+    "cmn_Hans": "要求",
+    "eng_Latn": "claim"
+  },
+  {
+    "cmn_Hans": "急",
+    "eng_Latn": "urgent"
+  },
+  {
+    "cmn_Hans": "玛",
+    "eng_Latn": "mary"
+  },
+  {
+    "cmn_Hans": "方",
+    "eng_Latn": "square"
+  },
+  {
+    "cmn_Hans": "完成",
+    "eng_Latn": "complete"
+  },
+  {
+    "cmn_Hans": "照片",
+    "eng_Latn": "photo"
+  },
+  {
+    "cmn_Hans": "收到",
+    "eng_Latn": "receive"
+  },
+  {
+    "cmn_Hans": "所有人",
+    "eng_Latn": "everyone"
+  },
+  {
+    "cmn_Hans": "博士",
+    "eng_Latn": "doctor"
+  },
+  {
+    "cmn_Hans": "媽媽",
+    "eng_Latn": "mom"
+  },
+  {
+    "cmn_Hans": "父母",
+    "eng_Latn": "parents"
+  },
+  {
+    "cmn_Hans": "奇怪",
+    "eng_Latn": "strange"
+  },
+  {
+    "cmn_Hans": "男孩",
+    "eng_Latn": "boy"
+  },
+  {
+    "cmn_Hans": "攻",
+    "eng_Latn": "attack"
+  },
+  {
+    "cmn_Hans": "店",
+    "eng_Latn": "shop"
+  },
+  {
+    "cmn_Hans": "埃",
+    "eng_Latn": "angstrom"
+  },
+  {
+    "cmn_Hans": "多久",
+    "eng_Latn": "how long"
+  },
+  {
+    "cmn_Hans": "红",
+    "eng_Latn": "red"
+  },
+  {
+    "cmn_Hans": "太多",
+    "eng_Latn": "too"
+  },
+  {
+    "cmn_Hans": "咱",
+    "eng_Latn": "we"
+  },
+  {
+    "cmn_Hans": "能",
+    "eng_Latn": "can"
+  },
+  {
+    "cmn_Hans": "事",
+    "eng_Latn": "thing"
+  },
+  {
+    "cmn_Hans": "看",
+    "eng_Latn": "see"
+  },
+  {
+    "cmn_Hans": "我們",
+    "eng_Latn": "we"
+  },
+  {
+    "cmn_Hans": "上",
+    "eng_Latn": "on"
+  },
+  {
+    "cmn_Hans": "给",
+    "eng_Latn": "to"
+  },
+  {
+    "cmn_Hans": "可以",
+    "eng_Latn": "can"
+  },
+  {
+    "cmn_Hans": "现",
+    "eng_Latn": "present"
+  },
+  {
+    "cmn_Hans": "斯",
+    "eng_Latn": "sri lanka"
+  },
+  {
+    "cmn_Hans": "做",
+    "eng_Latn": "do"
+  },
+  {
+    "cmn_Hans": "儿",
+    "eng_Latn": "child"
+  },
+  {
+    "cmn_Hans": "时",
+    "eng_Latn": "time"
+  },
+  {
+    "cmn_Hans": "点",
+    "eng_Latn": "point"
+  },
+  {
+    "cmn_Hans": "开",
+    "eng_Latn": "open"
+  },
+  {
+    "cmn_Hans": "让",
+    "eng_Latn": "let"
+  },
+  {
+    "cmn_Hans": "就是",
+    "eng_Latn": "is"
+  },
+  {
+    "cmn_Hans": "但",
+    "eng_Latn": "but"
+  },
+  {
+    "cmn_Hans": "呢",
+    "eng_Latn": "it"
+  },
+  {
+    "cmn_Hans": "着",
+    "eng_Latn": "with"
+  },
+  {
+    "cmn_Hans": "它",
+    "eng_Latn": "it"
+  },
+  {
+    "cmn_Hans": "這",
+    "eng_Latn": "this"
+  },
+  {
+    "cmn_Hans": "如果",
+    "eng_Latn": "if"
+  },
+  {
+    "cmn_Hans": "跟",
+    "eng_Latn": "with"
+  },
+  {
+    "cmn_Hans": "邪",
+    "eng_Latn": "evil"
+  },
+  {
+    "cmn_Hans": "听",
+    "eng_Latn": "listen"
+  },
+  {
+    "cmn_Hans": "克",
+    "eng_Latn": "gram"
+  },
+  {
+    "cmn_Hans": "再",
+    "eng_Latn": "again"
+  },
+  {
+    "cmn_Hans": "快",
+    "eng_Latn": "fast"
+  },
+  {
+    "cmn_Hans": "嗎",
+    "eng_Latn": "do"
+  },
+  {
+    "cmn_Hans": "被",
+    "eng_Latn": "be"
+  },
+  {
+    "cmn_Hans": "是的",
+    "eng_Latn": "yes"
+  },
+  {
+    "cmn_Hans": "大",
+    "eng_Latn": "large"
+  },
+  {
+    "cmn_Hans": "先生",
+    "eng_Latn": "mr."
+  },
+  {
+    "cmn_Hans": "别",
+    "eng_Latn": "do not"
+  },
+  {
+    "cmn_Hans": "告",
+    "eng_Latn": "tell"
+  },
+  {
+    "cmn_Hans": "真的",
+    "eng_Latn": "really"
+  },
+  {
+    "cmn_Hans": "谢",
+    "eng_Latn": "thank"
+  },
+  {
+    "cmn_Hans": "哦",
+    "eng_Latn": "oh"
+  },
+  {
+    "cmn_Hans": "话",
+    "eng_Latn": "words"
+  },
+  {
+    "cmn_Hans": "械",
+    "eng_Latn": "instrument"
+  },
+  {
+    "cmn_Hans": "见",
+    "eng_Latn": "see"
+  },
+  {
+    "cmn_Hans": "当",
+    "eng_Latn": "when the"
+  },
+  {
+    "cmn_Hans": "芯",
+    "eng_Latn": "core"
+  },
+  {
+    "cmn_Hans": "该",
+    "eng_Latn": "that"
+  },
+  {
+    "cmn_Hans": "西",
+    "eng_Latn": "western"
+  },
+  {
+    "cmn_Hans": "子",
+    "eng_Latn": "child"
+  },
+  {
+    "cmn_Hans": "已",
+    "eng_Latn": "already"
+  },
+  {
+    "cmn_Hans": "會",
+    "eng_Latn": "can"
+  },
+  {
+    "cmn_Hans": "小",
+    "eng_Latn": "small"
+  },
+  {
+    "cmn_Hans": "爱",
+    "eng_Latn": "love"
+  },
+  {
+    "cmn_Hans": "特",
+    "eng_Latn": "special"
+  }
+]

@@ -1,0 +1,3302 @@
+[
+  {
+    "gle_Latn": "mé",
+    "eng_Latn": "i"
+  },
+  {
+    "gle_Latn": "sé",
+    "eng_Latn": "he"
+  },
+  {
+    "gle_Latn": "bhí",
+    "eng_Latn": "was"
+  },
+  {
+    "gle_Latn": "tá",
+    "eng_Latn": "are"
+  },
+  {
+    "gle_Latn": "le",
+    "eng_Latn": "with"
+  },
+  {
+    "gle_Latn": "siad",
+    "eng_Latn": "they"
+  },
+  {
+    "gle_Latn": "bheith",
+    "eng_Latn": "be"
+  },
+  {
+    "gle_Latn": "ag",
+    "eng_Latn": "at"
+  },
+  {
+    "gle_Latn": "amháin",
+    "eng_Latn": "one"
+  },
+  {
+    "gle_Latn": "seo",
+    "eng_Latn": "this"
+  },
+  {
+    "gle_Latn": "ó",
+    "eng_Latn": "from"
+  },
+  {
+    "gle_Latn": "roinnt",
+    "eng_Latn": "some"
+  },
+  {
+    "gle_Latn": "tú",
+    "eng_Latn": "you"
+  },
+  {
+    "gle_Latn": "nó",
+    "eng_Latn": "or"
+  },
+  {
+    "gle_Latn": "agus",
+    "eng_Latn": "and"
+  },
+  {
+    "gle_Latn": "againn",
+    "eng_Latn": "we"
+  },
+  {
+    "gle_Latn": "is féidir",
+    "eng_Latn": "can"
+  },
+  {
+    "gle_Latn": "amach",
+    "eng_Latn": "out"
+  },
+  {
+    "gle_Latn": "eile",
+    "eng_Latn": "other"
+  },
+  {
+    "gle_Latn": "dhéanamh",
+    "eng_Latn": "do"
+  },
+  {
+    "gle_Latn": "n-",
+    "eng_Latn": "their"
+  },
+  {
+    "gle_Latn": "más rud é",
+    "eng_Latn": "if"
+  },
+  {
+    "gle_Latn": "beidh",
+    "eng_Latn": "will"
+  },
+  {
+    "gle_Latn": "conas",
+    "eng_Latn": "how"
+  },
+  {
+    "gle_Latn": "dúirt",
+    "eng_Latn": "said"
+  },
+  {
+    "gle_Latn": "gach",
+    "eng_Latn": "each"
+  },
+  {
+    "gle_Latn": "insint",
+    "eng_Latn": "tell"
+  },
+  {
+    "gle_Latn": "dhéanann",
+    "eng_Latn": "does"
+  },
+  {
+    "gle_Latn": "leagtha",
+    "eng_Latn": "set"
+  },
+  {
+    "gle_Latn": "trí",
+    "eng_Latn": "three"
+  },
+  {
+    "gle_Latn": "ba mhaith",
+    "eng_Latn": "want"
+  },
+  {
+    "gle_Latn": "go maith",
+    "eng_Latn": "well"
+  },
+  {
+    "gle_Latn": "freisin",
+    "eng_Latn": "also"
+  },
+  {
+    "gle_Latn": "imirt",
+    "eng_Latn": "play"
+  },
+  {
+    "gle_Latn": "beag",
+    "eng_Latn": "small"
+  },
+  {
+    "gle_Latn": "deireadh",
+    "eng_Latn": "end"
+  },
+  {
+    "gle_Latn": "chur",
+    "eng_Latn": "put"
+  },
+  {
+    "gle_Latn": "baile",
+    "eng_Latn": "home"
+  },
+  {
+    "gle_Latn": "léamh",
+    "eng_Latn": "read"
+  },
+  {
+    "gle_Latn": "lámh",
+    "eng_Latn": "hand"
+  },
+  {
+    "gle_Latn": "calafoirt",
+    "eng_Latn": "port"
+  },
+  {
+    "gle_Latn": "mór",
+    "eng_Latn": "large"
+  },
+  {
+    "gle_Latn": "litriú",
+    "eng_Latn": "spell"
+  },
+  {
+    "gle_Latn": "fiú",
+    "eng_Latn": "even"
+  },
+  {
+    "gle_Latn": "talamh",
+    "eng_Latn": "land"
+  },
+  {
+    "gle_Latn": "anseo",
+    "eng_Latn": "here"
+  },
+  {
+    "gle_Latn": "ní mór",
+    "eng_Latn": "must"
+  },
+  {
+    "gle_Latn": "ard",
+    "eng_Latn": "high"
+  },
+  {
+    "gle_Latn": "den sórt sin a",
+    "eng_Latn": "such"
+  },
+  {
+    "gle_Latn": "leanúint",
+    "eng_Latn": "follow"
+  },
+  {
+    "gle_Latn": "gníomh",
+    "eng_Latn": "act"
+  },
+  {
+    "gle_Latn": "cén fáth",
+    "eng_Latn": "why"
+  },
+  {
+    "gle_Latn": "a iarraidh",
+    "eng_Latn": "ask"
+  },
+  {
+    "gle_Latn": "athraithe",
+    "eng_Latn": "change"
+  },
+  {
+    "gle_Latn": "chuaigh",
+    "eng_Latn": "went"
+  },
+  {
+    "gle_Latn": "solas",
+    "eng_Latn": "light"
+  },
+  {
+    "gle_Latn": "chineál",
+    "eng_Latn": "kind"
+  },
+  {
+    "gle_Latn": "pictiúr",
+    "eng_Latn": "picture"
+  },
+  {
+    "gle_Latn": "iarracht",
+    "eng_Latn": "try"
+  },
+  {
+    "gle_Latn": "dúinn",
+    "eng_Latn": "us"
+  },
+  {
+    "gle_Latn": "arís",
+    "eng_Latn": "again"
+  },
+  {
+    "gle_Latn": "ainmhithe",
+    "eng_Latn": "animal"
+  },
+  {
+    "gle_Latn": "pointe",
+    "eng_Latn": "point"
+  },
+  {
+    "gle_Latn": "máthair",
+    "eng_Latn": "mother"
+  },
+  {
+    "gle_Latn": "domhan",
+    "eng_Latn": "world"
+  },
+  {
+    "gle_Latn": "in aice le",
+    "eng_Latn": "near"
+  },
+  {
+    "gle_Latn": "a thógáil",
+    "eng_Latn": "build"
+  },
+  {
+    "gle_Latn": "féin",
+    "eng_Latn": "self"
+  },
+  {
+    "gle_Latn": "cré",
+    "eng_Latn": "earth"
+  },
+  {
+    "gle_Latn": "athair",
+    "eng_Latn": "father"
+  },
+  {
+    "gle_Latn": "aon",
+    "eng_Latn": "any"
+  },
+  {
+    "gle_Latn": "nua",
+    "eng_Latn": "new"
+  },
+  {
+    "gle_Latn": "obair",
+    "eng_Latn": "work"
+  },
+  {
+    "gle_Latn": "chuid",
+    "eng_Latn": "part"
+  },
+  {
+    "gle_Latn": "ghlacadh",
+    "eng_Latn": "take"
+  },
+  {
+    "gle_Latn": "a fháil",
+    "eng_Latn": "get"
+  },
+  {
+    "gle_Latn": "áit",
+    "eng_Latn": "place"
+  },
+  {
+    "gle_Latn": "déanta",
+    "eng_Latn": "made"
+  },
+  {
+    "gle_Latn": "beo",
+    "eng_Latn": "live"
+  },
+  {
+    "gle_Latn": "i gcás ina",
+    "eng_Latn": "where"
+  },
+  {
+    "gle_Latn": "tar éis",
+    "eng_Latn": "after"
+  },
+  {
+    "gle_Latn": "ar ais",
+    "eng_Latn": "back"
+  },
+  {
+    "gle_Latn": "bhabhta",
+    "eng_Latn": "round"
+  },
+  {
+    "gle_Latn": "bliain",
+    "eng_Latn": "year"
+  },
+  {
+    "gle_Latn": "tháinig",
+    "eng_Latn": "came"
+  },
+  {
+    "gle_Latn": "thaispeáint",
+    "eng_Latn": "show"
+  },
+  {
+    "gle_Latn": "maith",
+    "eng_Latn": "good"
+  },
+  {
+    "gle_Latn": "thabhairt",
+    "eng_Latn": "give"
+  },
+  {
+    "gle_Latn": "ár n-",
+    "eng_Latn": "our"
+  },
+  {
+    "gle_Latn": "faoi",
+    "eng_Latn": "under"
+  },
+  {
+    "gle_Latn": "ainm",
+    "eng_Latn": "name"
+  },
+  {
+    "gle_Latn": "an-",
+    "eng_Latn": "very"
+  },
+  {
+    "gle_Latn": "fhoirm",
+    "eng_Latn": "form"
+  },
+  {
+    "gle_Latn": "abairt",
+    "eng_Latn": "sentence"
+  },
+  {
+    "gle_Latn": "i mo thuairimse,",
+    "eng_Latn": "think"
+  },
+  {
+    "gle_Latn": "rá",
+    "eng_Latn": "say"
+  },
+  {
+    "gle_Latn": "cabhrú",
+    "eng_Latn": "help"
+  },
+  {
+    "gle_Latn": "íseal",
+    "eng_Latn": "low"
+  },
+  {
+    "gle_Latn": "líne",
+    "eng_Latn": "line"
+  },
+  {
+    "gle_Latn": "difriúil",
+    "eng_Latn": "differ"
+  },
+  {
+    "gle_Latn": "cas",
+    "eng_Latn": "turn"
+  },
+  {
+    "gle_Latn": "faoi deara",
+    "eng_Latn": "cause"
+  },
+  {
+    "gle_Latn": "i bhfad",
+    "eng_Latn": "much"
+  },
+  {
+    "gle_Latn": "ciallóidh",
+    "eng_Latn": "mean"
+  },
+  {
+    "gle_Latn": "roimh",
+    "eng_Latn": "before"
+  },
+  {
+    "gle_Latn": "bogadh",
+    "eng_Latn": "move"
+  },
+  {
+    "gle_Latn": "ceart",
+    "eng_Latn": "right"
+  },
+  {
+    "gle_Latn": "buachaill",
+    "eng_Latn": "boy"
+  },
+  {
+    "gle_Latn": "d’aois",
+    "eng_Latn": "old"
+  },
+  {
+    "gle_Latn": "céanna",
+    "eng_Latn": "same"
+  },
+  {
+    "gle_Latn": "sí",
+    "eng_Latn": "she"
+  },
+  {
+    "gle_Latn": "go léir",
+    "eng_Latn": "all"
+  },
+  {
+    "gle_Latn": "nuair",
+    "eng_Latn": "when"
+  },
+  {
+    "gle_Latn": "suas",
+    "eng_Latn": "up"
+  },
+  {
+    "gle_Latn": "úsáid",
+    "eng_Latn": "use"
+  },
+  {
+    "gle_Latn": "bhealach",
+    "eng_Latn": "way"
+  },
+  {
+    "gle_Latn": "go leor",
+    "eng_Latn": "many"
+  },
+  {
+    "gle_Latn": "ansin",
+    "eng_Latn": "then"
+  },
+  {
+    "gle_Latn": "iad",
+    "eng_Latn": "them"
+  },
+  {
+    "gle_Latn": "scríobh",
+    "eng_Latn": "write"
+  },
+  {
+    "gle_Latn": "bheadh",
+    "eng_Latn": "would"
+  },
+  {
+    "gle_Latn": "cosúil le",
+    "eng_Latn": "like"
+  },
+  {
+    "gle_Latn": "mar sin",
+    "eng_Latn": "so"
+  },
+  {
+    "gle_Latn": "fada",
+    "eng_Latn": "long"
+  },
+  {
+    "gle_Latn": "féach",
+    "eng_Latn": "see"
+  },
+  {
+    "gle_Latn": "dhá",
+    "eng_Latn": "two"
+  },
+  {
+    "gle_Latn": "breathnú",
+    "eng_Latn": "look"
+  },
+  {
+    "gle_Latn": "níos mó",
+    "eng_Latn": "more"
+  },
+  {
+    "gle_Latn": "lá",
+    "eng_Latn": "day"
+  },
+  {
+    "gle_Latn": "d’fhéadfadh",
+    "eng_Latn": "could"
+  },
+  {
+    "gle_Latn": "dul",
+    "eng_Latn": "go"
+  },
+  {
+    "gle_Latn": "teacht",
+    "eng_Latn": "come"
+  },
+  {
+    "gle_Latn": "rinne",
+    "eng_Latn": "did"
+  },
+  {
+    "gle_Latn": "líon",
+    "eng_Latn": "number"
+  },
+  {
+    "gle_Latn": "fuaim",
+    "eng_Latn": "sound"
+  },
+  {
+    "gle_Latn": "an chuid is mó",
+    "eng_Latn": "most"
+  },
+  {
+    "gle_Latn": "níos mó ná",
+    "eng_Latn": "over"
+  },
+  {
+    "gle_Latn": "tá a fhios",
+    "eng_Latn": "know"
+  },
+  {
+    "gle_Latn": "uisce",
+    "eng_Latn": "water"
+  },
+  {
+    "gle_Latn": "ná",
+    "eng_Latn": "than"
+  },
+  {
+    "gle_Latn": "glao",
+    "eng_Latn": "call"
+  },
+  {
+    "gle_Latn": "ar dtús",
+    "eng_Latn": "first"
+  },
+  {
+    "gle_Latn": "féadfaidh",
+    "eng_Latn": "may"
+  },
+  {
+    "gle_Latn": "síos",
+    "eng_Latn": "down"
+  },
+  {
+    "gle_Latn": "taobh",
+    "eng_Latn": "side"
+  },
+  {
+    "gle_Latn": "curtha",
+    "eng_Latn": "been"
+  },
+  {
+    "gle_Latn": "anois",
+    "eng_Latn": "now"
+  },
+  {
+    "gle_Latn": "aimsiú",
+    "eng_Latn": "find"
+  },
+  {
+    "gle_Latn": "ceann",
+    "eng_Latn": "head"
+  },
+  {
+    "gle_Latn": "seasamh",
+    "eng_Latn": "stand"
+  },
+  {
+    "gle_Latn": "leathanach",
+    "eng_Latn": "page"
+  },
+  {
+    "gle_Latn": "ba chóir",
+    "eng_Latn": "should"
+  },
+  {
+    "gle_Latn": "tír",
+    "eng_Latn": "country"
+  },
+  {
+    "gle_Latn": "fuair",
+    "eng_Latn": "found"
+  },
+  {
+    "gle_Latn": "freagra",
+    "eng_Latn": "answer"
+  },
+  {
+    "gle_Latn": "scoil",
+    "eng_Latn": "school"
+  },
+  {
+    "gle_Latn": "fás",
+    "eng_Latn": "grow"
+  },
+  {
+    "gle_Latn": "staidéar",
+    "eng_Latn": "study"
+  },
+  {
+    "gle_Latn": "fós",
+    "eng_Latn": "still"
+  },
+  {
+    "gle_Latn": "foghlaim",
+    "eng_Latn": "learn"
+  },
+  {
+    "gle_Latn": "plandaí",
+    "eng_Latn": "plant"
+  },
+  {
+    "gle_Latn": "chlúdach",
+    "eng_Latn": "cover"
+  },
+  {
+    "gle_Latn": "bia",
+    "eng_Latn": "food"
+  },
+  {
+    "gle_Latn": "ghrian",
+    "eng_Latn": "sun"
+  },
+  {
+    "gle_Latn": "ceithre",
+    "eng_Latn": "four"
+  },
+  {
+    "gle_Latn": "idir",
+    "eng_Latn": "between"
+  },
+  {
+    "gle_Latn": "stáit",
+    "eng_Latn": "state"
+  },
+  {
+    "gle_Latn": "choinneáil",
+    "eng_Latn": "keep"
+  },
+  {
+    "gle_Latn": "súl",
+    "eng_Latn": "eye"
+  },
+  {
+    "gle_Latn": "riamh",
+    "eng_Latn": "never"
+  },
+  {
+    "gle_Latn": "seo caite",
+    "eng_Latn": "last"
+  },
+  {
+    "gle_Latn": "a ligean",
+    "eng_Latn": "let"
+  },
+  {
+    "gle_Latn": "shíl",
+    "eng_Latn": "thought"
+  },
+  {
+    "gle_Latn": "cathair",
+    "eng_Latn": "city"
+  },
+  {
+    "gle_Latn": "crann",
+    "eng_Latn": "tree"
+  },
+  {
+    "gle_Latn": "tras",
+    "eng_Latn": "cross"
+  },
+  {
+    "gle_Latn": "feirme",
+    "eng_Latn": "farm"
+  },
+  {
+    "gle_Latn": "crua",
+    "eng_Latn": "hard"
+  },
+  {
+    "gle_Latn": "tús",
+    "eng_Latn": "start"
+  },
+  {
+    "gle_Latn": "scéal",
+    "eng_Latn": "story"
+  },
+  {
+    "gle_Latn": "chonaic",
+    "eng_Latn": "saw"
+  },
+  {
+    "gle_Latn": "farraige",
+    "eng_Latn": "sea"
+  },
+  {
+    "gle_Latn": "a tharraingt",
+    "eng_Latn": "draw"
+  },
+  {
+    "gle_Latn": "chlé",
+    "eng_Latn": "left"
+  },
+  {
+    "gle_Latn": "déanach",
+    "eng_Latn": "late"
+  },
+  {
+    "gle_Latn": "rith",
+    "eng_Latn": "run"
+  },
+  {
+    "gle_Latn": "cé go",
+    "eng_Latn": "while"
+  },
+  {
+    "gle_Latn": "preas",
+    "eng_Latn": "press"
+  },
+  {
+    "gle_Latn": "oíche",
+    "eng_Latn": "night"
+  },
+  {
+    "gle_Latn": "fíor",
+    "eng_Latn": "real"
+  },
+  {
+    "gle_Latn": "saol",
+    "eng_Latn": "life"
+  },
+  {
+    "gle_Latn": "ó thuaidh",
+    "eng_Latn": "north"
+  },
+  {
+    "gle_Latn": "leabhar",
+    "eng_Latn": "book"
+  },
+  {
+    "gle_Latn": "iompar",
+    "eng_Latn": "carry"
+  },
+  {
+    "gle_Latn": "ghlac",
+    "eng_Latn": "took"
+  },
+  {
+    "gle_Latn": "eolaíocht",
+    "eng_Latn": "science"
+  },
+  {
+    "gle_Latn": "ithe",
+    "eng_Latn": "eat"
+  },
+  {
+    "gle_Latn": "seomra",
+    "eng_Latn": "room"
+  },
+  {
+    "gle_Latn": "cara",
+    "eng_Latn": "friend"
+  },
+  {
+    "gle_Latn": "thosaigh",
+    "eng_Latn": "began"
+  },
+  {
+    "gle_Latn": "smaoineamh",
+    "eng_Latn": "idea"
+  },
+  {
+    "gle_Latn": "iasc",
+    "eng_Latn": "fish"
+  },
+  {
+    "gle_Latn": "sliabh",
+    "eng_Latn": "mountain"
+  },
+  {
+    "gle_Latn": "stad",
+    "eng_Latn": "stop"
+  },
+  {
+    "gle_Latn": "uair amháin",
+    "eng_Latn": "once"
+  },
+  {
+    "gle_Latn": "bonn",
+    "eng_Latn": "base"
+  },
+  {
+    "gle_Latn": "chloisteáil",
+    "eng_Latn": "hear"
+  },
+  {
+    "gle_Latn": "capall",
+    "eng_Latn": "horse"
+  },
+  {
+    "gle_Latn": "gearrtha",
+    "eng_Latn": "cut"
+  },
+  {
+    "gle_Latn": "cinnte",
+    "eng_Latn": "sure"
+  },
+  {
+    "gle_Latn": "féachaint ar",
+    "eng_Latn": "watch"
+  },
+  {
+    "gle_Latn": "dath",
+    "eng_Latn": "color"
+  },
+  {
+    "gle_Latn": "aghaidh",
+    "eng_Latn": "face"
+  },
+  {
+    "gle_Latn": "adhmad",
+    "eng_Latn": "wood"
+  },
+  {
+    "gle_Latn": "príomh-",
+    "eng_Latn": "main"
+  },
+  {
+    "gle_Latn": "oscailte",
+    "eng_Latn": "open"
+  },
+  {
+    "gle_Latn": "is cosúil go",
+    "eng_Latn": "seem"
+  },
+  {
+    "gle_Latn": "le chéile",
+    "eng_Latn": "together"
+  },
+  {
+    "gle_Latn": "seo chugainn",
+    "eng_Latn": "next"
+  },
+  {
+    "gle_Latn": "bán",
+    "eng_Latn": "white"
+  },
+  {
+    "gle_Latn": "leanaí",
+    "eng_Latn": "children"
+  },
+  {
+    "gle_Latn": "tús a chur",
+    "eng_Latn": "begin"
+  },
+  {
+    "gle_Latn": "siúl",
+    "eng_Latn": "walk"
+  },
+  {
+    "gle_Latn": "mar shampla",
+    "eng_Latn": "example"
+  },
+  {
+    "gle_Latn": "maolú ar",
+    "eng_Latn": "ease"
+  },
+  {
+    "gle_Latn": "páipéar",
+    "eng_Latn": "paper"
+  },
+  {
+    "gle_Latn": "grúpa",
+    "eng_Latn": "group"
+  },
+  {
+    "gle_Latn": "i gcónaí",
+    "eng_Latn": "always"
+  },
+  {
+    "gle_Latn": "ceol",
+    "eng_Latn": "music"
+  },
+  {
+    "gle_Latn": "dá",
+    "eng_Latn": "both"
+  },
+  {
+    "gle_Latn": "is minic",
+    "eng_Latn": "often"
+  },
+  {
+    "gle_Latn": "litir",
+    "eng_Latn": "letter"
+  },
+  {
+    "gle_Latn": "go dtí",
+    "eng_Latn": "until"
+  },
+  {
+    "gle_Latn": "míle",
+    "eng_Latn": "mile"
+  },
+  {
+    "gle_Latn": "abhainn",
+    "eng_Latn": "river"
+  },
+  {
+    "gle_Latn": "cosa",
+    "eng_Latn": "feet"
+  },
+  {
+    "gle_Latn": "cúram",
+    "eng_Latn": "care"
+  },
+  {
+    "gle_Latn": "an dara",
+    "eng_Latn": "second"
+  },
+  {
+    "gle_Latn": "leor",
+    "eng_Latn": "enough"
+  },
+  {
+    "gle_Latn": "cailín",
+    "eng_Latn": "girl"
+  },
+  {
+    "gle_Latn": "gnách",
+    "eng_Latn": "usual"
+  },
+  {
+    "gle_Latn": "óg",
+    "eng_Latn": "young"
+  },
+  {
+    "gle_Latn": "réidh",
+    "eng_Latn": "ready"
+  },
+  {
+    "gle_Latn": "thuas",
+    "eng_Latn": "above"
+  },
+  {
+    "gle_Latn": "dearg",
+    "eng_Latn": "red"
+  },
+  {
+    "gle_Latn": "liosta",
+    "eng_Latn": "list"
+  },
+  {
+    "gle_Latn": "bhraitheann",
+    "eng_Latn": "feel"
+  },
+  {
+    "gle_Latn": "plé",
+    "eng_Latn": "talk"
+  },
+  {
+    "gle_Latn": "éan",
+    "eng_Latn": "bird"
+  },
+  {
+    "gle_Latn": "go luath",
+    "eng_Latn": "soon"
+  },
+  {
+    "gle_Latn": "comhlacht",
+    "eng_Latn": "body"
+  },
+  {
+    "gle_Latn": "madra",
+    "eng_Latn": "dog"
+  },
+  {
+    "gle_Latn": "teaghlach",
+    "eng_Latn": "family"
+  },
+  {
+    "gle_Latn": "díreach",
+    "eng_Latn": "direct"
+  },
+  {
+    "gle_Latn": "údar",
+    "eng_Latn": "pose"
+  },
+  {
+    "gle_Latn": "saoire",
+    "eng_Latn": "leave"
+  },
+  {
+    "gle_Latn": "a thomhas",
+    "eng_Latn": "measure"
+  },
+  {
+    "gle_Latn": "doras",
+    "eng_Latn": "door"
+  },
+  {
+    "gle_Latn": "táirge",
+    "eng_Latn": "product"
+  },
+  {
+    "gle_Latn": "dubh",
+    "eng_Latn": "black"
+  },
+  {
+    "gle_Latn": "gearr",
+    "eng_Latn": "short"
+  },
+  {
+    "gle_Latn": "uimhreán",
+    "eng_Latn": "numeral"
+  },
+  {
+    "gle_Latn": "gaoithe",
+    "eng_Latn": "wind"
+  },
+  {
+    "gle_Latn": "ceist",
+    "eng_Latn": "question"
+  },
+  {
+    "gle_Latn": "tharlóidh",
+    "eng_Latn": "happen"
+  },
+  {
+    "gle_Latn": "críochnaithe",
+    "eng_Latn": "complete"
+  },
+  {
+    "gle_Latn": "limistéar",
+    "eng_Latn": "area"
+  },
+  {
+    "gle_Latn": "carraig",
+    "eng_Latn": "rock"
+  },
+  {
+    "gle_Latn": "ordú",
+    "eng_Latn": "order"
+  },
+  {
+    "gle_Latn": "dóiteáin",
+    "eng_Latn": "fire"
+  },
+  {
+    "gle_Latn": "ó dheas",
+    "eng_Latn": "south"
+  },
+  {
+    "gle_Latn": "fhadhb",
+    "eng_Latn": "problem"
+  },
+  {
+    "gle_Latn": "píosa",
+    "eng_Latn": "piece"
+  },
+  {
+    "gle_Latn": "inis",
+    "eng_Latn": "told"
+  },
+  {
+    "gle_Latn": "bhí a fhios",
+    "eng_Latn": "knew"
+  },
+  {
+    "gle_Latn": "pas a fháil",
+    "eng_Latn": "pass"
+  },
+  {
+    "gle_Latn": "ós rud é",
+    "eng_Latn": "since"
+  },
+  {
+    "gle_Latn": "barr",
+    "eng_Latn": "top"
+  },
+  {
+    "gle_Latn": "rí",
+    "eng_Latn": "king"
+  },
+  {
+    "gle_Latn": "orlach",
+    "eng_Latn": "inch"
+  },
+  {
+    "gle_Latn": "iolrú",
+    "eng_Latn": "multiply"
+  },
+  {
+    "gle_Latn": "aon rud",
+    "eng_Latn": "nothing"
+  },
+  {
+    "gle_Latn": "cúrsa",
+    "eng_Latn": "course"
+  },
+  {
+    "gle_Latn": "fanacht",
+    "eng_Latn": "stay"
+  },
+  {
+    "gle_Latn": "roth",
+    "eng_Latn": "wheel"
+  },
+  {
+    "gle_Latn": "lán",
+    "eng_Latn": "full"
+  },
+  {
+    "gle_Latn": "bhfeidhm",
+    "eng_Latn": "force"
+  },
+  {
+    "gle_Latn": "gorm",
+    "eng_Latn": "blue"
+  },
+  {
+    "gle_Latn": "réad",
+    "eng_Latn": "object"
+  },
+  {
+    "gle_Latn": "cinneadh a dhéanamh",
+    "eng_Latn": "decide"
+  },
+  {
+    "gle_Latn": "dromchla",
+    "eng_Latn": "surface"
+  },
+  {
+    "gle_Latn": "domhain",
+    "eng_Latn": "deep"
+  },
+  {
+    "gle_Latn": "gealach",
+    "eng_Latn": "moon"
+  },
+  {
+    "gle_Latn": "oileán",
+    "eng_Latn": "island"
+  },
+  {
+    "gle_Latn": "córas",
+    "eng_Latn": "system"
+  },
+  {
+    "gle_Latn": "gnóthach",
+    "eng_Latn": "busy"
+  },
+  {
+    "gle_Latn": "tástáil",
+    "eng_Latn": "test"
+  },
+  {
+    "gle_Latn": "taifead",
+    "eng_Latn": "record"
+  },
+  {
+    "gle_Latn": "bád",
+    "eng_Latn": "boat"
+  },
+  {
+    "gle_Latn": "coitianta",
+    "eng_Latn": "common"
+  },
+  {
+    "gle_Latn": "óir",
+    "eng_Latn": "gold"
+  },
+  {
+    "gle_Latn": "féidir",
+    "eng_Latn": "possible"
+  },
+  {
+    "gle_Latn": "eitleán",
+    "eng_Latn": "plane"
+  },
+  {
+    "gle_Latn": "ionad",
+    "eng_Latn": "stead"
+  },
+  {
+    "gle_Latn": "tirim",
+    "eng_Latn": "dry"
+  },
+  {
+    "gle_Latn": "gáire",
+    "eng_Latn": "laugh"
+  },
+  {
+    "gle_Latn": "ó shin",
+    "eng_Latn": "ago"
+  },
+  {
+    "gle_Latn": "seiceáil",
+    "eng_Latn": "check"
+  },
+  {
+    "gle_Latn": "cluiche",
+    "eng_Latn": "game"
+  },
+  {
+    "gle_Latn": "ionann",
+    "eng_Latn": "equate"
+  },
+  {
+    "gle_Latn": "chailleann",
+    "eng_Latn": "miss"
+  },
+  {
+    "gle_Latn": "teas",
+    "eng_Latn": "heat"
+  },
+  {
+    "gle_Latn": "sneachta",
+    "eng_Latn": "snow"
+  },
+  {
+    "gle_Latn": "i bhfad i gcéin",
+    "eng_Latn": "distant"
+  },
+  {
+    "gle_Latn": "líonadh",
+    "eng_Latn": "fill"
+  },
+  {
+    "gle_Latn": "soir",
+    "eng_Latn": "east"
+  },
+  {
+    "gle_Latn": "péint",
+    "eng_Latn": "paint"
+  },
+  {
+    "gle_Latn": "teanga",
+    "eng_Latn": "language"
+  },
+  {
+    "gle_Latn": "i measc",
+    "eng_Latn": "among"
+  },
+  {
+    "gle_Latn": "aonad",
+    "eng_Latn": "unit"
+  },
+  {
+    "gle_Latn": "cumhacht",
+    "eng_Latn": "power"
+  },
+  {
+    "gle_Latn": "fíneáil",
+    "eng_Latn": "fine"
+  },
+  {
+    "gle_Latn": "áirithe",
+    "eng_Latn": "certain"
+  },
+  {
+    "gle_Latn": "eitilt",
+    "eng_Latn": "fly"
+  },
+  {
+    "gle_Latn": "titim",
+    "eng_Latn": "fall"
+  },
+  {
+    "gle_Latn": "luaidhe",
+    "eng_Latn": "lead"
+  },
+  {
+    "gle_Latn": "caoin",
+    "eng_Latn": "cry"
+  },
+  {
+    "gle_Latn": "dorcha",
+    "eng_Latn": "dark"
+  },
+  {
+    "gle_Latn": "meaisín",
+    "eng_Latn": "machine"
+  },
+  {
+    "gle_Latn": "nóta",
+    "eng_Latn": "note"
+  },
+  {
+    "gle_Latn": "plean",
+    "eng_Latn": "plan"
+  },
+  {
+    "gle_Latn": "figiúr",
+    "eng_Latn": "figure"
+  },
+  {
+    "gle_Latn": "réalta",
+    "eng_Latn": "star"
+  },
+  {
+    "gle_Latn": "bosca",
+    "eng_Latn": "box"
+  },
+  {
+    "gle_Latn": "ainmfhocail",
+    "eng_Latn": "noun"
+  },
+  {
+    "gle_Latn": "réimse",
+    "eng_Latn": "field"
+  },
+  {
+    "gle_Latn": "chuid eile",
+    "eng_Latn": "rest"
+  },
+  {
+    "gle_Latn": "rinneadh",
+    "eng_Latn": "done"
+  },
+  {
+    "gle_Latn": "áilleacht",
+    "eng_Latn": "beauty"
+  },
+  {
+    "gle_Latn": "tiomáint",
+    "eng_Latn": "drive"
+  },
+  {
+    "gle_Latn": "sheas",
+    "eng_Latn": "stood"
+  },
+  {
+    "gle_Latn": "go bhfuil",
+    "eng_Latn": "contain"
+  },
+  {
+    "gle_Latn": "tosaigh",
+    "eng_Latn": "front"
+  },
+  {
+    "gle_Latn": "mhúineadh",
+    "eng_Latn": "teach"
+  },
+  {
+    "gle_Latn": "seachtain",
+    "eng_Latn": "week"
+  },
+  {
+    "gle_Latn": "deiridh",
+    "eng_Latn": "final"
+  },
+  {
+    "gle_Latn": "glas",
+    "eng_Latn": "green"
+  },
+  {
+    "gle_Latn": "curfá",
+    "eng_Latn": "oh"
+  },
+  {
+    "gle_Latn": "tapaidh",
+    "eng_Latn": "quick"
+  },
+  {
+    "gle_Latn": "fhorbairt",
+    "eng_Latn": "develop"
+  },
+  {
+    "gle_Latn": "saor in aisce",
+    "eng_Latn": "free"
+  },
+  {
+    "gle_Latn": "nóiméad",
+    "eng_Latn": "minute"
+  },
+  {
+    "gle_Latn": "láidir",
+    "eng_Latn": "strong"
+  },
+  {
+    "gle_Latn": "speisialta",
+    "eng_Latn": "special"
+  },
+  {
+    "gle_Latn": "aigne",
+    "eng_Latn": "mind"
+  },
+  {
+    "gle_Latn": "taobh thiar",
+    "eng_Latn": "behind"
+  },
+  {
+    "gle_Latn": "soiléir",
+    "eng_Latn": "clear"
+  },
+  {
+    "gle_Latn": "eireaball",
+    "eng_Latn": "tail"
+  },
+  {
+    "gle_Latn": "ar aird",
+    "eng_Latn": "produce"
+  },
+  {
+    "gle_Latn": "go deimhin",
+    "eng_Latn": "fact"
+  },
+  {
+    "gle_Latn": "spás",
+    "eng_Latn": "space"
+  },
+  {
+    "gle_Latn": "éisteacht",
+    "eng_Latn": "heard"
+  },
+  {
+    "gle_Latn": "fearr",
+    "eng_Latn": "best"
+  },
+  {
+    "gle_Latn": "uair an chloig",
+    "eng_Latn": "hour"
+  },
+  {
+    "gle_Latn": "níos fearr",
+    "eng_Latn": "better"
+  },
+  {
+    "gle_Latn": "le linn",
+    "eng_Latn": "during"
+  },
+  {
+    "gle_Latn": "céad",
+    "eng_Latn": "hundred"
+  },
+  {
+    "gle_Latn": "cúig",
+    "eng_Latn": "five"
+  },
+  {
+    "gle_Latn": "cuimhnigh",
+    "eng_Latn": "remember"
+  },
+  {
+    "gle_Latn": "céim",
+    "eng_Latn": "step"
+  },
+  {
+    "gle_Latn": "shealbhú",
+    "eng_Latn": "hold"
+  },
+  {
+    "gle_Latn": "siar",
+    "eng_Latn": "west"
+  },
+  {
+    "gle_Latn": "ús",
+    "eng_Latn": "interest"
+  },
+  {
+    "gle_Latn": "a bhaint amach",
+    "eng_Latn": "reach"
+  },
+  {
+    "gle_Latn": "briathar",
+    "eng_Latn": "verb"
+  },
+  {
+    "gle_Latn": "chanadh",
+    "eng_Latn": "sing"
+  },
+  {
+    "gle_Latn": "tábla",
+    "eng_Latn": "table"
+  },
+  {
+    "gle_Latn": "taisteal",
+    "eng_Latn": "travel"
+  },
+  {
+    "gle_Latn": "níos lú",
+    "eng_Latn": "less"
+  },
+  {
+    "gle_Latn": "maidin",
+    "eng_Latn": "morning"
+  },
+  {
+    "gle_Latn": "deich",
+    "eng_Latn": "ten"
+  },
+  {
+    "gle_Latn": "simplí",
+    "eng_Latn": "simple"
+  },
+  {
+    "gle_Latn": "guta",
+    "eng_Latn": "vowel"
+  },
+  {
+    "gle_Latn": "i dtreo",
+    "eng_Latn": "toward"
+  },
+  {
+    "gle_Latn": "cogadh",
+    "eng_Latn": "war"
+  },
+  {
+    "gle_Latn": "leagan",
+    "eng_Latn": "lay"
+  },
+  {
+    "gle_Latn": "i gcoinne",
+    "eng_Latn": "against"
+  },
+  {
+    "gle_Latn": "patrún",
+    "eng_Latn": "pattern"
+  },
+  {
+    "gle_Latn": "grá",
+    "eng_Latn": "love"
+  },
+  {
+    "gle_Latn": "duine",
+    "eng_Latn": "person"
+  },
+  {
+    "gle_Latn": "airgead",
+    "eng_Latn": "money"
+  },
+  {
+    "gle_Latn": "freastal",
+    "eng_Latn": "serve"
+  },
+  {
+    "gle_Latn": "le feiceáil",
+    "eng_Latn": "appear"
+  },
+  {
+    "gle_Latn": "bóthar",
+    "eng_Latn": "road"
+  },
+  {
+    "gle_Latn": "léarscáil",
+    "eng_Latn": "map"
+  },
+  {
+    "gle_Latn": "báisteach",
+    "eng_Latn": "rain"
+  },
+  {
+    "gle_Latn": "riail",
+    "eng_Latn": "rule"
+  },
+  {
+    "gle_Latn": "rialaíonn",
+    "eng_Latn": "govern"
+  },
+  {
+    "gle_Latn": "tarraingt",
+    "eng_Latn": "pull"
+  },
+  {
+    "gle_Latn": "fuar",
+    "eng_Latn": "cold"
+  },
+  {
+    "gle_Latn": "fógra",
+    "eng_Latn": "notice"
+  },
+  {
+    "gle_Latn": "guth",
+    "eng_Latn": "voice"
+  },
+  {
+    "gle_Latn": "fuinnimh",
+    "eng_Latn": "energy"
+  },
+  {
+    "gle_Latn": "fiach",
+    "eng_Latn": "hunt"
+  },
+  {
+    "gle_Latn": "is dócha",
+    "eng_Latn": "probable"
+  },
+  {
+    "gle_Latn": "leaba",
+    "eng_Latn": "bed"
+  },
+  {
+    "gle_Latn": "deartháir",
+    "eng_Latn": "brother"
+  },
+  {
+    "gle_Latn": "ubh",
+    "eng_Latn": "egg"
+  },
+  {
+    "gle_Latn": "marcaíochta",
+    "eng_Latn": "ride"
+  },
+  {
+    "gle_Latn": "cill",
+    "eng_Latn": "cell"
+  },
+  {
+    "gle_Latn": "creidim",
+    "eng_Latn": "believe"
+  },
+  {
+    "gle_Latn": "b’fhéidir",
+    "eng_Latn": "perhaps"
+  },
+  {
+    "gle_Latn": "pioc",
+    "eng_Latn": "pick"
+  },
+  {
+    "gle_Latn": "tobann",
+    "eng_Latn": "sudden"
+  },
+  {
+    "gle_Latn": "comhaireamh",
+    "eng_Latn": "count"
+  },
+  {
+    "gle_Latn": "cearnach",
+    "eng_Latn": "square"
+  },
+  {
+    "gle_Latn": "chúis",
+    "eng_Latn": "reason"
+  },
+  {
+    "gle_Latn": "ionadaíocht a dhéanamh",
+    "eng_Latn": "represent"
+  },
+  {
+    "gle_Latn": "ealaín",
+    "eng_Latn": "art"
+  },
+  {
+    "gle_Latn": "ábhar",
+    "eng_Latn": "subject"
+  },
+  {
+    "gle_Latn": "réigiún",
+    "eng_Latn": "region"
+  },
+  {
+    "gle_Latn": "méid",
+    "eng_Latn": "size"
+  },
+  {
+    "gle_Latn": "athrú",
+    "eng_Latn": "vary"
+  },
+  {
+    "gle_Latn": "réiteach",
+    "eng_Latn": "settle"
+  },
+  {
+    "gle_Latn": "labhairt",
+    "eng_Latn": "speak"
+  },
+  {
+    "gle_Latn": "meáchan",
+    "eng_Latn": "weight"
+  },
+  {
+    "gle_Latn": "ginearálta",
+    "eng_Latn": "general"
+  },
+  {
+    "gle_Latn": "oighear",
+    "eng_Latn": "ice"
+  },
+  {
+    "gle_Latn": "ciorcal",
+    "eng_Latn": "circle"
+  },
+  {
+    "gle_Latn": "péire",
+    "eng_Latn": "pair"
+  },
+  {
+    "gle_Latn": "i measc na",
+    "eng_Latn": "include"
+  },
+  {
+    "gle_Latn": "deighilt",
+    "eng_Latn": "divide"
+  },
+  {
+    "gle_Latn": "siolla",
+    "eng_Latn": "syllable"
+  },
+  {
+    "gle_Latn": "bhraith",
+    "eng_Latn": "felt"
+  },
+  {
+    "gle_Latn": "mhór",
+    "eng_Latn": "grand"
+  },
+  {
+    "gle_Latn": "liathróid",
+    "eng_Latn": "ball"
+  },
+  {
+    "gle_Latn": "tonn",
+    "eng_Latn": "wave"
+  },
+  {
+    "gle_Latn": "croí",
+    "eng_Latn": "heart"
+  },
+  {
+    "gle_Latn": "rn",
+    "eng_Latn": "am"
+  },
+  {
+    "gle_Latn": "i láthair",
+    "eng_Latn": "present"
+  },
+  {
+    "gle_Latn": "trom",
+    "eng_Latn": "heavy"
+  },
+  {
+    "gle_Latn": "rince",
+    "eng_Latn": "dance"
+  },
+  {
+    "gle_Latn": "inneall",
+    "eng_Latn": "engine"
+  },
+  {
+    "gle_Latn": "ar fud an",
+    "eng_Latn": "wide"
+  },
+  {
+    "gle_Latn": "seol",
+    "eng_Latn": "sail"
+  },
+  {
+    "gle_Latn": "chodán",
+    "eng_Latn": "fraction"
+  },
+  {
+    "gle_Latn": "foraoise",
+    "eng_Latn": "forest"
+  },
+  {
+    "gle_Latn": "suí",
+    "eng_Latn": "sit"
+  },
+  {
+    "gle_Latn": "fuinneog",
+    "eng_Latn": "window"
+  },
+  {
+    "gle_Latn": "siopa",
+    "eng_Latn": "store"
+  },
+  {
+    "gle_Latn": "samhradh",
+    "eng_Latn": "summer"
+  },
+  {
+    "gle_Latn": "traein",
+    "eng_Latn": "train"
+  },
+  {
+    "gle_Latn": "codlata",
+    "eng_Latn": "sleep"
+  },
+  {
+    "gle_Latn": "chruthú",
+    "eng_Latn": "prove"
+  },
+  {
+    "gle_Latn": "aonaracha",
+    "eng_Latn": "lone"
+  },
+  {
+    "gle_Latn": "a fheidhmiú",
+    "eng_Latn": "exercise"
+  },
+  {
+    "gle_Latn": "balla",
+    "eng_Latn": "wall"
+  },
+  {
+    "gle_Latn": "ghabháil",
+    "eng_Latn": "catch"
+  },
+  {
+    "gle_Latn": "is mian",
+    "eng_Latn": "wish"
+  },
+  {
+    "gle_Latn": "spéir",
+    "eng_Latn": "sky"
+  },
+  {
+    "gle_Latn": "áthas",
+    "eng_Latn": "joy"
+  },
+  {
+    "gle_Latn": "gheimhridh",
+    "eng_Latn": "winter"
+  },
+  {
+    "gle_Latn": "shuigh",
+    "eng_Latn": "sat"
+  },
+  {
+    "gle_Latn": "scríofa",
+    "eng_Latn": "written"
+  },
+  {
+    "gle_Latn": "fiáin",
+    "eng_Latn": "wild"
+  },
+  {
+    "gle_Latn": "ionstraim",
+    "eng_Latn": "instrument"
+  },
+  {
+    "gle_Latn": "choimeád",
+    "eng_Latn": "kept"
+  },
+  {
+    "gle_Latn": "gloine",
+    "eng_Latn": "glass"
+  },
+  {
+    "gle_Latn": "féar",
+    "eng_Latn": "grass"
+  },
+  {
+    "gle_Latn": "bó",
+    "eng_Latn": "cow"
+  },
+  {
+    "gle_Latn": "imeall",
+    "eng_Latn": "edge"
+  },
+  {
+    "gle_Latn": "comhartha",
+    "eng_Latn": "sign"
+  },
+  {
+    "gle_Latn": "cuairt a thabhairt ar",
+    "eng_Latn": "visit"
+  },
+  {
+    "gle_Latn": "am atá thart",
+    "eng_Latn": "past"
+  },
+  {
+    "gle_Latn": "spraoi",
+    "eng_Latn": "fun"
+  },
+  {
+    "gle_Latn": "gáis",
+    "eng_Latn": "gas"
+  },
+  {
+    "gle_Latn": "aimsir",
+    "eng_Latn": "weather"
+  },
+  {
+    "gle_Latn": "mí",
+    "eng_Latn": "month"
+  },
+  {
+    "gle_Latn": "milliún",
+    "eng_Latn": "million"
+  },
+  {
+    "gle_Latn": "iompróidh",
+    "eng_Latn": "bear"
+  },
+  {
+    "gle_Latn": "chríochnú",
+    "eng_Latn": "finish"
+  },
+  {
+    "gle_Latn": "sásta",
+    "eng_Latn": "happy"
+  },
+  {
+    "gle_Latn": "tá súil",
+    "eng_Latn": "hope"
+  },
+  {
+    "gle_Latn": "bláth",
+    "eng_Latn": "flower"
+  },
+  {
+    "gle_Latn": "aisteach",
+    "eng_Latn": "strange"
+  },
+  {
+    "gle_Latn": "imithe",
+    "eng_Latn": "gone"
+  },
+  {
+    "gle_Latn": "trádáil",
+    "eng_Latn": "trade"
+  },
+  {
+    "gle_Latn": "séis",
+    "eng_Latn": "melody"
+  },
+  {
+    "gle_Latn": "turas",
+    "eng_Latn": "trip"
+  },
+  {
+    "gle_Latn": "oifig",
+    "eng_Latn": "office"
+  },
+  {
+    "gle_Latn": "fháil",
+    "eng_Latn": "receive"
+  },
+  {
+    "gle_Latn": "as a chéile",
+    "eng_Latn": "row"
+  },
+  {
+    "gle_Latn": "béal",
+    "eng_Latn": "mouth"
+  },
+  {
+    "gle_Latn": "cruinn",
+    "eng_Latn": "exact"
+  },
+  {
+    "gle_Latn": "siombail",
+    "eng_Latn": "symbol"
+  },
+  {
+    "gle_Latn": "bás",
+    "eng_Latn": "die"
+  },
+  {
+    "gle_Latn": "ar a laghad",
+    "eng_Latn": "least"
+  },
+  {
+    "gle_Latn": "dtrioblóid",
+    "eng_Latn": "trouble"
+  },
+  {
+    "gle_Latn": "ach amháin",
+    "eng_Latn": "except"
+  },
+  {
+    "gle_Latn": "síol",
+    "eng_Latn": "seed"
+  },
+  {
+    "gle_Latn": "páirt a",
+    "eng_Latn": "join"
+  },
+  {
+    "gle_Latn": "fios",
+    "eng_Latn": "suggest"
+  },
+  {
+    "gle_Latn": "glan",
+    "eng_Latn": "clean"
+  },
+  {
+    "gle_Latn": "sos",
+    "eng_Latn": "break"
+  },
+  {
+    "gle_Latn": "bhean",
+    "eng_Latn": "lady"
+  },
+  {
+    "gle_Latn": "clós",
+    "eng_Latn": "yard"
+  },
+  {
+    "gle_Latn": "ardú",
+    "eng_Latn": "rise"
+  },
+  {
+    "gle_Latn": "dona",
+    "eng_Latn": "bad"
+  },
+  {
+    "gle_Latn": "buille",
+    "eng_Latn": "blow"
+  },
+  {
+    "gle_Latn": "ola",
+    "eng_Latn": "oil"
+  },
+  {
+    "gle_Latn": "fuil",
+    "eng_Latn": "blood"
+  },
+  {
+    "gle_Latn": "teagmháil",
+    "eng_Latn": "touch"
+  },
+  {
+    "gle_Latn": "d’fhás",
+    "eng_Latn": "grew"
+  },
+  {
+    "gle_Latn": "meascán",
+    "eng_Latn": "mix"
+  },
+  {
+    "gle_Latn": "fhoireann",
+    "eng_Latn": "team"
+  },
+  {
+    "gle_Latn": "sreang",
+    "eng_Latn": "wire"
+  },
+  {
+    "gle_Latn": "costas",
+    "eng_Latn": "cost"
+  },
+  {
+    "gle_Latn": "caillte",
+    "eng_Latn": "lost"
+  },
+  {
+    "gle_Latn": "donn",
+    "eng_Latn": "brown"
+  },
+  {
+    "gle_Latn": "chaitheamh",
+    "eng_Latn": "wear"
+  },
+  {
+    "gle_Latn": "gairdín",
+    "eng_Latn": "garden"
+  },
+  {
+    "gle_Latn": "comhionann",
+    "eng_Latn": "equal"
+  },
+  {
+    "gle_Latn": "sheoladh",
+    "eng_Latn": "sent"
+  },
+  {
+    "gle_Latn": "roghnaigh",
+    "eng_Latn": "choose"
+  },
+  {
+    "gle_Latn": "thit",
+    "eng_Latn": "fell"
+  },
+  {
+    "gle_Latn": "oiriúnach",
+    "eng_Latn": "fit"
+  },
+  {
+    "gle_Latn": "sreabhadh",
+    "eng_Latn": "flow"
+  },
+  {
+    "gle_Latn": "cóir",
+    "eng_Latn": "fair"
+  },
+  {
+    "gle_Latn": "bhailiú",
+    "eng_Latn": "collect"
+  },
+  {
+    "gle_Latn": "shábháil",
+    "eng_Latn": "save"
+  },
+  {
+    "gle_Latn": "rialú",
+    "eng_Latn": "control"
+  },
+  {
+    "gle_Latn": "dheachúlach",
+    "eng_Latn": "decimal"
+  },
+  {
+    "gle_Latn": "cluas",
+    "eng_Latn": "ear"
+  },
+  {
+    "gle_Latn": "bhris",
+    "eng_Latn": "broke"
+  },
+  {
+    "gle_Latn": "cás",
+    "eng_Latn": "case"
+  },
+  {
+    "gle_Latn": "lár",
+    "eng_Latn": "middle"
+  },
+  {
+    "gle_Latn": "mharú",
+    "eng_Latn": "kill"
+  },
+  {
+    "gle_Latn": "scála",
+    "eng_Latn": "scale"
+  },
+  {
+    "gle_Latn": "glórach",
+    "eng_Latn": "loud"
+  },
+  {
+    "gle_Latn": "earrach",
+    "eng_Latn": "spring"
+  },
+  {
+    "gle_Latn": "breathnú ar",
+    "eng_Latn": "observe"
+  },
+  {
+    "gle_Latn": "leanbh",
+    "eng_Latn": "child"
+  },
+  {
+    "gle_Latn": "consan",
+    "eng_Latn": "consonant"
+  },
+  {
+    "gle_Latn": "náisiún",
+    "eng_Latn": "nation"
+  },
+  {
+    "gle_Latn": "foclóir",
+    "eng_Latn": "dictionary"
+  },
+  {
+    "gle_Latn": "bainne",
+    "eng_Latn": "milk"
+  },
+  {
+    "gle_Latn": "luas",
+    "eng_Latn": "speed"
+  },
+  {
+    "gle_Latn": "modh",
+    "eng_Latn": "method"
+  },
+  {
+    "gle_Latn": "orgán",
+    "eng_Latn": "organ"
+  },
+  {
+    "gle_Latn": "íoc",
+    "eng_Latn": "pay"
+  },
+  {
+    "gle_Latn": "aois",
+    "eng_Latn": "age"
+  },
+  {
+    "gle_Latn": "gúna",
+    "eng_Latn": "dress"
+  },
+  {
+    "gle_Latn": "scamall",
+    "eng_Latn": "cloud"
+  },
+  {
+    "gle_Latn": "iontas",
+    "eng_Latn": "surprise"
+  },
+  {
+    "gle_Latn": "ciúin",
+    "eng_Latn": "quiet"
+  },
+  {
+    "gle_Latn": "cloch",
+    "eng_Latn": "stone"
+  },
+  {
+    "gle_Latn": "beag bídeach",
+    "eng_Latn": "tiny"
+  },
+  {
+    "gle_Latn": "tóg",
+    "eng_Latn": "climb"
+  },
+  {
+    "gle_Latn": "fionnuar",
+    "eng_Latn": "cool"
+  },
+  {
+    "gle_Latn": "dearadh",
+    "eng_Latn": "design"
+  },
+  {
+    "gle_Latn": "droch-",
+    "eng_Latn": "poor"
+  },
+  {
+    "gle_Latn": "turgnamh",
+    "eng_Latn": "experiment"
+  },
+  {
+    "gle_Latn": "eochair",
+    "eng_Latn": "key"
+  },
+  {
+    "gle_Latn": "iarann",
+    "eng_Latn": "iron"
+  },
+  {
+    "gle_Latn": "singil",
+    "eng_Latn": "single"
+  },
+  {
+    "gle_Latn": "bata",
+    "eng_Latn": "stick"
+  },
+  {
+    "gle_Latn": "árasán",
+    "eng_Latn": "flat"
+  },
+  {
+    "gle_Latn": "craiceann",
+    "eng_Latn": "skin"
+  },
+  {
+    "gle_Latn": "aoibh gháire",
+    "eng_Latn": "smile"
+  },
+  {
+    "gle_Latn": "léim",
+    "eng_Latn": "jump"
+  },
+  {
+    "gle_Latn": "sráidbhaile",
+    "eng_Latn": "village"
+  },
+  {
+    "gle_Latn": "fréimhe",
+    "eng_Latn": "root"
+  },
+  {
+    "gle_Latn": "cheannach",
+    "eng_Latn": "buy"
+  },
+  {
+    "gle_Latn": "miotail",
+    "eng_Latn": "metal"
+  },
+  {
+    "gle_Latn": "cé acu",
+    "eng_Latn": "whether"
+  },
+  {
+    "gle_Latn": "bhrú",
+    "eng_Latn": "push"
+  },
+  {
+    "gle_Latn": "seacht",
+    "eng_Latn": "seven"
+  },
+  {
+    "gle_Latn": "mír",
+    "eng_Latn": "paragraph"
+  },
+  {
+    "gle_Latn": "tríú",
+    "eng_Latn": "third"
+  },
+  {
+    "gle_Latn": "déanfaidh",
+    "eng_Latn": "shall"
+  },
+  {
+    "gle_Latn": "seilbh",
+    "eng_Latn": "held"
+  },
+  {
+    "gle_Latn": "gruaig",
+    "eng_Latn": "hair"
+  },
+  {
+    "gle_Latn": "cur síos a dhéanamh",
+    "eng_Latn": "describe"
+  },
+  {
+    "gle_Latn": "cócaireacht",
+    "eng_Latn": "cook"
+  },
+  {
+    "gle_Latn": "urlár",
+    "eng_Latn": "floor"
+  },
+  {
+    "gle_Latn": "ceachtar",
+    "eng_Latn": "either"
+  },
+  {
+    "gle_Latn": "toradh",
+    "eng_Latn": "result"
+  },
+  {
+    "gle_Latn": "sruthán",
+    "eng_Latn": "burn"
+  },
+  {
+    "gle_Latn": "cnoc",
+    "eng_Latn": "hill"
+  },
+  {
+    "gle_Latn": "sábháilte",
+    "eng_Latn": "safe"
+  },
+  {
+    "gle_Latn": "haois",
+    "eng_Latn": "century"
+  },
+  {
+    "gle_Latn": "a mheas",
+    "eng_Latn": "consider"
+  },
+  {
+    "gle_Latn": "cineál",
+    "eng_Latn": "type"
+  },
+  {
+    "gle_Latn": "dlí",
+    "eng_Latn": "law"
+  },
+  {
+    "gle_Latn": "giotán",
+    "eng_Latn": "bit"
+  },
+  {
+    "gle_Latn": "chósta",
+    "eng_Latn": "coast"
+  },
+  {
+    "gle_Latn": "cóip",
+    "eng_Latn": "copy"
+  },
+  {
+    "gle_Latn": "frása",
+    "eng_Latn": "phrase"
+  },
+  {
+    "gle_Latn": "adh",
+    "eng_Latn": "silent"
+  },
+  {
+    "gle_Latn": "gaineamh",
+    "eng_Latn": "sand"
+  },
+  {
+    "gle_Latn": "ithir",
+    "eng_Latn": "soil"
+  },
+  {
+    "gle_Latn": "rolla",
+    "eng_Latn": "roll"
+  },
+  {
+    "gle_Latn": "teocht",
+    "eng_Latn": "temperature"
+  },
+  {
+    "gle_Latn": "mhéar",
+    "eng_Latn": "finger"
+  },
+  {
+    "gle_Latn": "tionscal",
+    "eng_Latn": "industry"
+  },
+  {
+    "gle_Latn": "luach",
+    "eng_Latn": "value"
+  },
+  {
+    "gle_Latn": "troid i",
+    "eng_Latn": "fight"
+  },
+  {
+    "gle_Latn": "bréag",
+    "eng_Latn": "lie"
+  },
+  {
+    "gle_Latn": "spreagfaidh",
+    "eng_Latn": "excite"
+  },
+  {
+    "gle_Latn": "nádúrtha",
+    "eng_Latn": "natural"
+  },
+  {
+    "gle_Latn": "dearcadh",
+    "eng_Latn": "view"
+  },
+  {
+    "gle_Latn": "ciall",
+    "eng_Latn": "sense"
+  },
+  {
+    "gle_Latn": "caipitil",
+    "eng_Latn": "capital"
+  },
+  {
+    "gle_Latn": "ní bheidh",
+    "eng_Latn": "won’t"
+  },
+  {
+    "gle_Latn": "cathaoir",
+    "eng_Latn": "chair"
+  },
+  {
+    "gle_Latn": "contúirt",
+    "eng_Latn": "danger"
+  },
+  {
+    "gle_Latn": "torthaí",
+    "eng_Latn": "fruit"
+  },
+  {
+    "gle_Latn": "saibhir",
+    "eng_Latn": "rich"
+  },
+  {
+    "gle_Latn": "tiubh",
+    "eng_Latn": "thick"
+  },
+  {
+    "gle_Latn": "saighdiúir",
+    "eng_Latn": "soldier"
+  },
+  {
+    "gle_Latn": "próiseas",
+    "eng_Latn": "process"
+  },
+  {
+    "gle_Latn": "oibriú",
+    "eng_Latn": "operate"
+  },
+  {
+    "gle_Latn": "cleachtas",
+    "eng_Latn": "practice"
+  },
+  {
+    "gle_Latn": "ar leithligh",
+    "eng_Latn": "separate"
+  },
+  {
+    "gle_Latn": "deacair",
+    "eng_Latn": "difficult"
+  },
+  {
+    "gle_Latn": "dochtúir",
+    "eng_Latn": "doctor"
+  },
+  {
+    "gle_Latn": "le do thoil",
+    "eng_Latn": "please"
+  },
+  {
+    "gle_Latn": "chosaint",
+    "eng_Latn": "protect"
+  },
+  {
+    "gle_Latn": "meán lae",
+    "eng_Latn": "noon"
+  },
+  {
+    "gle_Latn": "nua-aimseartha",
+    "eng_Latn": "modern"
+  },
+  {
+    "gle_Latn": "eilimint",
+    "eng_Latn": "element"
+  },
+  {
+    "gle_Latn": "mac léinn",
+    "eng_Latn": "student"
+  },
+  {
+    "gle_Latn": "cúinne",
+    "eng_Latn": "corner"
+  },
+  {
+    "gle_Latn": "páirtí",
+    "eng_Latn": "party"
+  },
+  {
+    "gle_Latn": "soláthar",
+    "eng_Latn": "supply"
+  },
+  {
+    "gle_Latn": "a bhfuil a",
+    "eng_Latn": "whose"
+  },
+  {
+    "gle_Latn": "fáinne",
+    "eng_Latn": "ring"
+  },
+  {
+    "gle_Latn": "charachtar",
+    "eng_Latn": "character"
+  },
+  {
+    "gle_Latn": "feithidí",
+    "eng_Latn": "insect"
+  },
+  {
+    "gle_Latn": "ghabh",
+    "eng_Latn": "caught"
+  },
+  {
+    "gle_Latn": "tréimhse",
+    "eng_Latn": "period"
+  },
+  {
+    "gle_Latn": "léiríonn",
+    "eng_Latn": "indicate"
+  },
+  {
+    "gle_Latn": "raidió",
+    "eng_Latn": "radio"
+  },
+  {
+    "gle_Latn": "labhair",
+    "eng_Latn": "spoke"
+  },
+  {
+    "gle_Latn": "adamh",
+    "eng_Latn": "atom"
+  },
+  {
+    "gle_Latn": "daonna",
+    "eng_Latn": "human"
+  },
+  {
+    "gle_Latn": "éifeacht",
+    "eng_Latn": "effect"
+  },
+  {
+    "gle_Latn": "leictreacha",
+    "eng_Latn": "electric"
+  },
+  {
+    "gle_Latn": "ag súil leis",
+    "eng_Latn": "expect"
+  },
+  {
+    "gle_Latn": "cnámh",
+    "eng_Latn": "bone"
+  },
+  {
+    "gle_Latn": "iarnróid",
+    "eng_Latn": "rail"
+  },
+  {
+    "gle_Latn": "shamhlú",
+    "eng_Latn": "imagine"
+  },
+  {
+    "gle_Latn": "a chur ar fáil",
+    "eng_Latn": "provide"
+  },
+  {
+    "gle_Latn": "aontaíonn",
+    "eng_Latn": "agree"
+  },
+  {
+    "gle_Latn": "dá bhrí sin",
+    "eng_Latn": "thus"
+  },
+  {
+    "gle_Latn": "mhín",
+    "eng_Latn": "gentle"
+  },
+  {
+    "gle_Latn": "captaen",
+    "eng_Latn": "captain"
+  },
+  {
+    "gle_Latn": "buille faoi thuairim",
+    "eng_Latn": "guess"
+  },
+  {
+    "gle_Latn": "gá",
+    "eng_Latn": "necessary"
+  },
+  {
+    "gle_Latn": "géar",
+    "eng_Latn": "sharp"
+  },
+  {
+    "gle_Latn": "sciathán",
+    "eng_Latn": "wing"
+  },
+  {
+    "gle_Latn": "comharsa",
+    "eng_Latn": "neighbor"
+  },
+  {
+    "gle_Latn": "in áit",
+    "eng_Latn": "rather"
+  },
+  {
+    "gle_Latn": "slua",
+    "eng_Latn": "crowd"
+  },
+  {
+    "gle_Latn": "arbhar",
+    "eng_Latn": "corn"
+  },
+  {
+    "gle_Latn": "a chur i gcomparáid",
+    "eng_Latn": "compare"
+  },
+  {
+    "gle_Latn": "dán",
+    "eng_Latn": "poem"
+  },
+  {
+    "gle_Latn": "teaghrán",
+    "eng_Latn": "string"
+  },
+  {
+    "gle_Latn": "ag brath",
+    "eng_Latn": "depend"
+  },
+  {
+    "gle_Latn": "feoil",
+    "eng_Latn": "meat"
+  },
+  {
+    "gle_Latn": "feadán",
+    "eng_Latn": "tube"
+  },
+  {
+    "gle_Latn": "cáiliúil",
+    "eng_Latn": "famous"
+  },
+  {
+    "gle_Latn": "cheadú",
+    "eng_Latn": "dollar"
+  },
+  {
+    "gle_Latn": "sruth",
+    "eng_Latn": "stream"
+  },
+  {
+    "gle_Latn": "eagla",
+    "eng_Latn": "fear"
+  },
+  {
+    "gle_Latn": "radharc",
+    "eng_Latn": "sight"
+  },
+  {
+    "gle_Latn": "tanaí",
+    "eng_Latn": "thin"
+  },
+  {
+    "gle_Latn": "triantáin",
+    "eng_Latn": "triangle"
+  },
+  {
+    "gle_Latn": "pláinéad",
+    "eng_Latn": "planet"
+  },
+  {
+    "gle_Latn": "príomhfheidhmeannach",
+    "eng_Latn": "chief"
+  },
+  {
+    "gle_Latn": "coilíneacht",
+    "eng_Latn": "colony"
+  },
+  {
+    "gle_Latn": "mianach",
+    "eng_Latn": "mine"
+  },
+  {
+    "gle_Latn": "comhionannas vótaí",
+    "eng_Latn": "tie"
+  },
+  {
+    "gle_Latn": "isteach",
+    "eng_Latn": "enter"
+  },
+  {
+    "gle_Latn": "mór-",
+    "eng_Latn": "major"
+  },
+  {
+    "gle_Latn": "úr",
+    "eng_Latn": "fresh"
+  },
+  {
+    "gle_Latn": "cuardach",
+    "eng_Latn": "search"
+  },
+  {
+    "gle_Latn": "buí",
+    "eng_Latn": "yellow"
+  },
+  {
+    "gle_Latn": "gunna",
+    "eng_Latn": "gun"
+  },
+  {
+    "gle_Latn": "ar chumas",
+    "eng_Latn": "allow"
+  },
+  {
+    "gle_Latn": "cló",
+    "eng_Latn": "print"
+  },
+  {
+    "gle_Latn": "marbh",
+    "eng_Latn": "dead"
+  },
+  {
+    "gle_Latn": "láthair",
+    "eng_Latn": "spot"
+  },
+  {
+    "gle_Latn": "fásach",
+    "eng_Latn": "desert"
+  },
+  {
+    "gle_Latn": "oireann",
+    "eng_Latn": "suit"
+  },
+  {
+    "gle_Latn": "atá ann faoi láthair",
+    "eng_Latn": "current"
+  },
+  {
+    "gle_Latn": "ardaitheoir",
+    "eng_Latn": "lift"
+  },
+  {
+    "gle_Latn": "ardaigh",
+    "eng_Latn": "rose"
+  },
+  {
+    "gle_Latn": "máistir",
+    "eng_Latn": "master"
+  },
+  {
+    "gle_Latn": "rian",
+    "eng_Latn": "track"
+  },
+  {
+    "gle_Latn": "tuismitheoir",
+    "eng_Latn": "parent"
+  },
+  {
+    "gle_Latn": "gcósta",
+    "eng_Latn": "shore"
+  },
+  {
+    "gle_Latn": "roinn",
+    "eng_Latn": "division"
+  },
+  {
+    "gle_Latn": "bileog",
+    "eng_Latn": "sheet"
+  },
+  {
+    "gle_Latn": "substaint",
+    "eng_Latn": "substance"
+  },
+  {
+    "gle_Latn": "bhfabhar",
+    "eng_Latn": "favor"
+  },
+  {
+    "gle_Latn": "ceangal",
+    "eng_Latn": "connect"
+  },
+  {
+    "gle_Latn": "corda",
+    "eng_Latn": "chord"
+  },
+  {
+    "gle_Latn": "saill",
+    "eng_Latn": "fat"
+  },
+  {
+    "gle_Latn": "bunaidh",
+    "eng_Latn": "original"
+  },
+  {
+    "gle_Latn": "scair",
+    "eng_Latn": "share"
+  },
+  {
+    "gle_Latn": "stáisiún",
+    "eng_Latn": "station"
+  },
+  {
+    "gle_Latn": "daidí",
+    "eng_Latn": "dad"
+  },
+  {
+    "gle_Latn": "arán",
+    "eng_Latn": "bread"
+  },
+  {
+    "gle_Latn": "muirear",
+    "eng_Latn": "charge"
+  },
+  {
+    "gle_Latn": "tairiscint",
+    "eng_Latn": "offer"
+  },
+  {
+    "gle_Latn": "deighleog",
+    "eng_Latn": "segment"
+  },
+  {
+    "gle_Latn": "daor",
+    "eng_Latn": "slave"
+  },
+  {
+    "gle_Latn": "lacha",
+    "eng_Latn": "duck"
+  },
+  {
+    "gle_Latn": "toirt",
+    "eng_Latn": "instant"
+  },
+  {
+    "gle_Latn": "margadh",
+    "eng_Latn": "market"
+  },
+  {
+    "gle_Latn": "namhaid",
+    "eng_Latn": "enemy"
+  },
+  {
+    "gle_Latn": "deoch",
+    "eng_Latn": "drink"
+  },
+  {
+    "gle_Latn": "tharlaíonn",
+    "eng_Latn": "occur"
+  },
+  {
+    "gle_Latn": "tacaíocht",
+    "eng_Latn": "support"
+  },
+  {
+    "gle_Latn": "urlabhra",
+    "eng_Latn": "speech"
+  },
+  {
+    "gle_Latn": "nádúr",
+    "eng_Latn": "nature"
+  },
+  {
+    "gle_Latn": "raon",
+    "eng_Latn": "range"
+  },
+  {
+    "gle_Latn": "gaile",
+    "eng_Latn": "steam"
+  },
+  {
+    "gle_Latn": "cosán",
+    "eng_Latn": "path"
+  },
+  {
+    "gle_Latn": "leacht",
+    "eng_Latn": "liquid"
+  },
+  {
+    "gle_Latn": "logáil isteach",
+    "eng_Latn": "log"
+  },
+  {
+    "gle_Latn": "i gceist",
+    "eng_Latn": "meant"
+  },
+  {
+    "gle_Latn": "chomhrann",
+    "eng_Latn": "quotient"
+  },
+  {
+    "gle_Latn": "fiacla",
+    "eng_Latn": "teeth"
+  },
+  {
+    "gle_Latn": "bhlaosc",
+    "eng_Latn": "shell"
+  },
+  {
+    "gle_Latn": "muineál",
+    "eng_Latn": "neck"
+  },
+  {
+    "gle_Latn": "ocsaigin",
+    "eng_Latn": "oxygen"
+  },
+  {
+    "gle_Latn": "siúcra",
+    "eng_Latn": "sugar"
+  },
+  {
+    "gle_Latn": "deas",
+    "eng_Latn": "pretty"
+  },
+  {
+    "gle_Latn": "scil",
+    "eng_Latn": "skill"
+  },
+  {
+    "gle_Latn": "mná",
+    "eng_Latn": "women"
+  },
+  {
+    "gle_Latn": "séasúr",
+    "eng_Latn": "season"
+  },
+  {
+    "gle_Latn": "maighnéad",
+    "eng_Latn": "magnet"
+  },
+  {
+    "gle_Latn": "airgid",
+    "eng_Latn": "silver"
+  },
+  {
+    "gle_Latn": "go raibh maith",
+    "eng_Latn": "thank"
+  },
+  {
+    "gle_Latn": "brainse",
+    "eng_Latn": "branch"
+  },
+  {
+    "gle_Latn": "iarmhír",
+    "eng_Latn": "suffix"
+  },
+  {
+    "gle_Latn": "go háirithe",
+    "eng_Latn": "especially"
+  },
+  {
+    "gle_Latn": "fige",
+    "eng_Latn": "fig"
+  },
+  {
+    "gle_Latn": "ollmhór",
+    "eng_Latn": "huge"
+  },
+  {
+    "gle_Latn": "deirfiúr",
+    "eng_Latn": "sister"
+  },
+  {
+    "gle_Latn": "cruach",
+    "eng_Latn": "steel"
+  },
+  {
+    "gle_Latn": "plé a dhéanamh ar",
+    "eng_Latn": "discuss"
+  },
+  {
+    "gle_Latn": "ar aghaidh",
+    "eng_Latn": "forward"
+  },
+  {
+    "gle_Latn": "den chineál céanna",
+    "eng_Latn": "similar"
+  },
+  {
+    "gle_Latn": "treoir",
+    "eng_Latn": "guide"
+  },
+  {
+    "gle_Latn": "taithí",
+    "eng_Latn": "experience"
+  },
+  {
+    "gle_Latn": "scór",
+    "eng_Latn": "score"
+  },
+  {
+    "gle_Latn": "úll",
+    "eng_Latn": "apple"
+  },
+  {
+    "gle_Latn": "cheannaigh",
+    "eng_Latn": "bought"
+  },
+  {
+    "gle_Latn": "faoi stiúir",
+    "eng_Latn": "led"
+  },
+  {
+    "gle_Latn": "tuinairde",
+    "eng_Latn": "pitch"
+  },
+  {
+    "gle_Latn": "cóta",
+    "eng_Latn": "coat"
+  },
+  {
+    "gle_Latn": "mais",
+    "eng_Latn": "mass"
+  },
+  {
+    "gle_Latn": "cárta",
+    "eng_Latn": "card"
+  },
+  {
+    "gle_Latn": "banna",
+    "eng_Latn": "band"
+  },
+  {
+    "gle_Latn": "téad",
+    "eng_Latn": "rope"
+  },
+  {
+    "gle_Latn": "duillín",
+    "eng_Latn": "slip"
+  },
+  {
+    "gle_Latn": "bhuachan",
+    "eng_Latn": "win"
+  },
+  {
+    "gle_Latn": "tráthnóna",
+    "eng_Latn": "evening"
+  },
+  {
+    "gle_Latn": "coinníoll",
+    "eng_Latn": "condition"
+  },
+  {
+    "gle_Latn": "beatha",
+    "eng_Latn": "feed"
+  },
+  {
+    "gle_Latn": "uirlis",
+    "eng_Latn": "tool"
+  },
+  {
+    "gle_Latn": "iomlán",
+    "eng_Latn": "total"
+  },
+  {
+    "gle_Latn": "bunúsach",
+    "eng_Latn": "basic"
+  },
+  {
+    "gle_Latn": "boladh",
+    "eng_Latn": "smell"
+  },
+  {
+    "gle_Latn": "gleann",
+    "eng_Latn": "valley"
+  },
+  {
+    "gle_Latn": "dúbailte",
+    "eng_Latn": "double"
+  },
+  {
+    "gle_Latn": "suíochán",
+    "eng_Latn": "seat"
+  },
+  {
+    "gle_Latn": "leanúint ar aghaidh",
+    "eng_Latn": "continue"
+  },
+  {
+    "gle_Latn": "chairt",
+    "eng_Latn": "chart"
+  },
+  {
+    "gle_Latn": "hata",
+    "eng_Latn": "hat"
+  },
+  {
+    "gle_Latn": "dhíol",
+    "eng_Latn": "sell"
+  },
+  {
+    "gle_Latn": "cuideachta",
+    "eng_Latn": "company"
+  },
+  {
+    "gle_Latn": "dealaigh",
+    "eng_Latn": "subtract"
+  },
+  {
+    "gle_Latn": "imeacht",
+    "eng_Latn": "event"
+  },
+  {
+    "gle_Latn": "ar leith",
+    "eng_Latn": "particular"
+  },
+  {
+    "gle_Latn": "déileáil",
+    "eng_Latn": "deal"
+  },
+  {
+    "gle_Latn": "snámh",
+    "eng_Latn": "swim"
+  },
+  {
+    "gle_Latn": "téarma",
+    "eng_Latn": "term"
+  },
+  {
+    "gle_Latn": "os coinne",
+    "eng_Latn": "opposite"
+  },
+  {
+    "gle_Latn": "bean chéile",
+    "eng_Latn": "wife"
+  },
+  {
+    "gle_Latn": "bróg",
+    "eng_Latn": "shoe"
+  },
+  {
+    "gle_Latn": "ghualainn",
+    "eng_Latn": "shoulder"
+  },
+  {
+    "gle_Latn": "leathadh",
+    "eng_Latn": "spread"
+  },
+  {
+    "gle_Latn": "socrú a",
+    "eng_Latn": "arrange"
+  },
+  {
+    "gle_Latn": "campa",
+    "eng_Latn": "camp"
+  },
+  {
+    "gle_Latn": "chumadh",
+    "eng_Latn": "invent"
+  },
+  {
+    "gle_Latn": "cadás",
+    "eng_Latn": "cotton"
+  },
+  {
+    "gle_Latn": "rugadh",
+    "eng_Latn": "born"
+  },
+  {
+    "gle_Latn": "chinneadh",
+    "eng_Latn": "determine"
+  },
+  {
+    "gle_Latn": "leanna",
+    "eng_Latn": "quart"
+  },
+  {
+    "gle_Latn": "naoi",
+    "eng_Latn": "nine"
+  },
+  {
+    "gle_Latn": "trucail",
+    "eng_Latn": "truck"
+  },
+  {
+    "gle_Latn": "torann",
+    "eng_Latn": "noise"
+  },
+  {
+    "gle_Latn": "leibhéal",
+    "eng_Latn": "level"
+  },
+  {
+    "gle_Latn": "seans",
+    "eng_Latn": "chance"
+  },
+  {
+    "gle_Latn": "stráice",
+    "eng_Latn": "stretch"
+  },
+  {
+    "gle_Latn": "caith",
+    "eng_Latn": "throw"
+  },
+  {
+    "gle_Latn": "maoin",
+    "eng_Latn": "property"
+  },
+  {
+    "gle_Latn": "colún",
+    "eng_Latn": "column"
+  },
+  {
+    "gle_Latn": "móilín",
+    "eng_Latn": "molecule"
+  },
+  {
+    "gle_Latn": "mícheart",
+    "eng_Latn": "wrong"
+  },
+  {
+    "gle_Latn": "liath",
+    "eng_Latn": "gray"
+  },
+  {
+    "gle_Latn": "athuair",
+    "eng_Latn": "repeat"
+  },
+  {
+    "gle_Latn": "a cheangal ar",
+    "eng_Latn": "require"
+  },
+  {
+    "gle_Latn": "leathan",
+    "eng_Latn": "broad"
+  },
+  {
+    "gle_Latn": "ullmhú",
+    "eng_Latn": "prepare"
+  },
+  {
+    "gle_Latn": "salann",
+    "eng_Latn": "salt"
+  },
+  {
+    "gle_Latn": "srón",
+    "eng_Latn": "nose"
+  },
+  {
+    "gle_Latn": "iolra",
+    "eng_Latn": "plural"
+  },
+  {
+    "gle_Latn": "fearg",
+    "eng_Latn": "anger"
+  },
+  {
+    "gle_Latn": "éileamh",
+    "eng_Latn": "claim"
+  },
+  {
+    "gle_Latn": "mór-roinn",
+    "eng_Latn": "continent"
+  }
+]
